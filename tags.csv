@@ -26,7 +26,7 @@
 "document-durbanisme";896;0;896
 "open-data";883;11;894
 "mobilite";791;35;826
-"economie";726;47;773
+"economie";727;47;774
 "risque";770;2;772
 "localisation";737;21;758
 "reseaux-de-transport";729;1;730
@@ -34,12 +34,12 @@
 "geolocalisation";665;54;719
 "logement";671;25;696
 "ppr";682;1;683
-"hauts-de-france";673;6;679
+"hauts-de-france";674;6;680
 "boundaries";662;1;663
-"donnee-ouverte";658;2;660
+"donnee-ouverte";659;2;661
 "commune";598;52;650
 "amenagement-du-territoire";632;4;636
-"bretagne";571;46;617
+"bretagne";571;47;618
 "transports";605;11;616
 "eau";599;11;610
 "sport";542;67;609
@@ -47,9 +47,9 @@
 "territoire";594;9;603
 "alea-enjeux-inondation-amenagement-urbanisme-prescription-prevention-servitude-risque-multi-risque";596;0;596
 "alea-enjeux-inondation-amenageme";596;0;596
+"pas-de-calais";593;2;595
 "risques";594;0;594
-"pas-de-calais";592;2;594
-"nord";586;5;591
+"nord";587;5;592
 "patrimoine";573;12;585
 "insee";546;36;582
 "transportation";578;3;581
@@ -63,7 +63,7 @@
 "gouvernement";511;8;519
 "hydrographie";508;6;514
 "alea-enjeux-inondation-amenagement-urbanis";514;0;514
-"somme";506;2;508
+"somme";507;2;509
 "lot-et-garonne";498;1;499
 "finances";456;30;486
 "donnees-publiques";482;3;485
@@ -76,8 +76,8 @@
 "casq";451;0;451
 "ortho";449;0;449
 "photo";442;1;443
-"emploi";408;32;440
-"unites-administratives";435;1;436
+"emploi";409;32;441
+"unites-administratives";436;1;437
 "inland-waters";433;0;433
 "communes";350;77;427
 "ddt-54";426;0;426
@@ -86,12 +86,12 @@
 "1973";425;0;425
 "demographie";381;43;424
 "farming";424;0;424
-"oise";418;1;419
+"oise";419;1;420
 "agriculture";391;27;418
 "velo";369;47;416
 "opendata";376;38;414
 "sites-proteges";409;1;410
-"aisne";404;1;405
+"aisne";405;1;406
 "citoyennete-institution";404;0;404
 "adresse";389;9;398
 "dreal";398;0;398
@@ -132,10 +132,10 @@
 "pedologie";284;1;285
 "repartition-de-la-population-demographie";283;0;283
 "compte-administratif";280;2;282
+"covid19";114;166;280
 "parking";269;10;279
 "structure";278;1;279
 "carte";104;174;278
-"covid19";114;164;278
 "covid-19";95;180;275
 "energie";246;28;274
 "openstreetmap";214;58;272
@@ -191,12 +191,12 @@
 "imagery-base-maps-earth-cover";208;0;208
 "bibliotheque";198;9;207
 "temperature";204;3;207
+"entreprise";194;12;206
 "territoires";194;12;206
-"entreprise";193;12;205
 "metropole";195;10;205
 "occupation-du-sol";191;14;205
 "2012";191;12;203
-"commerce";176;25;201
+"commerce";177;25;202
 "normandie";200;1;201
 "seine-saint-denis";195;3;198
 "risques-naturels";195;1;196
@@ -211,10 +211,10 @@
 "location";178;7;185
 "ain";182;3;185
 "base-adresse-locale";184;0;184
+"covid";61;122;183
 "business";182;0;182
 "habitat";178;3;181
 "pme";180;1;181
-"covid";61;120;181
 "enfance";178;2;180
 "oceans";177;3;180
 "coronavirus";75;105;180
@@ -233,7 +233,7 @@
 "arrets";174;1;175
 "servitude";170;5;175
 "association";153;20;173
-"industrie";169;3;172
+"industrie";170;3;173
 "voie";172;0;172
 "decp";170;1;171
 "eau-de-surface";167;2;169
@@ -275,9 +275,9 @@
 "mesures";143;0;143
 "planification";142;1;143
 "deces";97;44;141
+"departements";98;43;141
 "marches-publics";127;14;141
 "deplacements-transports";139;2;141
-"departements";98;42;140
 "pm10";140;0;140
 "cinema";109;30;139
 "nature";138;1;139
@@ -373,11 +373,11 @@
 "randonnee";113;4;117
 "archives";111;5;116
 "ppri";116;0;116
+"regions";94;22;116
 "departement-du-bas-rhin-67";116;0;116
 "concentration-de-polluant";116;0;116
 "etranger";113;2;115
 "participation";112;3;115
-"regions";94;21;115
 "enfant";112;2;114
 "exposition";111;2;113
 "marche";109;4;113
@@ -1173,6 +1173,7 @@
 "asile";35;1;36
 "autobus";33;3;36
 "caracteristiques-geographiques-meteorologiques";33;3;36
+"cci";32;4;36
 "concert";34;2;36
 "conchyliculture";34;2;36
 "démographie";17;19;36
@@ -1200,7 +1201,6 @@
 "archeologie";30;5;35
 "assemblee";29;6;35
 "bureaux de vote";35;0;35
-"cci";31;4;35
 "centre";32;3;35
 "contour";32;3;35
 "crue";34;1;35
@@ -1496,6 +1496,7 @@
 "totems";28;0;28
 "donnees-regionales-de-reference";28;0;28
 "pandemie";19;9;28
+"chambre-de-commerce-et-d-industrie";28;0;28
 "aep";27;0;27
 "aire";27;0;27
 "aires";27;0;27
@@ -1541,7 +1542,6 @@
 "jaune-budgetaire";27;0;27
 "dfa";27;0;27
 "toolbox";27;0;27
-"chambre-de-commerce-et-d-industrie";27;0;27
 "agriculteur";27;0;27
 "action-publique";25;1;26
 "bateau";25;1;26
@@ -1873,6 +1873,7 @@
 "donnees-quantitatives";21;0;21
 "amenagement-du-territoires";0;21;21
 "aleop";21;0;21
+"sars-cov-2";7;14;21
 "virus";6;15;21
 "economie-du-sport";21;0;21
 "action";20;0;20
@@ -2036,7 +2037,6 @@
 "lfi-2014";19;0;19
 "adressage";19;0;19
 "corona";12;7;19
-"sars-cov-2";7;12;19
 "coronavirusfrance";1;18;19
 "accessibilité";15;3;18
 "actif";18;0;18
@@ -2258,6 +2258,7 @@
 "francais";11;5;16
 "garderie";16;0;16
 "geocodage";7;9;16
+"incidence";5;11;16
 "innondation";16;0;16
 "legale";16;0;16
 "macroeconomiques";16;0;16
@@ -2521,7 +2522,6 @@
 "géolocalisé";2;12;14
 "image";14;0;14
 "images";14;0;14
-"incidence";5;9;14
 "jusqu";14;0;14
 "liees";14;0;14
 "listes";13;1;14
@@ -7276,6 +7276,7 @@
 "bassin-dorage";4;0;4
 "appels-doffre";3;1;4
 "secteurs-dactivite";4;0;4
+"tranche-dage";3;1;4
 "type-de-menage";4;0;4
 "hautes-alpes";3;1;4
 "encombrant";4;0;4
@@ -9067,6 +9068,7 @@
 "affaires-internationales";2;1;3
 "client-fragile";3;0;3
 "isr";3;0;3
+"tranche-dages";1;2;3
 "dpo";1;2;3
 "assemblee-de-corse";3;0;3
 "awala-yalimapo";3;0;3
@@ -9134,7 +9136,6 @@
 "ariege";2;1;3
 "montgeon";3;0;3
 "mycologie";3;0;3
-"tranche-dage";3;0;3
 "cotes-darmor";1;2;3
 "hautes-pyrenees";2;1;3
 "val-doise";1;2;3
@@ -14035,6 +14036,7 @@
 "viticulteur";2;0;2
 "devizunews";0;2;2
 "extremas";2;0;2
+"rendez-vous-vaccination";0;2;2
 "activite-reduite";2;0;2
 "protection-donnees";2;0;2
 "112";1;0;1
@@ -22440,7 +22442,6 @@
 "rbe";1;0;1
 "resultat-net";1;0;1
 "teq";1;0;1
-"tranche-dages";1;0;1
 "sied70";1;0;1
 "hotpost";0;1;1
 "surfer";0;1;1
