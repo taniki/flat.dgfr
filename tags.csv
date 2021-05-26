@@ -26,7 +26,7 @@
 "document-durbanisme";896;0;896
 "open-data";883;11;894
 "mobilite";791;35;826
-"economie";727;47;774
+"economie";728;47;775
 "risque";770;2;772
 "localisation";737;21;758
 "reseaux-de-transport";729;1;730
@@ -34,9 +34,9 @@
 "geolocalisation";665;54;719
 "logement";671;25;696
 "ppr";682;1;683
-"hauts-de-france";674;6;680
+"hauts-de-france";675;6;681
 "boundaries";662;1;663
-"donnee-ouverte";659;2;661
+"donnee-ouverte";660;2;662
 "commune";598;52;650
 "amenagement-du-territoire";632;4;636
 "bretagne";571;47;618
@@ -47,9 +47,9 @@
 "territoire";594;9;603
 "alea-enjeux-inondation-amenagement-urbanisme-prescription-prevention-servitude-risque-multi-risque";596;0;596
 "alea-enjeux-inondation-amenageme";596;0;596
-"pas-de-calais";593;2;595
+"pas-de-calais";594;2;596
 "risques";594;0;594
-"nord";587;5;592
+"nord";588;5;593
 "patrimoine";573;12;585
 "insee";546;36;582
 "transportation";578;3;581
@@ -63,7 +63,7 @@
 "gouvernement";511;8;519
 "hydrographie";508;6;514
 "alea-enjeux-inondation-amenagement-urbanis";514;0;514
-"somme";507;2;509
+"somme";508;2;510
 "lot-et-garonne";498;1;499
 "finances";456;30;486
 "donnees-publiques";482;3;485
@@ -76,8 +76,8 @@
 "casq";451;0;451
 "ortho";449;0;449
 "photo";442;1;443
-"emploi";409;32;441
-"unites-administratives";436;1;437
+"emploi";410;32;442
+"unites-administratives";437;1;438
 "inland-waters";433;0;433
 "communes";350;77;427
 "ddt-54";426;0;426
@@ -86,12 +86,12 @@
 "1973";425;0;425
 "demographie";381;43;424
 "farming";424;0;424
-"oise";419;1;420
+"oise";420;1;421
 "agriculture";391;27;418
 "velo";369;47;416
 "opendata";376;38;414
 "sites-proteges";409;1;410
-"aisne";405;1;406
+"aisne";406;1;407
 "citoyennete-institution";404;0;404
 "adresse";389;9;398
 "dreal";398;0;398
@@ -132,7 +132,7 @@
 "pedologie";284;1;285
 "repartition-de-la-population-demographie";283;0;283
 "compte-administratif";280;2;282
-"covid19";114;166;280
+"covid19";114;167;281
 "parking";269;10;279
 "structure";278;1;279
 "carte";104;174;278
@@ -190,13 +190,13 @@
 "entreprises";185;23;208
 "imagery-base-maps-earth-cover";208;0;208
 "bibliotheque";198;9;207
+"entreprise";195;12;207
 "temperature";204;3;207
-"entreprise";194;12;206
 "territoires";194;12;206
 "metropole";195;10;205
 "occupation-du-sol";191;14;205
 "2012";191;12;203
-"commerce";177;25;202
+"commerce";178;25;203
 "normandie";200;1;201
 "seine-saint-denis";195;3;198
 "risques-naturels";195;1;196
@@ -232,8 +232,8 @@
 "limousin";176;0;176
 "arrets";174;1;175
 "servitude";170;5;175
+"industrie";171;3;174
 "association";153;20;173
-"industrie";170;3;173
 "voie";172;0;172
 "decp";170;1;171
 "eau-de-surface";167;2;169
@@ -1146,6 +1146,7 @@
 "visites";38;0;38
 "ddt-haute-loire";38;0;38
 "donnees-environnementales";38;0;38
+"cci";33;4;37
 "collectivite-territoriale";34;3;37
 "degustation";37;0;37
 "europeennes";37;0;37
@@ -1173,7 +1174,6 @@
 "asile";35;1;36
 "autobus";33;3;36
 "caracteristiques-geographiques-meteorologiques";33;3;36
-"cci";32;4;36
 "concert";34;2;36
 "conchyliculture";34;2;36
 "démographie";17;19;36
@@ -1280,6 +1280,7 @@
 "gestion-de-leau";33;0;33
 "chiffres-cles-de-limmigration";33;0;33
 "limite-territoriale";33;0;33
+"coronavius";11;22;33
 "acte";31;1;32
 "actualites";26;6;32
 "balance";32;0;32
@@ -1313,7 +1314,6 @@
 "proteagineux";32;0;32
 "autorisations-dengagement";32;0;32
 "plf-2014";31;1;32
-"coronavius";11;21;32
 "observatoire-economique";32;0;32
 "autorisation";31;0;31
 "bicyclette";27;4;31
@@ -1443,6 +1443,7 @@
 "arret-urbain";29;0;29
 "menagers";29;0;29
 "partagee";29;0;29
+"chambre-de-commerce-et-d-industrie";29;0;29
 "2007";27;1;28
 "achat";24;4;28
 "autoroutes";12;16;28
@@ -1496,7 +1497,6 @@
 "totems";28;0;28
 "donnees-regionales-de-reference";28;0;28
 "pandemie";19;9;28
-"chambre-de-commerce-et-d-industrie";28;0;28
 "aep";27;0;27
 "aire";27;0;27
 "aires";27;0;27
