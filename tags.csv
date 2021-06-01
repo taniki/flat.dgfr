@@ -1215,6 +1215,7 @@
 "voisinage";35;0;35
 "zonages-risque-technologique";35;0;35
 "agriculture-biologique";31;4;35
+"carte-interactive";0;35;35
 "rip";34;1;35
 "dvf";8;27;35
 "affichage";33;1;34
@@ -1238,7 +1239,6 @@
 "libourne";34;0;34
 "eaux-cotieres-eaux-maritimes";34;0;34
 "mission-sig";34;0;34
-"carte-interactive";0;34;34
 "tcd";34;0;34
 "services-dutilite-publique";34;0;34
 "education-formation";34;0;34
@@ -10416,6 +10416,7 @@
 "pjl";2;0;2
 "plan-agroenvironnemental";2;0;2
 "planningcadastre";1;1;2
+"plein";1;1;2
 "plus-nace";2;0;2
 "poids";2;0;2
 "points d intéret";1;1;2
@@ -14020,6 +14021,7 @@
 "deploiement-5g";0;2;2
 "auto-tests";2;0;2
 "autotests";2;0;2
+"carburant-pas-cher";0;2;2
 "physico-chimique";2;0;2
 "actif-agricole";2;0;2
 "aldudes";2;0;2
@@ -15735,7 +15737,6 @@
 "plantations à réaliser";1;0;1
 "plantee";1;0;1
 "plate-forme";1;0;1
-"plein";1;0;1
 "plein air";1;0;1
 "pm1";1;0;1
 "pm2";1;0;1
