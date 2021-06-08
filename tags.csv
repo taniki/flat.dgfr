@@ -26,16 +26,16 @@
 "document-durbanisme";896;0;896
 "open-data";883;11;894
 "mobilite";795;35;830
-"economie";745;47;792
+"economie";746;47;793
 "risque";770;2;772
 "localisation";743;21;764
 "reseaux-de-transport";736;1;737
 "elections";644;81;725
 "geolocalisation";665;54;719
 "logement";675;25;700
-"hauts-de-france";685;6;691
+"hauts-de-france";686;6;692
 "ppr";682;1;683
-"donnee-ouverte";670;2;672
+"donnee-ouverte";671;2;673
 "boundaries";661;1;662
 "commune";599;52;651
 "amenagement-du-territoire";636;4;640
@@ -44,8 +44,8 @@
 "eau";602;11;613
 "sport";546;67;613
 "sante";528;82;610
-"pas-de-calais";604;2;606
-"nord";598;5;603
+"pas-de-calais";605;2;607
+"nord";599;5;604
 "territoire";593;9;602
 "alea-enjeux-inondation-amenagement-urbanisme-prescription-prevention-servitude-risque-multi-risque";596;0;596
 "alea-enjeux-inondation-amenageme";596;0;596
@@ -61,7 +61,7 @@
 "batiments";525;5;530
 "gouvernement";518;8;526
 "population";465;59;524
-"somme";518;2;520
+"somme";519;2;521
 "hydrographie";508;6;514
 "alea-enjeux-inondation-amenagement-urbanis";514;0;514
 "donnees-publiques";498;3;501
@@ -73,15 +73,15 @@
 "occupation-des-terres";458;1;459
 "stationnement";451;8;459
 "zonages-risque-naturel";457;0;457
-"emploi";421;32;453
+"emploi";422;32;454
 "casq";451;0;451
 "ortho";449;0;449
-"unites-administratives";446;1;447
+"unites-administratives";447;1;448
 "photo";442;1;443
 "opendata";402;38;440
 "adresse";426;9;435
 "inland-waters";433;0;433
-"oise";430;1;431
+"oise";431;1;432
 "communes";351;77;428
 "ddt-54";426;0;426
 "prise-de-vue";426;0;426
@@ -91,7 +91,7 @@
 "farming";424;0;424
 "agriculture";392;27;419
 "velo";371;47;418
-"aisne";416;1;417
+"aisne";417;1;418
 "sites-proteges";409;1;410
 "citoyennete-institution";408;0;408
 "dreal";398;0;398
@@ -116,7 +116,7 @@
 "gtfs";308;9;317
 "nuisance-bruit";317;0;317
 "finance";309;2;311
-"departement";242;65;307
+"departement";242;66;308
 "pollution";295;11;306
 "voirie";296;10;306
 "circulation";282;23;305
@@ -135,9 +135,9 @@
 "compte-administratif";280;2;282
 "parking";271;10;281
 "structure";279;1;280
-"carte";104;174;278
+"carte";104;175;279
+"covid-19";95;181;276
 "energie";247;28;275
-"covid-19";95;180;275
 "loisirs";264;8;272
 "openstreetmap";214;58;272
 "air";269;2;271
@@ -175,12 +175,12 @@
 "base-adresse-locale";223;0;223
 "meteo";208;13;221
 "intercommunalite";217;3;220
+"entreprise";207;12;219
 "tri";214;5;219
-"entreprise";206;12;218
+"commerce";192;25;217
 "ecole";205;12;217
 "geomorphologie";217;0;217
 "adresses";208;8;216
-"commerce";191;25;216
 "economy";214;1;215
 "gironde";213;2;215
 "pprt";215;0;215
@@ -207,8 +207,8 @@
 "ecologie";178;11;189
 "enseignement-superieur";160;29;189
 "poitou-charentes";189;0;189
+"industrie";184;3;187
 "covid";61;126;187
-"industrie";183;3;186
 "eau-zonages-eau";186;0;186
 "landes-40";186;0;186
 "location";178;7;185
@@ -568,6 +568,7 @@
 "frontière";76;0;76
 "heures";76;0;76
 "pav";73;3;76
+"protection";71;5;76
 "urbanisme-logement";76;0;76
 "communaute-urbaine";76;0;76
 "admission-au-sejour";76;0;76
@@ -579,7 +580,6 @@
 "cereales";74;1;75
 "horaire";67;8;75
 "paysage";74;1;75
-"protection";71;4;75
 "topographie";72;3;75
 "alimentation";41;33;74
 "apprentissage";73;1;74
@@ -669,6 +669,7 @@
 "gps";59;5;64
 "immigration-irreguliere";64;0;64
 "riviere";59;5;64
+"vaccination";26;38;64
 "élection";57;7;64
 "sources-denergie";64;0;64
 "morts-pour-la-france";2;62;64
@@ -679,7 +680,6 @@
 "hopital";45;18;63
 "produit";57;6;63
 "universites";59;4;63
-"vaccination";26;37;63
 "calvados";62;1;63
 "siren";52;11;63
 "atc";63;0;63
@@ -903,6 +903,7 @@
 "rogerville";49;0;49
 "sainte";49;0;49
 "cantonales";46;2;48
+"cci";44;4;48
 "circonscription";44;4;48
 "denominations-geographiques";48;0;48
 "diplome";46;2;48
@@ -925,7 +926,6 @@
 "gtfs-rt";47;1;48
 "adressage";48;0;48
 "licence-odbl";48;0;48
-"cci";43;4;47
 "election-locale";46;1;47
 "hydrogeologie";47;0;47
 "lecture";41;6;47
@@ -1099,6 +1099,7 @@
 "monoxyde-de-carbone";40;0;40
 "temps-theorique";40;0;40
 "prevention-des-inondations";40;0;40
+"chambre-de-commerce-et-d-industrie";40;0;40
 "analyse";14;25;39
 "aop";27;12;39
 "bois";37;2;39
@@ -1130,7 +1131,6 @@
 "indicateur-de-vulnerabilite";39;0;39
 "vulnerabilite-aux-inondations";39;0;39
 "vulnerabilite-et-resilience";39;0;39
-"chambre-de-commerce-et-d-industrie";39;0;39
 "achat-public";37;1;38
 "autocar";34;4;38
 "canal";38;0;38
@@ -1201,6 +1201,7 @@
 "autorites-publiques-sinp";36;0;36
 "gestion-de-crise";36;0;36
 "territoires-et-transports";36;0;36
+"carte-interactive";0;36;36
 "bca";36;0;36
 "draaf-na";36;0;36
 "dgtm";36;0;36
@@ -1221,7 +1222,6 @@
 "voisinage";35;0;35
 "zonages-risque-technologique";35;0;35
 "agriculture-biologique";31;4;35
-"carte-interactive";0;35;35
 "rip";34;1;35
 "dvf";8;27;35
 "ramassage-scolaire";35;0;35
