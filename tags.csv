@@ -26,16 +26,16 @@
 "document-durbanisme";896;0;896
 "open-data";883;11;894
 "mobilite";796;36;832
-"economie";752;47;799
+"economie";753;47;800
 "risque";770;2;772
 "localisation";743;22;765
 "reseaux-de-transport";736;1;737
 "elections";648;81;729
 "geolocalisation";665;54;719
 "logement";676;25;701
-"hauts-de-france";691;6;697
+"hauts-de-france";692;6;698
 "ppr";682;1;683
-"donnee-ouverte";677;2;679
+"donnee-ouverte";678;2;680
 "boundaries";661;1;662
 "commune";602;52;654
 "amenagement-du-territoire";638;4;642
@@ -43,9 +43,9 @@
 "bretagne";571;50;621
 "eau";602;11;613
 "sport";546;67;613
-"pas-de-calais";610;2;612
+"pas-de-calais";611;2;613
 "sante";529;82;611
-"nord";604;5;609
+"nord";605;5;610
 "territoire";596;9;605
 "alea-enjeux-inondation-amenagement-urbanisme-prescription-prevention-servitude-risque-multi-risque";596;0;596
 "alea-enjeux-inondation-amenageme";596;0;596
@@ -60,7 +60,7 @@
 "risque-inondation";542;0;542
 "gouvernement";530;8;538
 "batiments";526;5;531
-"somme";524;2;526
+"somme";525;2;527
 "population";465;59;524
 "hydrographie";508;6;514
 "alea-enjeux-inondation-amenagement-urbanis";514;0;514
@@ -69,18 +69,18 @@
 "finances";457;30;487
 "bus";460;14;474
 "orthophotographie";463;2;465
+"emploi";432;32;464
 "rhone-alpes";462;2;464
-"emploi";431;32;463
 "stationnement";453;8;461
 "occupation-des-terres";458;1;459
 "zonages-risque-naturel";457;0;457
-"unites-administratives";452;1;453
+"unites-administratives";453;1;454
 "casq";451;0;451
 "ortho";449;0;449
 "photo";442;1;443
 "opendata";402;38;440
+"oise";437;1;438
 "adresse";428;9;437
-"oise";436;1;437
 "inland-waters";433;0;433
 "communes";351;77;428
 "ddt-54";426;0;426
@@ -89,8 +89,8 @@
 "demographie";382;43;425
 "1973";425;0;425
 "farming";424;0;424
-"aisne";422;1;423
-"agriculture";393;27;420
+"aisne";423;1;424
+"agriculture";393;26;419
 "velo";371;47;418
 "sites-proteges";409;1;410
 "citoyennete-institution";410;0;410
@@ -170,11 +170,11 @@
 "budget-primitif";225;1;226
 "immigration";220;6;226
 "base-adresse-locale";226;0;226
+"entreprise";213;12;225
 "directive-inondation";225;0;225
 "consommation";201;23;224
-"entreprise";212;12;224
 "subventions";207;17;224
-"commerce";197;25;222
+"commerce";198;25;223
 "meteo";208;13;221
 "intercommunalite";217;3;220
 "tri";214;5;219
@@ -202,7 +202,7 @@
 "seine-saint-denis";195;3;198
 "risques-naturels";195;1;196
 "irve";185;9;194
-"industrie";189;3;192
+"industrie";190;3;193
 "dreal-bfc";192;0;192
 "cadastre";167;24;191
 "ecologie";178;11;189
@@ -467,12 +467,12 @@
 "silc";92;3;95
 "granulats-marins";95;0;95
 "etat-du-milieu-habitats";95;0;95
+"osm";58;36;94
 "prix";72;22;94
 "scolaire";92;2;94
 "sup";91;3;94
 "entrée en france";93;0;93
 "mediatheque";90;3;93
-"osm";57;36;93
 "recettes";84;9;93
 "primitif";93;0;93
 "commande-publique";84;9;93
@@ -515,7 +515,6 @@
 "construction";82;2;84
 "gaz";80;4;84
 "ozone";84;0;84
-"politique-agricole-commune";77;7;84
 "qualite";81;3;84
 "musees";65;19;84
 "bd-carthage";84;0;84
@@ -525,6 +524,7 @@
 "information";79;4;83
 "naissance";69;14;83
 "parcelles-cadastrales";78;5;83
+"politique-agricole-commune";77;6;83
 "bordeaux";75;7;82
 "flux";81;1;82
 "loisir";79;3;82
@@ -799,6 +799,7 @@
 "saint-quentin";54;1;55
 "arbre";49;5;54
 "base";53;1;54
+"cci";50;4;54
 "chiffre";54;0;54
 "cimetiere";53;1;54
 "collectivites-locales";49;5;54
@@ -815,7 +816,6 @@
 "adresses-postales";54;0;54
 "sraddet";54;0;54
 "architecture";49;4;53
-"cci";49;4;53
 "covoiturage";46;7;53
 "elevation";52;1;53
 "formations";48;5;53
@@ -962,6 +962,7 @@
 "netex";45;1;46
 "chalons-agglo";46;0;46
 "epidemie";23;23;46
+"chambre-de-commerce-et-d-industrie";46;0;46
 "ame";45;0;45
 "aménagement du territoire";45;0;45
 "bureau";43;2;45
@@ -986,7 +987,6 @@
 "centre-de-retention-administrati";45;0;45
 "urbanisme-et-logements";45;0;45
 "sd";45;0;45
-"chambre-de-commerce-et-d-industrie";45;0;45
 "ajoutee";44;0;44
 "archive";42;2;44
 "centre de rétention administrative";44;0;44
@@ -1223,7 +1223,6 @@
 "vie-associative";34;1;35
 "voisinage";35;0;35
 "zonages-risque-technologique";35;0;35
-"agriculture-biologique";31;4;35
 "rip";34;1;35
 "dvf";8;27;35
 "ramassage-scolaire";35;0;35
@@ -1247,6 +1246,7 @@
 "libourne";34;0;34
 "eaux-cotieres-eaux-maritimes";34;0;34
 "mission-sig";34;0;34
+"agriculture-biologique";31;3;34
 "tcd";34;0;34
 "services-dutilite-publique";34;0;34
 "education-formation";34;0;34
@@ -2085,7 +2085,6 @@
 "nitrates";17;1;18
 "operateur";14;4;18
 "orthophotoplan";17;1;18
-"pac";16;2;18
 "pacs";16;2;18
 "paje";17;1;18
 "personnels";18;0;18
@@ -2168,6 +2167,7 @@
 "municipal";17;0;17
 "offre";17;0;17
 "ouverture";17;0;17
+"pac";16;1;17
 "parc-naturel-regional";16;1;17
 "pensions";17;0;17
 "personne-agee";17;0;17
@@ -4048,6 +4048,7 @@
 "autorite-environnementale";8;0;8
 "n-2000";8;0;8
 "haut-rhin";7;1;8
+"qgis";3;5;8
 "pepiniere";8;0;8
 "dordogne";7;1;8
 "transports-deplacements-trafic";8;0;8
@@ -4512,7 +4513,6 @@
 "bergerac";7;0;7
 "logement-vacant";5;2;7
 "perigueux";6;1;7
-"qgis";2;5;7
 "culture-de-champ";7;0;7
 "ablaincourt-pressoir";7;0;7
 "assevillers";7;0;7
