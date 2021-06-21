@@ -26,23 +26,23 @@
 "document-durbanisme";896;0;896
 "open-data";883;11;894
 "mobilite";804;36;840
-"economie";759;47;806
+"economie";760;47;807
 "risque";770;2;772
 "localisation";743;22;765
 "reseaux-de-transport";736;1;737
 "elections";648;82;730
 "geolocalisation";665;54;719
-"hauts-de-france";698;6;704
+"hauts-de-france";699;6;705
 "logement";672;25;697
-"donnee-ouverte";684;2;686
+"donnee-ouverte";685;2;687
 "ppr";682;1;683
 "boundaries";661;1;662
 "commune";606;52;658
 "amenagement-du-territoire";634;4;638
 "transports";619;11;630
 "bretagne";571;50;621
-"pas-de-calais";617;2;619
-"nord";611;5;616
+"pas-de-calais";618;2;620
+"nord";612;5;617
 "eau";602;11;613
 "sport";546;67;613
 "sante";530;82;612
@@ -58,7 +58,7 @@
 "election";518;30;548
 "equipements";529;18;547
 "risque-inondation";542;0;542
-"somme";531;2;533
+"somme";532;2;534
 "gouvernement";521;8;529
 "batiments";523;5;528
 "population";466;59;525
@@ -68,21 +68,21 @@
 "lot-et-garonne";498;1;499
 "finances";456;30;486
 "bus";462;14;476
-"emploi";439;32;471
+"emploi";440;32;472
 "orthophotographie";464;2;466
 "stationnement";457;8;465
 "rhone-alpes";462;2;464
-"unites-administratives";459;1;460
+"unites-administratives";460;1;461
 "occupation-des-terres";458;1;459
 "zonages-risque-naturel";457;0;457
 "casq";451;0;451
 "ortho";449;0;449
-"oise";443;1;444
+"oise";444;1;445
 "photo";442;1;443
 "opendata";402;38;440
 "adresse";430;9;439
 "inland-waters";433;0;433
-"aisne";429;1;430
+"aisne";430;1;431
 "communes";351;77;428
 "ddt-54";426;0;426
 "prise-de-vue";426;0;426
@@ -163,13 +163,13 @@
 "vote";233;10;243
 "zonage";224;12;236
 "aquitaine";211;23;234
+"entreprise";221;12;233
 "inondations";233;0;233
-"entreprise";220;12;232
 "route";227;5;232
 "base-adresse-locale";232;0;232
+"commerce";205;25;230
 "guyane";229;1;230
 "budget-de-letat";230;0;230
-"commerce";204;25;229
 "budget-primitif";225;1;226
 "consommation";203;23;226
 "immigration";220;6;226
@@ -199,7 +199,7 @@
 "territoires";194;12;206
 "2012";191;12;203
 "normandie";200;1;201
-"industrie";196;3;199
+"industrie";197;3;200
 "seine-saint-denis";195;3;198
 "risques-naturels";195;1;196
 "irve";184;9;193
@@ -705,6 +705,7 @@
 "autorisation de séjour";61;0;61
 "autorisation provisoire de séjour";61;0;61
 "carte de séjour";61;0;61
+"cci";57;4;61
 "eee";61;0;61
 "migration professionnelle";61;0;61
 "migration économique";61;0;61
@@ -724,7 +725,6 @@
 "affaires";59;1;60
 "animation";55;5;60
 "cantine";58;2;60
-"cci";56;4;60
 "comptes";55;5;60
 "elu";59;1;60
 "eolien";56;4;60
@@ -833,6 +833,7 @@
 "missions";53;0;53
 "zone-de-pollution-potentielle";53;0;53
 "equipement-public";52;1;53
+"chambre-de-commerce-et-d-industrie";53;0;53
 "metz métropole";52;0;52
 "parlement";43;9;52
 "peche";49;3;52
@@ -846,7 +847,6 @@
 "dataconnexions-6";1;51;52
 "confinement";27;25;52
 "marnes-la-coquette";52;0;52
-"chambre-de-commerce-et-d-industrie";52;0;52
 "balade";47;4;51
 "caf";49;2;51
 "csp";50;1;51
