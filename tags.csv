@@ -14,10 +14,10 @@
 "transport";1140;22;1162
 "france";1027;110;1137
 "pprn";1074;0;1074
-"citoyennete";1053;6;1059
-"administration";1035;12;1047
+"citoyennete";1059;6;1065
+"administration";1039;12;1051
 "urbanisme";1025;12;1037
-"finances-publiques";1002;5;1007
+"finances-publiques";1006;5;1011
 "budget";966;20;986
 "culture";936;41;977
 "tourisme";937;30;967
@@ -26,23 +26,23 @@
 "document-durbanisme";896;0;896
 "open-data";883;11;894
 "mobilite";804;36;840
-"economie";760;47;807
+"economie";761;47;808
 "risque";770;2;772
 "localisation";743;22;765
 "reseaux-de-transport";736;1;737
-"elections";648;82;730
+"elections";654;82;736
 "geolocalisation";665;54;719
-"hauts-de-france";699;6;705
+"hauts-de-france";700;6;706
 "logement";672;25;697
-"donnee-ouverte";685;2;687
+"donnee-ouverte";686;2;688
 "ppr";682;1;683
 "boundaries";661;1;662
 "commune";606;52;658
 "amenagement-du-territoire";634;4;638
 "transports";619;11;630
 "bretagne";571;50;621
-"pas-de-calais";618;2;620
-"nord";612;5;617
+"pas-de-calais";619;2;621
+"nord";613;5;618
 "eau";602;11;613
 "sport";546;67;613
 "sante";530;82;612
@@ -54,12 +54,12 @@
 "insee";546;36;582
 "transportation";578;3;581
 "education";515;46;561
+"election";530;30;560
 "deplacements";551;1;552
-"election";518;30;548
 "equipements";529;18;547
 "risque-inondation";542;0;542
-"somme";532;2;534
-"gouvernement";521;8;529
+"somme";533;2;535
+"gouvernement";525;8;533
 "batiments";523;5;528
 "population";466;59;525
 "hydrographie";508;6;514
@@ -68,31 +68,31 @@
 "lot-et-garonne";498;1;499
 "finances";456;30;486
 "bus";462;14;476
-"emploi";440;32;472
+"emploi";441;32;473
 "orthophotographie";464;2;466
 "stationnement";457;8;465
 "rhone-alpes";462;2;464
-"unites-administratives";460;1;461
+"unites-administratives";461;1;462
 "occupation-des-terres";458;1;459
 "zonages-risque-naturel";457;0;457
 "casq";451;0;451
 "ortho";449;0;449
-"oise";444;1;445
+"oise";445;1;446
 "photo";442;1;443
 "opendata";402;38;440
 "adresse";430;9;439
 "inland-waters";433;0;433
-"aisne";430;1;431
+"aisne";431;1;432
 "communes";351;77;428
 "ddt-54";426;0;426
 "prise-de-vue";426;0;426
+"citoyennete-institution";426;0;426
 "prise-de-vues";426;0;426
 "demographie";382;43;425
 "1973";425;0;425
 "farming";424;0;424
 "agriculture";394;26;420
 "velo";371;47;418
-"citoyennete-institution";414;0;414
 "sites-proteges";409;1;410
 "dreal";398;0;398
 "social";387;7;394
@@ -157,17 +157,17 @@
 "subvention";247;8;255
 "region";214;38;252
 "deliberation";248;0;248
+"vote";237;10;247
 "pos";243;1;244
 "developpement-economique";243;1;244
 "recensement";177;66;243
-"vote";233;10;243
 "zonage";224;12;236
 "aquitaine";211;23;234
-"entreprise";221;12;233
+"entreprise";222;12;234
 "inondations";233;0;233
 "route";227;5;232
 "base-adresse-locale";232;0;232
-"commerce";205;25;230
+"commerce";206;25;231
 "guyane";229;1;230
 "budget-de-letat";230;0;230
 "budget-primitif";225;1;226
@@ -198,8 +198,8 @@
 "metropole";196;10;206
 "territoires";194;12;206
 "2012";191;12;203
+"industrie";198;3;201
 "normandie";200;1;201
-"industrie";197;3;200
 "seine-saint-denis";195;3;198
 "risques-naturels";195;1;196
 "irve";184;9;193
@@ -390,9 +390,9 @@
 "directive-cadre-eau";112;0;112
 "histoire";104;8;112
 "martinique";111;1;112
+"municipales";77;35;112
 "activite";104;6;110
 "cadre-de-vie";109;1;110
-"municipales";75;35;110
 "ville";92;18;110
 "plan-de-prevention";109;0;109
 "metropole-manche-mer-du-nord";109;0;109
@@ -688,6 +688,7 @@
 "universites";59;4;63
 "siren";52;11;63
 "atc";63;0;63
+"cci";58;4;62
 "immigration familiale";62;0;62
 "insertion";57;5;62
 "livre";56;6;62
@@ -705,7 +706,6 @@
 "autorisation de séjour";61;0;61
 "autorisation provisoire de séjour";61;0;61
 "carte de séjour";61;0;61
-"cci";57;4;61
 "eee";61;0;61
 "migration professionnelle";61;0;61
 "migration économique";61;0;61
@@ -817,6 +817,7 @@
 "siret";43;11;54
 "adresses-postales";54;0;54
 "sraddet";54;0;54
+"chambre-de-commerce-et-d-industrie";54;0;54
 "preservation-terre-et-eau";54;0;54
 "architecture";49;4;53
 "elevation";52;1;53
@@ -833,7 +834,6 @@
 "missions";53;0;53
 "zone-de-pollution-potentielle";53;0;53
 "equipement-public";52;1;53
-"chambre-de-commerce-et-d-industrie";53;0;53
 "metz métropole";52;0;52
 "parlement";43;9;52
 "peche";49;3;52
@@ -1592,6 +1592,7 @@
 "elections-departementales";23;3;26
 "academies";26;0;26
 "enseignement-formation";26;0;26
+"referentiels-geographiques";26;0;26
 "metromobilite";25;1;26
 "crise";26;0;26
 "mairie-et-democratie";26;0;26
@@ -1644,7 +1645,6 @@
 "visualisation-de-donnees";0;25;25
 "cartotheque";25;0;25
 "points-de-comptage";25;0;25
-"referentiels-geographiques";25;0;25
 "cr-auvergne-rhone-alpes";25;0;25
 "comptage-routier";25;0;25
 "eaux-cotieres";25;0;25
@@ -2238,6 +2238,7 @@
 "urb";17;0;17
 "geographie-administrative";17;0;17
 "coherence-ecologique";17;0;17
+"2021";15;2;17
 "etat-du-milieu-geologie";17;0;17
 "hta";17;0;17
 "coronavirusupdates";0;17;17
@@ -2355,7 +2356,6 @@
 "200";16;0;16
 "denombrement";16;0;16
 "tableau-de-bord-regional";16;0;16
-"2021";14;2;16
 "surcotes";16;0;16
 "cnaf";16;0;16
 "cavem";16;0;16
