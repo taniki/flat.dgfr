@@ -26,22 +26,22 @@
 "open-data";883;13;896
 "document-durbanisme";896;0;896
 "mobilite";808;36;844
-"economie";774;47;821
+"economie";775;47;822
 "risque";770;2;772
 "localisation";747;22;769
 "elections";676;84;760
 "reseaux-de-transport";743;1;744
 "geolocalisation";665;54;719
-"hauts-de-france";712;6;718
-"donnee-ouverte";699;2;701
+"hauts-de-france";713;6;719
+"donnee-ouverte";700;2;702
 "logement";675;25;700
 "ppr";682;1;683
 "boundaries";661;1;662
 "commune";607;53;660
 "transports";644;11;655
 "amenagement-du-territoire";637;4;641
-"pas-de-calais";631;2;633
-"nord";625;5;630
+"pas-de-calais";632;2;634
+"nord";626;5;631
 "bretagne";570;50;620
 "sport";549;67;616
 "eau";604;11;615
@@ -58,7 +58,7 @@
 "gouvernement";553;8;561
 "deplacements";552;1;553
 "equipements";531;18;549
-"somme";545;2;547
+"somme";546;2;548
 "risque-inondation";542;0;542
 "batiments";526;5;531
 "population";468;59;527
@@ -67,18 +67,18 @@
 "alea-enjeux-inondation-amenagement-urbanis";514;0;514
 "finances";473;30;503
 "lot-et-garonne";498;1;499
-"emploi";453;32;485
+"emploi";454;32;486
 "bus";462;14;476
-"unites-administratives";473;1;474
+"unites-administratives";474;1;475
 "stationnement";461;8;469
 "orthophotographie";464;2;466
 "rhone-alpes";462;2;464
 "occupation-des-terres";458;1;459
-"oise";457;1;458
+"oise";458;1;459
 "zonages-risque-naturel";457;0;457
 "casq";451;0;451
 "ortho";449;0;449
-"aisne";443;1;444
+"aisne";444;1;445
 "photo";442;1;443
 "opendata";402;40;442
 "adresse";431;9;440
@@ -158,8 +158,8 @@
 "subvention";249;8;257
 "risque-zonages-risque-technologi";256;0;256
 "deliberation";248;0;248
-"entreprise";235;12;247
-"commerce";220;25;245
+"entreprise";236;12;248
+"commerce";221;25;246
 "recensement";179;66;245
 "base-adresse-locale";245;0;245
 "pos";243;1;244
@@ -183,8 +183,8 @@
 "geomorphologie";217;0;217
 "economy";214;1;215
 "gironde";213;2;215
+"industrie";212;3;215
 "pprt";215;0;215
-"industrie";211;3;214
 "pays-de-la-loire";213;1;214
 "2019";209;4;213
 "transport-collectif";210;2;212
@@ -578,6 +578,7 @@
 "admission au séjour";75;0;75
 "arbres";71;4;75
 "arts";71;4;75
+"cci";71;4;75
 "cereales";74;1;75
 "horaire";67;8;75
 "paysage";74;1;75
@@ -587,7 +588,6 @@
 "surveillance";64;11;75
 "topographie";72;3;75
 "impact-sur-lenvironnement";73;2;75
-"cci";70;4;74
 "colleges";70;4;74
 "erosion";74;0;74
 "evenements";69;5;74
@@ -663,6 +663,7 @@
 "audeg";67;0;67
 "glissement-de-terrain";67;0;67
 "education-formation-jeunesse";67;0;67
+"chambre-de-commerce-et-d-industrie";67;0;67
 "etudiant";59;7;66
 "etudiants";56;10;66
 "manche";65;1;66
@@ -670,7 +671,6 @@
 "vls";66;0;66
 "tarn";65;1;66
 "eau-superficielle";66;0;66
-"chambre-de-commerce-et-d-industrie";66;0;66
 "bilan";65;0;65
 "parcellaire-agricole";65;0;65
 "soldats";5;60;65
@@ -1046,6 +1046,7 @@
 "eau-potable";41;1;42
 "exterieure";42;0;42
 "formation-professionnelle";38;4;42
+"liste";40;2;42
 "mariages";24;18;42
 "medecin";30;12;42
 "particules";41;1;42
@@ -1074,7 +1075,6 @@
 "finance-publique";41;0;41
 "finances-locales";28;13;41
 "gendarmerie";28;13;41
-"liste";39;2;41
 "orthophoto";40;1;41
 "superficie";34;7;41
 "test";34;7;41
@@ -1770,6 +1770,7 @@
 "aeronautique";22;0;22
 "allocation";22;0;22
 "brevet";19;3;22
+"chien";22;0;22
 "conference";20;2;22
 "creanciers";22;0;22
 "demande";22;0;22
@@ -1827,7 +1828,6 @@
 "aliments";3;18;21
 "cadre de vie - environnement";21;0;21
 "categories";21;0;21
-"chien";21;0;21
 "circulation-routiere";6;15;21
 "collectivite territoriale";20;1;21
 "communication-financiere";21;0;21
@@ -2079,6 +2079,7 @@
 "espaces";18;0;18
 "etang";13;5;18
 "femmes";13;5;18
+"francais";13;5;18
 "francais-de-l-etranger";17;1;18
 "francais-etablis-hors-de-france";18;0;18
 "grand-etablissement";17;1;18
@@ -2171,7 +2172,6 @@
 "emplois";15;2;17
 "espe";15;2;17
 "espece";17;0;17
-"francais";12;5;17
 "hotspot";14;3;17
 "lie";17;0;17
 "loi";10;7;17
@@ -6293,6 +6293,7 @@
 "campagne";4;0;4
 "campus";3;1;4
 "campusfrance";3;1;4
+"canin";4;0;4
 "capitaux";4;0;4
 "capitoulat";4;0;4
 "catastrophe";3;1;4
@@ -7705,7 +7706,6 @@
 "budget-supplementaire";3;0;3
 "camera";2;1;3
 "cameras";2;1;3
-"canin";3;0;3
 "cantonale";1;2;3
 "capital-risque";3;0;3
 "caprins";3;0;3
@@ -9663,6 +9663,7 @@
 "mairie-de-saint-genes-de-lombaud";3;0;3
 "mairie-de-saint-loubes";3;0;3
 "methode-de-culture";3;0;3
+"race";3;0;3
 "salaison";3;0;3
 "signe-officiel-de-qualite";3;0;3
 "specialites";3;0;3
@@ -14107,7 +14108,6 @@
 "pate-pressee-non-cuite";2;0;2
 "pie-noir-du-pays-basque";2;0;2
 "porc-basque";2;0;2
-"race";2;0;2
 "sechage";2;0;2
 "sechoir";2;0;2
 "viticulteur";2;0;2
