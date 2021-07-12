@@ -488,11 +488,11 @@
 "frontiere";90;0;90
 "iris";75;15;90
 "bourgogne-franche-comte";89;1;90
+"2020";89;1;90
 "biologie";88;1;89
 "etat";82;7;89
 "police";73;16;89
 "ille-et-vilaine";86;3;89
-"2020";88;1;89
 "prenoms";60;28;88
 "dataviz";8;80;88
 "annexes-budgetaires";88;0;88
@@ -1355,6 +1355,7 @@
 "election-presidentielle";28;3;31
 "hlm";29;2;31
 "interne";31;0;31
+"nitrate";30;1;31
 "nogent sur marne";24;7;31
 "rpg";25;6;31
 "sanitaire";25;6;31
@@ -1408,7 +1409,6 @@
 "monuments-historiques";19;11;30
 "mos";30;0;30
 "municipale";28;2;30
-"nitrate";30;0;30
 "occupation";30;0;30
 "partiel";30;0;30
 "propriete-industrielle";29;1;30
@@ -1936,6 +1936,7 @@
 "nouveaux";20;0;20
 "observation";20;0;20
 "origine";19;1;20
+"pesticide";16;4;20
 "politique-publique-democratie";17;3;20
 "puissance";19;1;20
 "recherche-publique";20;0;20
@@ -2009,7 +2010,6 @@
 "menu";18;1;19
 "numérique";16;3;19
 "personne-handicapee";19;0;19
-"pesticide";16;3;19
 "rapportant";19;0;19
 "recyclage-des-dechets";11;8;19
 "regularite";18;1;19
