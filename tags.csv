@@ -79,7 +79,7 @@
 "casq";451;0;451
 "aisne";449;1;450
 "ortho";449;0;449
-"opendata";405;40;445
+"opendata";408;40;448
 "photo";442;1;443
 "adresse";432;9;441
 "citoyennete-institution";437;0;437
@@ -177,11 +177,11 @@
 "directive-inondation";225;0;225
 "adresses";216;8;224
 "meteo";211;13;224
+"gironde";219;2;221
 "industrie";217;4;221
 "intercommunalite";218;3;221
 "ecole";207;12;219
 "tri";214;5;219
-"gironde";216;2;218
 "geomorphologie";217;0;217
 "economy";214;1;215
 "pprt";215;0;215
@@ -319,6 +319,7 @@
 "elus";95;34;129
 "internet";107;22;129
 "reseau-routier";128;1;129
+"deliberations";125;3;128
 "depenses";116;12;128
 "lycees";124;4;128
 "plan";122;6;128
@@ -327,7 +328,6 @@
 "risques-technologiques";128;0;128
 "bal";126;2;128
 "batiment";124;3;127
-"deliberations";124;3;127
 "innovation";115;12;127
 "2014";125;1;126
 "administratif";112;14;126
@@ -427,6 +427,7 @@
 "mayotte";99;4;103
 "pss";103;0;103
 "vie-culturelle";103;0;103
+"scdl";100;3;103
 "i2g";103;0;103
 "2011";101;1;102
 "budget-regional";97;5;102
@@ -437,7 +438,6 @@
 "lycee";84;16;100
 "payant";100;0;100
 "ouvert";100;0;100
-"scdl";97;3;100
 "aides";98;1;99
 "foncier";90;9;99
 "api";45;53;98
@@ -1178,6 +1178,7 @@
 "eau-ouvrage";37;0;37
 "bilan-annuel";37;0;37
 "reseau-ferre";36;1;37
+"budgets";37;0;37
 "occupation-et-usage-du-sol";37;0;37
 "donnees-sexuees";37;0;37
 "dreal-interne";37;0;37
@@ -1210,7 +1211,6 @@
 "gestion-de-crise";36;0;36
 "territoires-et-transports";36;0;36
 "carte-interactive";0;36;36
-"budgets";36;0;36
 "bca";36;0;36
 "draaf-na";36;0;36
 "dvf";8;28;36
@@ -1388,6 +1388,7 @@
 "arret-urbain";31;0;31
 "menagers";31;0;31
 "partagee";31;0;31
+"scdl-deliberations";31;0;31
 "assemblee-regionale";30;0;30
 "circonscriptions";29;1;30
 "classe";29;1;30
@@ -1520,7 +1521,6 @@
 "pprn-mt";28;0;28
 "ocs-2d";28;0;28
 "ocs2d";28;0;28
-"scdl-deliberations";28;0;28
 "donnees-regionales-de-reference";28;0;28
 "pandemie";19;9;28
 "administration-locale";10;17;27
@@ -4206,6 +4206,7 @@
 "deust";7;1;8
 "sts";7;1;8
 "voeu";7;1;8
+"actes-reglementaires";8;0;8
 "noisiel";8;0;8
 "parc-national";8;0;8
 "corsica";8;0;8
@@ -4724,7 +4725,6 @@
 "dcg";7;0;7
 "endo-recrutement";7;0;7
 "voeux";7;0;7
-"actes-reglementaires";7;0;7
 "arret-bus";7;0;7
 "camion";5;2;7
 "visualiseur-pprn";7;0;7
@@ -5425,6 +5425,8 @@
 "vaccin-covid";0;6;6
 "codes-naf";5;1;6
 "surface-utile";6;0;6
+"213302300";6;0;6
+"mairie-de-lapouyade";6;0;6
 "2ème tour";5;0;5
 "30";5;0;5
 "absolue";5;0;5
@@ -9695,8 +9697,6 @@
 "le-poinconnet";3;0;3
 "publie-par-la-collectivite";3;0;3
 "opahru";3;0;3
-"213302300";3;0;3
-"mairie-de-lapouyade";3;0;3
 "1994-2010";2;0;2
 "1995";2;0;2
 "1999-2011";2;0;2
