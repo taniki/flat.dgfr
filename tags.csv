@@ -9,7 +9,7 @@
 "grand-public";2252;0;2252
 "environnement";1558;31;1589
 "plu";1519;4;1523
-"geospatial";1511;6;1517
+"geospatial";1512;6;1518
 "environment";1343;5;1348
 "transport";1157;22;1179
 "france";1043;110;1153
@@ -22,7 +22,7 @@
 "culture";946;41;987
 "tourisme";953;31;984
 "zones-de-gestion-de-restriction-ou-de-reglementat";907;0;907
-"inondation";900;2;902
+"inondation";901;2;903
 "open-data";883;13;896
 "document-durbanisme";896;0;896
 "mobilite";811;36;847
@@ -76,8 +76,8 @@
 "oise";463;1;464
 "occupation-des-terres";458;1;459
 "zonages-risque-naturel";457;0;457
+"opendata";410;41;451
 "casq";451;0;451
-"opendata";409;41;450
 "aisne";449;1;450
 "ortho";449;0;449
 "photo";442;1;443
@@ -129,7 +129,7 @@
 "habitats-et-biotopes";292;1;293
 "littoral-aquitain";292;0;292
 "cd-53";290;0;290
-"covid19";116;171;287
+"covid19";116;172;288
 "pedologie";285;1;286
 "compte-administratif";282;2;284
 "parking";273;10;283
@@ -203,9 +203,9 @@
 "normandie";200;1;201
 "seine-saint-denis";195;3;198
 "risques-naturels";195;1;196
+"covid";64;129;193
 "cadastre";167;25;192
 "dreal-bfc";192;0;192
-"covid";64;128;192
 "etat-civil";168;22;190
 "landes-40";190;0;190
 "ecologie";178;11;189
@@ -534,6 +534,7 @@
 "nord-pas-de-calais";81;1;82
 "france-entiere";74;8;82
 "dataviz1";82;0;82
+"age";73;8;81
 "fiscalite";70;11;81
 "jardin";77;4;81
 "proprete";81;0;81
@@ -541,7 +542,6 @@
 "voyages";81;0;81
 "foncier-sol-occupation-du-sol";80;1;81
 "controle-de-la-qualite-de-lair";81;0;81
-"age";73;7;80
 "aide-sociale";80;0;80
 "ans";80;0;80
 "apprentissage";79;1;80
@@ -597,6 +597,7 @@
 "habitant";66;8;74
 "transport-scolaire";74;0;74
 "urbain";73;1;74
+"vaccination";34;40;74
 "sport-tourisme-loisirs";73;1;74
 "risque-n-inondation";74;0;74
 "urbanisme-et-logements";74;0;74
@@ -606,7 +607,6 @@
 "fontaine";71;2;73
 "foret";65;8;73
 "sports";69;4;73
-"vaccination";34;39;73
 "verre";71;2;73
 "milieu-biologique-habitats";73;0;73
 "calvados";72;1;73
@@ -1718,6 +1718,7 @@
 "d-35";24;0;24
 "datasprint-pedagogique";0;24;24
 "traces2roues";0;24;24
+"niort";23;1;24
 "20006911000019";24;0;24
 "accompagnement";23;0;23
 "agenda-21";23;0;23
@@ -1767,7 +1768,6 @@
 "buildings";23;0;23
 "education-au-developpement-durable";0;23;23
 "orthophotographies";23;0;23
-"niort";22;1;23
 "covidfrance";0;23;23
 "magosm";23;0;23
 "smh";23;0;23
@@ -4790,6 +4790,7 @@
 "si-dep";6;1;7
 "culture-et-patrimoine";7;0;7
 "rosny-sur-seine";7;0;7
+"vaccin-covid";0;7;7
 "padduc";7;0;7
 "personne-morale";7;0;7
 "pilier";7;0;7
@@ -5426,7 +5427,6 @@
 "carrieres-sous-poissy";6;0;6
 "epone";6;0;6
 "variant";3;3;6
-"vaccin-covid";0;6;6
 "codes-naf";5;1;6
 "surface-utile";6;0;6
 "213302300";6;0;6
