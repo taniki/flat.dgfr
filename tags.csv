@@ -1,5 +1,5 @@
 "name";"datasets";"reuses";"total"
-"donnees-ouvertes";17685;2;17687
+"donnees-ouvertes";17684;2;17686
 "passerelle-inspire";16140;0;16140
 "usage-des-sols";5287;3;5290
 "geoscientific-information";5228;0;5228
@@ -11,22 +11,22 @@
 "plu";1519;4;1523
 "geospatial";1512;6;1518
 "environment";1343;6;1349
-"transport";1157;22;1179
+"transport";1159;22;1181
 "france";1043;110;1153
 "citoyennete";1109;6;1115
 "administration";1092;12;1104
 "pprn";1074;0;1074
-"finances-publiques";1060;5;1065
+"finances-publiques";1061;5;1066
 "urbanisme";1029;12;1041
-"budget";978;20;998
+"budget";979;20;999
 "culture";946;41;987
 "tourisme";953;31;984
 "zones-de-gestion-de-restriction-ou-de-reglementat";907;0;907
 "inondation";901;2;903
 "open-data";883;13;896
 "document-durbanisme";896;0;896
-"mobilite";811;36;847
-"economie";784;48;832
+"mobilite";813;36;849
+"economie";785;48;833
 "risque";770;2;772
 "localisation";747;22;769
 "elections";676;84;760
@@ -60,16 +60,16 @@
 "somme";551;2;553
 "equipements";531;18;549
 "risque-inondation";542;0;542
+"population";472;59;531
 "batiments";525;5;530
-"population";471;59;530
 "donnees-publiques";514;3;517
 "hydrographie";508;6;514
 "alea-enjeux-inondation-amenagement-urbanis";514;0;514
 "finances";476;30;506
 "lot-et-garonne";498;1;499
 "emploi";464;34;498
+"bus";466;14;480
 "unites-administratives";479;1;480
-"bus";464;14;478
 "stationnement";462;8;470
 "orthophotographie";464;2;466
 "rhone-alpes";462;2;464
@@ -81,11 +81,11 @@
 "aisne";449;1;450
 "ortho";449;0;449
 "photo";442;1;443
-"adresse";432;8;440
+"adresse";433;8;441
 "citoyennete-institution";437;0;437
 "inland-waters";433;0;433
 "communes";353;79;432
-"demographie";383;44;427
+"demographie";384;44;428
 "ddt-54";426;0;426
 "prise-de-vue";426;0;426
 "prise-de-vues";426;0;426
@@ -112,7 +112,7 @@
 "epci";317;20;337
 "dechets";331;4;335
 "services";325;6;331
-"gtfs";318;10;328
+"gtfs";319;10;329
 "equipement";316;10;326
 "departement";256;66;322
 "nuisance-bruit";317;0;317
@@ -136,8 +136,8 @@
 "repartition-de-la-population-demographie";283;0;283
 "carte";104;178;282
 "structure";279;1;280
+"covid-19";102;176;278
 "energie";248;29;277
-"covid-19";101;176;277
 "loisirs";267;8;275
 "air";269;3;272
 "openstreetmap";214;58;272
@@ -149,7 +149,7 @@
 "repartition-de-la-population";268;0;268
 "altitude";261;6;267
 "nouvelle-aquitaine";266;1;267
-"deplacement";264;1;265
+"deplacement";265;1;266
 "vote";255;10;265
 "region";221;38;259
 "filosofi";259;0;259
@@ -157,8 +157,8 @@
 "montpellier";237;20;257
 "subvention";249;8;257
 "risque-zonages-risque-technologi";256;0;256
+"entreprise";242;12;254
 "recensement";188;66;254
-"entreprise";241;12;253
 "commerce";227;25;252
 "base-adresse-locale";249;0;249
 "deliberation";248;0;248
@@ -168,8 +168,8 @@
 "aquitaine";213;23;236
 "zonage";224;12;236
 "inondations";233;0;233
+"budget-de-letat";231;0;231
 "guyane";229;1;230
-"budget-de-letat";230;0;230
 "consommation";206;23;229
 "adresses";218;8;226
 "budget-primitif";225;1;226
@@ -198,9 +198,9 @@
 "bibliotheque";199;9;208
 "imagery-base-maps-earth-cover";208;0;208
 "metropole";196;10;206
+"irve";195;9;204
 "2012";191;12;203
 "cadastre";178;25;203
-"irve";194;9;203
 "normandie";200;1;201
 "seine-saint-denis";195;3;198
 "risques-naturels";195;1;196
@@ -315,14 +315,14 @@
 "artois-picardie";131;0;131
 "ouvertes";131;0;131
 "mer";126;4;130
+"bal";128;2;130
 "aide";127;2;129
 "art";124;5;129
+"depenses";117;12;129
 "elus";95;34;129
 "internet";107;22;129
 "reseau-routier";128;1;129
-"bal";127;2;129
 "deliberations";125;3;128
-"depenses";116;12;128
 "lycees";124;4;128
 "plan";122;6;128
 "principaux";128;0;128
@@ -353,9 +353,9 @@
 "bourgogne";121;2;123
 "nationaux";123;0;123
 "restauration";121;2;123
+"ban";117;6;123
 "ecoles";118;4;122
 "participation";119;3;122
-"ban";116;6;122
 "codah";122;0;122
 "havraise";122;0;122
 "lagglomeration";122;0;122
@@ -411,8 +411,8 @@
 "tcu";107;0;107
 "masse-deau";107;0;107
 "conseil-municipal";104;2;106
+"investissement";94;12;106
 "station";98;8;106
-"investissement";93;12;105
 "unites-statistiques";105;0;105
 "ddt-loire";105;0;105
 "2005";105;0;105
@@ -421,6 +421,7 @@
 "meudon";104;0;104
 "entree-en-france";104;0;104
 "donnees-qualitatives";104;0;104
+"scdl";101;3;104
 "europe";90;13;103
 "frequentation";101;2;103
 "landes";79;24;103
@@ -428,7 +429,6 @@
 "mayotte";99;4;103
 "pss";103;0;103
 "vie-culturelle";103;0;103
-"scdl";100;3;103
 "i2g";103;0;103
 "2011";101;1;102
 "budget-regional";97;5;102
@@ -480,11 +480,11 @@
 "boulogne-billancourt";87;5;92
 "evolution";62;29;91
 "filaire";91;0;91
+"fonctionnement";87;4;91
 "limite";91;0;91
 "cadre-de-vie-environnement";91;0;91
 "cantons";76;14;90
 "democratie";84;6;90
-"fonctionnement";86;4;90
 "frontiere";90;0;90
 "bourgogne-franche-comte";89;1;90
 "2020";89;1;90
@@ -555,11 +555,11 @@
 "ayant";79;0;79
 "borne";75;4;79
 "gare-de-voyageurs";71;8;79
+"rue";70;9;79
 "amenagement-urbanisme";78;1;79
 "borne-de-recharge";72;7;79
 "espace-naturel-sensible";79;0;79
 "pav";75;3;78
-"rue";69;9;78
 "service-public";65;13;78
 "enjeux";78;0;78
 "logement-sante-social";78;0;78
@@ -590,6 +590,7 @@
 "stations";72;3;75
 "topographie";72;3;75
 "tour";75;0;75
+"vaccination";35;40;75
 "impact-sur-lenvironnement";73;2;75
 "colleges";70;4;74
 "erosion";74;0;74
@@ -597,7 +598,6 @@
 "habitant";66;8;74
 "transport-scolaire";74;0;74
 "urbain";73;1;74
-"vaccination";34;40;74
 "sport-tourisme-loisirs";73;1;74
 "risque-n-inondation";74;0;74
 "urbanisme-et-logements";74;0;74
@@ -613,25 +613,25 @@
 "rapport-financier";73;0;73
 "services-dutilite-publique-et-services-publics";73;0;73
 "bornes";66;6;72
+"voies";70;2;72
 "ddtm-44";72;0;72
 "nom";71;1;72
 "multi-risque";72;0;72
 "directive-2000-60-ec";72;0;72
 "chambre-de-commerce-et-d-industrie";72;0;72
+"eleves";71;0;71
 "etudes";63;8;71
 "famille";65;6;71
 "ile-de-france";52;19;71
 "ouvrage";70;1;71
 "pmr";69;2;71
 "transports-et-mobilite";69;2;71
-"voies";69;2;71
 "administration-et-finances-publiques";71;0;71
 "qualite-de-lenvironnement";71;0;71
 "programme-europeen";71;0;71
 "2010";70;0;70
 "annuaire";60;10;70
 "developpement";66;4;70
-"eleves";70;0;70
 "mobilier-urbain";67;3;70
 "monument";53;17;70
 "politique-de-la-ville";68;2;70
@@ -784,13 +784,13 @@
 "effectifs";56;1;57
 "immigration clandestine";57;0;57
 "immigration irrégulière";57;0;57
+"numero";56;1;57
 "nuisance";57;0;57
 "ardeche";55;2;57
 "submersion";57;0;57
 "plateforme-publique-de-l-information-geographique-ppige-nord-pas-de-calais";57;0;57
 "citizenship";57;0;57
 "public-finances";57;0;57
-"numero";55;1;56
 "ordures-menageres";56;0;56
 "port";53;3;56
 "regions-maritimes";56;0;56
@@ -887,6 +887,7 @@
 "particules-en-suspension";50;0;50
 "bec";49;0;49
 "denominations-geographiques";49;0;49
+"justice";35;14;49
 "ligne-reguliere";49;0;49
 "point-d-arret";49;0;49
 "scot";48;1;49
@@ -920,7 +921,6 @@
 "espace-public";47;1;48
 "etrangers";47;1;48
 "gares";46;2;48
-"justice";34;14;48
 "logements-sociaux";46;2;48
 "maire";41;7;48
 "point";48;0;48
@@ -929,6 +929,7 @@
 "vie-sociale";48;0;48
 "trame-verte-et-bleue";48;0;48
 "elections-departementales";44;4;48
+"vehicule-electrique";44;4;48
 "gpu";48;0;48
 "touques";48;0;48
 "bassin-darcachon";48;0;48
@@ -949,7 +950,6 @@
 "terroir";45;2;47
 "velos";44;3;47
 "haute-loire";46;1;47
-"vehicule-electrique";43;4;47
 "arcgis";45;2;47
 "deauville";47;0;47
 "trouville-sur-mer";47;0;47
@@ -1041,6 +1041,7 @@
 "cour-des-comptes";42;1;43
 "adour-garonne";43;0;43
 "loire-bretagne";43;0;43
+"arrets-et-lignes-du-reseau";43;0;43
 "academie";36;6;42
 "creation";39;3;42
 "document-urbanisme";42;0;42
@@ -1065,7 +1066,6 @@
 "cac";42;0;42
 "service-definition";42;0;42
 "budget-general";42;0;42
-"arrets-et-lignes-du-reseau";42;0;42
 "schema-regional-d-039-amenagement-de-developpement-durable-et-d-039-egalite-des-territoires";42;0;42
 "activites";37;4;41
 "ccas";40;1;41
@@ -1265,6 +1265,7 @@
 "mission-sig";34;0;34
 "agriculture-biologique";31;3;34
 "tcd";34;0;34
+"borne-electrique";29;5;34
 "services-dutilite-publique";34;0;34
 "education-formation";34;0;34
 "casvp";34;0;34
@@ -1299,7 +1300,6 @@
 "fourriere";33;0;33
 "equipement-services";33;0;33
 "libre-service";33;0;33
-"borne-electrique";28;5;33
 "qualite-air";32;1;33
 "eau-continentale";33;0;33
 "polluant-atmospherique";33;0;33
@@ -1732,6 +1732,7 @@
 "mobilier";22;1;23
 "mortalite";11;12;23
 "obligations";22;1;23
+"orientation";19;4;23
 "premier";23;0;23
 "radio";20;3;23
 "recrutement";19;4;23
@@ -1790,7 +1791,6 @@
 "limitation";22;0;22
 "mutation";20;2;22
 "organisation";22;0;22
-"orientation";18;4;22
 "personnel";21;1;22
 "raisons";22;0;22
 "raster";22;0;22
@@ -2318,6 +2318,7 @@
 "tableau-de-bord";3;13;16
 "taxi";15;1;16
 "terrasse";15;1;16
+"tribunaux";11;5;16
 "trottoir";15;1;16
 "vacances";15;1;16
 "valorisation";16;0;16
@@ -2438,7 +2439,6 @@
 "toilette";14;1;15
 "traitement-des-dechets";12;3;15
 "transgironde";15;0;15
-"tribunaux";10;5;15
 "union-europeenne";11;4;15
 "urbanisation";12;3;15
 "utilisant";15;0;15
@@ -2767,6 +2767,7 @@
 "schema-regional-de-coherence-ecologique";13;0;13
 "i-2-g";13;0;13
 "accueil-des-etrangers";13;0;13
+"aides-aux-entreprises";12;1;13
 "bassin-loire-bretagne";13;0;13
 "comptes-annuels";13;0;13
 "courbes-de-niveau";13;0;13
@@ -2979,7 +2980,6 @@
 "necmergitur";12;0;12
 "ent";12;0;12
 "urbanisme-reglementaire";12;0;12
-"aides-aux-entreprises";11;1;12
 "chiffre-daffaires";11;1;12
 "chiffres-cles";11;1;12
 "elections-europeennes-2014";8;4;12
@@ -4486,6 +4486,7 @@
 "canisites";7;0;7
 "élémentaire";7;0;7
 "graphique";0;7;7
+"impasse";6;1;7
 "plan-de-prevention-des-risques-naturels";7;0;7
 "psmv";7;0;7
 "comptages";7;0;7
@@ -4802,6 +4803,7 @@
 "actualités";3;3;6
 "adoption-simple";6;0;6
 "aerienne";6;0;6
+"aides-publiques";6;0;6
 "allocations";6;0;6
 "ambassadeur";3;3;6
 "anglais";4;2;6
@@ -5034,7 +5036,6 @@
 "découpage électoral";6;0;6
 "boites-aux-lettres";4;2;6
 "document-d-urbanisme";6;0;6
-"impasse";5;1;6
 "limitation-de-vitesse";6;0;6
 "dgf";6;0;6
 "milieu-chimique-biotope";6;0;6
@@ -5442,7 +5443,6 @@
 "aeroports";4;1;5
 "affichage libre";4;1;5
 "aides-a-la-presse-ecrite";1;4;5
-"aides-publiques";5;0;5
 "aire urbaine";1;4;5
 "allocataires";4;1;5
 "ammoniac";5;0;5
@@ -8749,6 +8749,7 @@
 "zones-basses";3;0;3
 "zones-humides-d-importance-internationale";3;0;3
 "chaufferie";3;0;3
+"demographie-et-population-recensement";3;0;3
 "eau-brute";3;0;3
 "energie-autres";2;1;3
 "isdnd";3;0;3
@@ -11960,7 +11961,6 @@
 "algues";2;0;2
 "chauves-souris";2;0;2
 "dechets-non-dangereux";2;0;2
-"demographie-et-population-recensement";2;0;2
 "incinerateur";2;0;2
 "labellisation";2;0;2
 "machefers";2;0;2
