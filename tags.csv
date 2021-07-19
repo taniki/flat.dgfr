@@ -111,7 +111,7 @@
 "developpement-durable";331;13;344
 "epci";317;20;337
 "dechets";331;4;335
-"services";325;6;331
+"services";326;6;332
 "gtfs";319;10;329
 "equipement";316;10;326
 "departement";256;66;322
@@ -435,13 +435,13 @@
 "decoupage";84;18;102
 "no2";102;0;102
 "service";98;4;102
+"politique";75;26;101
 "transparence";85;16;101
 "lycee";84;16;100
 "payant";100;0;100
 "ouvert";100;0;100
 "aides";98;1;99
 "foncier";90;9;99
-"politique";73;26;99
 "ens";97;1;98
 "espaces-naturels";97;1;98
 "marche-public";93;5;98
@@ -743,6 +743,7 @@
 "bureau-de-vote";60;0;60
 "datasprint";0;60;60
 "agregats";59;0;59
+"assemblee-nationale";44;15;59
 "bati";59;0;59
 "espaces-verts";58;1;59
 "financement";58;1;59
@@ -778,7 +779,6 @@
 "eaux-interieures-de-surface-rivi";58;0;58
 "budget-finances";58;0;58
 "government";58;0;58
-"assemblee-nationale";42;15;57
 "collectivites-locales";51;6;57
 "crowdsourcing";16;41;57
 "effectifs";56;1;57
@@ -808,6 +808,7 @@
 "hotel";49;6;55
 "jardins";49;6;55
 "ocs";55;0;55
+"parlement";46;9;55
 "gestion-de-risque";55;0;55
 "etat-du-milieu-qualite-quantite";55;0;55
 "economie-europe";55;0;55
@@ -832,7 +833,6 @@
 "formations";48;5;53
 "imagerybasemapsearthcover";52;1;53
 "nogent-sur-marne";45;8;53
-"parlement";44;9;53
 "reglementation";52;1;53
 "statistique";41;12;53
 "technologie-numerique";52;1;53
@@ -1044,6 +1044,7 @@
 "arrets-et-lignes-du-reseau";43;0;43
 "academie";36;6;42
 "creation";39;3;42
+"deputes";35;7;42
 "document-urbanisme";42;0;42
 "eau-potable";41;1;42
 "exterieure";42;0;42
@@ -1094,7 +1095,6 @@
 "collectif";40;0;40
 "declaration";39;1;40
 "defibrillateur";38;2;40
-"deputes";33;7;40
 "insertion-professionnelle";34;6;40
 "limites administratives";14;26;40
 "observatoire";25;15;40
@@ -2172,6 +2172,7 @@
 "cimetieres";16;1;17
 "conge";16;1;17
 "densite";13;4;17
+"depute";15;2;17
 "deux-roues";15;2;17
 "eau-cotiere";15;2;17
 "emplois";15;2;17
@@ -2277,7 +2278,6 @@
 "cours";14;2;16
 "debat";13;3;16
 "depistage";12;4;16
-"depute";14;2;16
 "doctorat";15;1;16
 "domaine";16;0;16
 "domaine-public";15;1;16
@@ -4940,6 +4940,7 @@
 "organisme-public";3;3;6
 "orientation-scolaire";4;2;6
 "panneau-d-affichage";5;1;6
+"parlementaire";3;3;6
 "partie";6;0;6
 "pathologies";1;5;6
 "patrimoine-tourisme";4;2;6
@@ -5627,7 +5628,6 @@
 "oti";5;0;5
 "palmares";4;1;5
 "papiers";4;1;5
-"parlementaire";2;3;5
 "particulieres";5;0;5
 "partis";4;1;5
 "passees";5;0;5
@@ -8674,6 +8674,7 @@
 "grandes-cultures";3;0;3
 "grandes-ecoles";2;1;3
 "groupements-a-fiscalite-propre";3;0;3
+"groupes-politiques";3;0;3
 "gynecologues";1;2;3
 "habitudes-alimentaires";1;2;3
 "handicapees";3;0;3
@@ -11772,7 +11773,6 @@
 "grand-cur";2;0;2
 "grand-toulouse";2;0;2
 "gratentour";2;0;2
-"groupes-politiques";2;0;2
 "heidelberg";2;0;2
 "heure-limite-de-depot";2;0;2
 "histoire-de-france";1;1;2
