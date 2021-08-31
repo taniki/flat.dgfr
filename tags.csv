@@ -142,9 +142,9 @@
 "carte";104;177;281
 "deplacement";280;1;281
 "structure";279;1;280
-"covid-19";102;178;280
 "energie";250;29;279
 "base-adresse-locale";273;0;273
+"covid-19";102;171;273
 "openstreetmap";214;58;272
 "politique-de-lenvironnement";270;0;270
 "society";269;0;269
@@ -486,7 +486,6 @@
 "habitat-politique-de-la-ville-po";92;0;92
 "boulogne-billancourt";87;5;92
 "acces";91;0;91
-"evolution";62;29;91
 "fonctionnement";87;4;91
 "frontiere";91;0;91
 "limite";91;0;91
@@ -527,6 +526,7 @@
 "etat-du-milieu-especes";86;0;86
 "naissance";71;14;85
 "metropole-mers-celtiques";85;0;85
+"evolution";62;22;84
 "jardin";80;4;84
 "ozone";84;0;84
 "pav";81;3;84
@@ -575,7 +575,6 @@
 "conditions";74;3;77
 "patrimoine-naturel";76;1;77
 "rue";68;9;77
-"surveillance";66;11;77
 "transport-scolaire";77;0;77
 "urbain";76;1;77
 "urbanisme-logement";77;0;77
@@ -643,6 +642,7 @@
 "petite-enfance";68;2;70
 "prenom";51;19;70
 "programmes";70;0;70
+"surveillance";66;4;70
 "titre-de-sejour";70;0;70
 "axe";70;0;70
 "2010";69;0;69
@@ -1294,7 +1294,6 @@
 "paysan";34;0;34
 "aep";33;0;33
 "agricole";31;2;33
-"analyse";14;19;33
 "application";9;24;33
 "branches";33;0;33
 "cyclable";31;2;33
@@ -1582,6 +1581,7 @@
 "agriculteur";27;0;27
 "lio";27;0;27
 "action-publique";25;1;26
+"analyse";14;12;26
 "bateau";25;1;26
 "bien-etre";25;1;26
 "codes-postaux";16;10;26
@@ -1630,7 +1630,6 @@
 "plf-2012";25;1;26
 "ddct";26;0;26
 "etat-du-milieu-biogeochimie";26;0;26
-"deconfinement";8;18;26
 "aerien";25;0;25
 "ages";24;1;25
 "appartement";19;6;25
@@ -1844,6 +1843,7 @@
 "mobilite-douce";18;4;22
 "comptes-de-concours-financiers";22;0;22
 "reanimation";7;15;22
+"deconfinement";8;14;22
 "aliments";3;18;21
 "cadre de vie - environnement";21;0;21
 "categories";21;0;21
