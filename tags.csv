@@ -7,7 +7,7 @@
 "risque-zonages-risque-naturel";4512;0;4512
 "zones-a-risque-naturel";2544;0;2544
 "grand-public";2252;0;2252
-"environnement";1953;31;1984
+"environnement";1955;33;1988
 "plu";1519;4;1523
 "geospatial";1514;6;1520
 "transport";1432;22;1454
@@ -26,7 +26,7 @@
 "zones-de-gestion-de-restriction-ou-de-reglementat";907;0;907
 "open-data";884;13;897
 "document-durbanisme";897;0;897
-"economie";845;48;893
+"economie";846;48;894
 "mobilite";834;36;870
 "risque";804;2;806
 "equipements";780;18;798
@@ -44,9 +44,9 @@
 "amenagement-du-territoire";657;4;661
 "boundaries";645;1;646
 "services";638;6;644
-"sport";572;67;639
+"sport";573;67;640
 "bretagne";579;50;629
-"eau";616;11;627
+"eau";616;12;628
 "territoire";610;12;622
 "sante";534;84;618
 "patrimoine";594;12;606
@@ -72,7 +72,7 @@
 "lot-et-garonne";498;1;499
 "stationnement";484;8;492
 "oise";491;1;492
-"bus";477;14;491
+"bus";476;14;490
 "aisne";477;1;478
 "orthophotographie";465;2;467
 "rhone-alpes";462;2;464
@@ -121,16 +121,16 @@
 "circulation";298;23;321
 "nuisance-bruit";317;0;317
 "voirie";305;10;315
+"pollution";297;13;310
 "biodiversite";299;9;308
-"pollution";297;11;308
 "sante-social";304;3;307
 "specification-nationale";305;0;305
 "biota";302;1;303
 "air";294;3;297
 "covid19";118;178;296
 "mayenne";294;1;295
+"loisirs";286;8;294
 "parking";284;10;294
-"loisirs";285;8;293
 "habitats-et-biotopes";291;1;292
 "littoral-aquitain";292;0;292
 "cd-53";290;0;290
@@ -165,8 +165,8 @@
 "recensement";190;66;256
 "risque-zonages-risque-technologi";256;0;256
 "deliberation";251;0;251
+"consommation";225;24;249
 "directive-inondation";249;0;249
-"consommation";223;24;247
 "developpement-economique";244;1;245
 "pos";243;1;244
 "adresses";233;8;241
@@ -230,10 +230,10 @@
 "imagery-base-maps-earth-cover";179;0;179
 "arrets";177;1;178
 "horaires";174;4;178
+"production";172;6;178
 "donnees";163;14;177
 "migrant";177;0;177
 "pays";174;3;177
-"production";171;6;177
 "élections";155;22;177
 "inspire";176;1;177
 "reseau-de-transport";170;6;176
@@ -400,14 +400,14 @@
 "espaces-naturels";110;1;111
 "payant";111;0;111
 "cadre-de-vie";109;1;110
+"europe";97;13;110
 "no2";110;0;110
+"ressources-humaines";107;3;110
 "ville";92;18;110
 "scdl";107;3;110
 "conseil-municipal";107;2;109
-"europe";96;13;109
 "ligne";108;1;109
 "plan-de-prevention";109;0;109
-"ressources-humaines";106;3;109
 "station";101;8;109
 "modelisation";109;0;109
 "metropole-manche-mer-du-nord";109;0;109
@@ -472,11 +472,11 @@
 "pps";95;0;95
 "silc";92;3;95
 "granulats-marins";95;0;95
+"2020";94;1;95
 "etat-du-milieu-habitats";95;0;95
 "issy-les-moulineaux";92;2;94
 "mediatheque";91;3;94
 "sup";91;3;94
-"2020";93;1;94
 "acces";93;0;93
 "entrée en france";93;0;93
 "parcelle";87;6;93
@@ -489,11 +489,11 @@
 "fonctionnement";87;4;91
 "frontiere";91;0;91
 "limite";91;0;91
-"transport-en-commun";88;3;91
 "travaux";87;4;91
 "borne-de-recharge";84;7;91
 "cadre-de-vie-environnement";91;0;91
 "cantons";76;14;90
+"transport-en-commun";87;3;90
 "biologie";88;1;89
 "democratie";83;6;89
 "etat";82;7;89
@@ -625,6 +625,7 @@
 "pmr";70;2;72
 "ddtm-44";72;0;72
 "multi-risque";72;0;72
+"territoires-et-regions";71;1;72
 "directive-2000-60-ec";72;0;72
 "rapportage";72;0;72
 "annuaire";61;10;71
@@ -632,7 +633,6 @@
 "limite-administrative";71;0;71
 "politique-de-la-ville";69;2;71
 "transports-et-mobilite";69;2;71
-"territoires-et-regions";70;1;71
 "administration-et-finances-publiques";71;0;71
 "services-dutilite-publique-et-services-publics";71;0;71
 "education-formation-jeunesse";71;0;71
@@ -645,12 +645,12 @@
 "petite-enfance";68;2;70
 "prenom";51;19;70
 "programmes";70;0;70
+"sol";68;2;70
 "surveillance";66;4;70
 "titre-de-sejour";70;0;70
 "2010";69;0;69
 "bibliotheques";62;7;69
 "marches";69;0;69
-"sol";68;1;69
 "immigration-familiale";69;0;69
 "natural-risk-zones";69;0;69
 "donnees-derivees-indicateurs";69;0;69
@@ -1465,10 +1465,12 @@
 "donnee";28;1;29
 "droit";24;5;29
 "etrangeres";29;0;29
+"fonction-publique";27;2;29
 "géolocalisation";11;18;29
 "habitat-naturel";29;0;29
 "indicateurs";22;7;29
 "personnes-handicapees";29;0;29
+"prets";29;0;29
 "salle";27;2;29
 "taux";18;11;29
 "toponymie";27;2;29
@@ -1512,7 +1514,6 @@
 "permis";24;4;28
 "plan-de-prevention-des-risques";27;1;28
 "pret";26;2;28
-"prets";28;0;28
 "r-d";27;1;28
 "recensements";28;0;28
 "reseaux-sociaux";28;0;28
@@ -1552,7 +1553,6 @@
 "donnees-budgetaires";27;0;27
 "etalab";15;12;27
 "ferme";26;1;27
-"fonction-publique";25;2;27
 "harmonises";27;0;27
 "integration";27;0;27
 "intensite";27;0;27
@@ -1909,6 +1909,7 @@
 "bornes-electriques";17;4;21
 "tableau-d-assemblage";21;0;21
 "deal";21;0;21
+"biomethane";19;2;21
 "territoire-a-risque-important-d-";21;0;21
 "zones-de-gestion-de-restriction-";20;1;21
 "region-bfc";21;0;21
@@ -1999,7 +2000,6 @@
 "budgets-annexes";20;0;20
 "annexe-informative";20;0;20
 "start-up";19;1;20
-"biomethane";18;2;20
 "simulateurs-dila";19;1;20
 "dune-du-pilat";20;0;20
 "don-du-sang";3;17;20
@@ -2667,6 +2667,7 @@
 "plans-locaux-durbanisme";14;0;14
 "grand-debat";3;11;14
 "minimum-garanti";14;0;14
+"aide-publique-au-developpement";14;0;14
 "plum";14;0;14
 "observatoire-territorial";14;0;14
 "cotation-nationale";14;0;14
@@ -2856,7 +2857,6 @@
 "reseaux-routiers";13;0;13
 "gbfs";13;0;13
 "lignes-regulieres";13;0;13
-"aide-publique-au-developpement";13;0;13
 "cd37";13;0;13
 "anciennetes";13;0;13
 "bonifications";13;0;13
@@ -3937,6 +3937,7 @@
 "conseiller";8;0;8
 "conseiller-municipal";6;2;8
 "consommateurs";7;1;8
+"creances";7;1;8
 "crimes-et-delits";1;7;8
 "croissance";7;1;8
 "delits";3;5;8
@@ -4377,7 +4378,6 @@
 "cooperation-intercommunale";7;0;7
 "cote";7;0;7
 "couvert";7;0;7
-"creances";6;1;7
 "creations";7;0;7
 "crime";5;2;7
 "criminalite";5;2;7
@@ -4395,6 +4395,7 @@
 "echanges";7;0;7
 "elu-local";7;0;7
 "employabilite";7;0;7
+"encours";7;0;7
 "enfance-et-familles";7;0;7
 "enseignement - formation - recherche";7;0;7
 "entreprendre";7;0;7
@@ -4770,7 +4771,6 @@
 "brve";7;0;7
 "ouibus";2;5;7
 "absenteisme";7;0;7
-"arrets-de-bus";7;0;7
 "plo";7;0;7
 "permis-de-demolir";5;2;7
 "saint-martin";7;0;7
@@ -4937,7 +4937,6 @@
 "economique";6;0;6
 "edifice";5;1;6
 "ehpa";6;0;6
-"encours";6;0;6
 "energie-electrique";5;1;6
 "entrées";6;0;6
 "epandage";6;0;6
@@ -5376,6 +5375,7 @@
 "presenteisme";6;0;6
 "gestion-des-dechets";6;0;6
 "ecoles-dingenieurs";6;0;6
+"arrets-de-bus";6;0;6
 "archive-ouverte";6;0;6
 "plu-pos-sudocuh";6;0;6
 "courbe-moyenne";6;0;6
@@ -9376,7 +9376,6 @@
 "vandieres";3;0;3
 "chalonsenchampagne";3;0;3
 "points-dapports-volontaires";3;0;3
-"transdev";3;0;3
 "caca";3;0;3
 "elec";3;0;3
 "commencement";3;0;3
@@ -9669,7 +9668,6 @@
 "culture-tourisme-patrimoine";3;0;3
 "voironnais";3;0;3
 "matching";1;2;3
-"le-grand-chalon";3;0;3
 "terrasses";3;0;3
 "simm";3;0;3
 "haut-reseaux-tres-haut-debit";3;0;3
@@ -9772,6 +9770,7 @@
 "race";3;0;3
 "salaison";3;0;3
 "signe-officiel-de-qualite";3;0;3
+"extremas";3;0;3
 "terminaux-methaniers";3;0;3
 "specialites";3;0;3
 "reanimations";0;3;3
@@ -13157,6 +13156,7 @@
 "statistiques-des-naissances";1;1;2
 "cites-en-champagne";2;0;2
 "occupation-du-sols";2;0;2
+"transdev";2;0;2
 "autun";2;0;2
 "aires-de-jeu";2;0;2
 "data-collection";2;0;2
@@ -14008,8 +14008,8 @@
 "aide-aux-entreprises";2;0;2
 "eau-fluviale";2;0;2
 "subventions-77373";2;0;2
+"le-grand-chalon";2;0;2
 "habiter";2;0;2
-"chalon-sur-saone";2;0;2
 "mesh";2;0;2
 "lorraine-hipseaume";1;1;2
 "cycle-du-carbone";2;0;2
@@ -14304,7 +14304,8 @@
 "sechoir";2;0;2
 "viticulteur";2;0;2
 "atelier-cuisine";2;0;2
-"extremas";2;0;2
+"gazeification-hydrothermale";2;0;2
+"methane-renouvelable";2;0;2
 "rendez-vous-vaccination";0;2;2
 "activite-reduite";2;0;2
 "nappes-phreatiques";2;0;2
@@ -27586,6 +27587,7 @@
 "wtfcada";0;1;1
 "etat-du-milieu-bathymetrie";1;0;1
 "structures-d-accueil";1;0;1
+"chalon-sur-saone";1;0;1
 "garges";1;0;1
 "hydro-alcoolique";1;0;1
 "faq";1;0;1
@@ -29063,9 +29065,7 @@
 "femmes-carriere";0;1;1
 "vie-personnelle";0;1;1
 "communaute-agglomeration-var-esterel-mediterranee";1;0;1
-"gazeification-hydrothermale";1;0;1
 "grt";1;0;1
-"methane-renouvelable";1;0;1
 "programme-investissement";1;0;1
 "stock-quotidien";1;0;1
 "people-with-disabilities";1;0;1
@@ -29526,3 +29526,9 @@
 "billets-vpass";1;0;1
 "distributeur-automatique-de-titres";1;0;1
 "donnees-ouverte";1;0;1
+"eaux-usees-issues-dun-reseau-dassainissement-unitaire";1;0;1
+"etron";1;0;1
+"maboutique-grandpoitiers-fr";1;0;1
+"pietions";1;0;1
+"station-depuration-des-eaux-usees";1;0;1
+"titres-vpass";1;0;1
