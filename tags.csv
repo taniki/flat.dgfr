@@ -374,10 +374,10 @@
 "universite";102;18;120
 "cote-rocheuse";120;0;120
 "enfant";117;2;119
+"immobilier";70;49;119
 "ddt-ain";119;0;119
 "rhone";118;1;119
 "activite";112;6;118
-"immobilier";70;48;118
 "martinique";117;1;118
 "ddt-rhone";118;0;118
 "cote-sableuse";118;0;118
@@ -500,11 +500,11 @@
 "transport-en-commun";87;3;90
 "biologie";88;1;89
 "democratie";83;6;89
+"iris";73;16;89
 "police";73;16;89
 "ille-et-vilaine";86;3;89
 "eau-souterraine";87;1;88
 "information";83;5;88
-"iris";73;15;88
 "prenoms";60;28;88
 "annexes-budgetaires";88;0;88
 "georisques";88;0;88
@@ -1162,6 +1162,7 @@
 "oscom";39;0;39
 "bilan-social";39;0;39
 "saintquentin";39;0;39
+"dvf";8;31;39
 "temps-officiel";39;0;39
 "indicateur-de-vulnerabilite";39;0;39
 "vulnerabilite-aux-inondations";39;0;39
@@ -1190,7 +1191,6 @@
 "visites";38;0;38
 "ddt-haute-loire";38;0;38
 "democratie-et-citoyennete";38;0;38
-"dvf";8;30;38
 "action-sociale";37;0;37
 "aoc";22;15;37
 "artisanat";31;6;37
