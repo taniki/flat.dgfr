@@ -148,7 +148,7 @@
 "repartition-de-la-population-demographie";283;0;283
 "structure";279;1;280
 "vote";270;10;280
-"energie";250;29;279
+"energie";249;29;278
 "industrie";274;4;278
 "covid-19";105;171;276
 "openstreetmap";216;58;274
@@ -542,11 +542,11 @@
 "metropole-mers-celtiques";85;0;85
 "bornes";78;6;84
 "csv";78;6;84
-"reseaux";81;3;84
 "nom";83;1;84
 "bd-carthage";84;0;84
 "ressources-marines-biologiques";84;0;84
 "construction";81;2;83
+"reseaux";80;3;83
 "verre";81;2;83
 "dataviz1";83;0;83
 "arbres";78;4;82
@@ -4971,7 +4971,6 @@
 "economique";6;0;6
 "edifice";5;1;6
 "ehpa";6;0;6
-"energie-electrique";5;1;6
 "entrées";6;0;6
 "epandage";6;0;6
 "epst";6;0;6
@@ -5621,6 +5620,7 @@
 "electoraux";5;0;5
 "element";5;0;5
 "endettement";3;2;5
+"energie-electrique";4;1;5
 "enfance et familles";5;0;5
 "enseignement professionnel";3;2;5
 "enseignement-primaire";4;1;5
