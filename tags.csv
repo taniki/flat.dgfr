@@ -8,7 +8,7 @@
 "zones-a-risque-naturel";2545;0;2545
 "geospatial";2412;6;2418
 "grand-public";2252;0;2252
-"environnement";1814;33;1847
+"environnement";1817;33;1850
 "plu";1528;4;1532
 "transport";1375;22;1397
 "localisation";1304;22;1326
@@ -49,7 +49,7 @@
 "nord";675;5;680
 "equipements";660;18;678
 "amenagement-du-territoire";659;4;663
-"sport";580;67;647
+"sport";581;67;648
 "boundaries";643;1;644
 "eau";621;12;633
 "territoire";618;12;630
@@ -103,7 +103,7 @@
 "geologie";386;0;386
 "reseau";361;21;382
 "sols";379;0;379
-"dechets";368;4;372
+"dechets";369;4;373
 "recherche";347;25;372
 "nace";364;0;364
 "dreal-auvergne-rhone-alpes";364;0;364
@@ -122,7 +122,7 @@
 "finance";321;2;323
 "gtfs";313;10;323
 "voirie";312;10;322
-"sante-social";316;3;319
+"sante-social";317;3;320
 "nuisance-bruit";317;0;317
 "biodiversite";305;9;314
 "pollution";301;13;314
@@ -168,17 +168,17 @@
 "montpellier";237;20;257
 "risque-zonages-risque-technologi";256;0;256
 "consommation";231;24;255
-"irve";244;9;253
+"irve";245;9;254
 "directive-inondation";249;0;249
 "pos";243;1;244
 "zonage";229;12;241
 "guyane";239;1;240
 "aquitaine";213;23;236
 "adresses";227;8;235
+"subventions";217;17;234
+"tri";229;5;234
 "budget-de-letat";234;0;234
 "inondations";233;0;233
-"subventions";216;17;233
-"tri";228;5;233
 "meteo";216;13;229
 "occupation-du-sol";215;14;229
 "budget-primitif";225;1;226
@@ -228,11 +228,11 @@
 "production";178;6;184
 "voiture";163;21;184
 "pme";181;1;182
+"association";160;20;180
 "donnees";165;15;180
 "oceans";177;3;180
 "zone";178;2;180
 "arrets";178;1;179
-"association";159;20;179
 "risque-technologique";178;1;179
 "inventaire";176;2;178
 "migrant";177;0;177
@@ -378,12 +378,12 @@
 "electricite";114;7;121
 "immobilier";72;49;121
 "menage";120;1;121
+"rhone";119;1;120
 "cote-rocheuse";120;0;120
 "activite";113;6;119
 "enfant";117;2;119
 "modelisation";119;0;119
 "ddt-ain";119;0;119
-"rhone";118;1;119
 "innovation";106;12;118
 "loi-de-finances";117;1;118
 "martinique";117;1;118
@@ -391,12 +391,12 @@
 "cote-sableuse";118;0;118
 "occupationdusol";118;0;118
 "emissions";114;3;117
+"culture-tourisme";117;0;117
 "etranger";114;2;116
 "exposition";114;2;116
 "ligne";115;1;116
 "ppri";116;0;116
 "departement-du-bas-rhin-67";116;0;116
-"culture-tourisme";116;0;116
 "chambre-de-commerce-et-d-industrie";116;0;116
 "api";47;68;115
 "arret";111;4;115
@@ -586,6 +586,7 @@
 "rue";69;9;78
 "voies";76;2;78
 "enjeux";78;0;78
+"bornes-de-recharge";75;3;78
 "logement-sante-social";78;0;78
 "vrap";78;0;78
 "chaville";78;0;78
@@ -594,7 +595,6 @@
 "tour";77;0;77
 "mouvement-de-terrain";77;0;77
 "ortho-image-aerienne";77;0;77
-"bornes-de-recharge";74;3;77
 "car";71;5;76
 "frontière";76;0;76
 "heures";76;0;76
@@ -1476,6 +1476,7 @@
 "issy-com";30;0;30
 "sixt-sur-aff";30;0;30
 "oleoproteagineux";30;0;30
+"recharge-vehicules-electriques";28;2;30
 "ddt-25";30;0;30
 "pvp";30;0;30
 "agriculture-et-innovations";30;0;30
@@ -1508,7 +1509,6 @@
 "biofield-treatment";29;0;29
 "etablissements-agra-c-a-c-s-ce";29;0;29
 "rdi";29;0;29
-"recharge-vehicules-electriques";27;2;29
 "ville-de-lorient";29;0;29
 "comptes-daffectation-speciale";29;0;29
 "industrie-et-services";28;1;29
@@ -2042,6 +2042,7 @@
 "corona";13;7;20
 "covid2019";1;19;20
 "challengeopendata";20;0;20
+"izivia";20;0;20
 "actif";19;0;19
 "aide-au-logement";19;0;19
 "alsace";17;2;19
@@ -2128,7 +2129,6 @@
 "lieu-daccueil";19;0;19
 "coronavirusfrance";1;18;19
 "transports-et-mobilites";19;0;19
-"izivia";19;0;19
 "accessibilité";15;3;18
 "administrations";17;1;18
 "aide-directe";18;0;18
@@ -3118,6 +3118,7 @@
 "borne-fontaine";12;0;12
 "maison-de-la-nature-et-de-larbre";12;0;12
 "occupation-des-sols";12;0;12
+"bornes-electrique";12;0;12
 "base-adresse";11;1;12
 "hospitalisation";2;10;12
 "etat-du-milieu-hydrodynamique";12;0;12
@@ -3317,7 +3318,6 @@
 "bd-inventaire";11;0;11
 "invalidites";11;0;11
 "dasco";11;0;11
-"bornes-electrique";11;0;11
 "pontault-combault";11;0;11
 "licence-ouverte";11;0;11
 "intemperies";11;0;11
@@ -3518,6 +3518,7 @@
 "reseau-mobile";4;6;10
 "roe";10;0;10
 "referentiel-lignes";10;0;10
+"ordures";10;0;10
 "sport-loisirs";10;0;10
 "dejeuner";10;0;10
 "euro2016";10;0;10
@@ -3852,7 +3853,6 @@
 "dechets-menagers";8;1;9
 "plan-regional";9;0;9
 "cyclisme";8;1;9
-"ordures";9;0;9
 "hydrant";9;0;9
 "naizin";9;0;9
 "type-de-sol";9;0;9
@@ -3964,6 +3964,8 @@
 "societariat-mecenat";9;0;9
 "gouter";9;0;9
 "preprod";9;0;9
+"36159";9;0;9
+"publie-par-la-collectivite";9;0;9
 "accueil-de-jour";7;1;8
 "actp";8;0;8
 "administration-publique";5;3;8
@@ -4377,9 +4379,7 @@
 "dgaln";8;0;8
 "geomonlittoral";8;0;8
 "pays-de-mormal";2;6;8
-"36159";8;0;8
 "le-poinconnet";8;0;8
-"publie-par-la-collectivite";8;0;8
 "abonnement";7;0;7
 "accroissement";7;0;7
 "achat public";7;0;7
@@ -7516,6 +7516,7 @@
 "communate";4;0;4
 "doux";4;0;4
 "trekking";4;0;4
+"datatourisme";1;3;4
 "pia";4;0;4
 "mission-locale";4;0;4
 "mobilite-internationale";1;3;4
@@ -9455,7 +9456,6 @@
 "potager";2;1;3
 "quadrillage";3;0;3
 "hub";3;0;3
-"datatourisme";1;2;3
 "demo";3;0;3
 "test-description-subcat";3;0;3
 "code-ape";1;2;3
@@ -12638,6 +12638,7 @@
 "jeux-d-argent";2;0;2
 "operations-exterieures";2;0;2
 "opex";2;0;2
+"mobive";2;0;2
 "qos";2;0;2
 "qos-mobile";2;0;2
 "sites-mobiles";2;0;2
@@ -21870,7 +21871,6 @@
 "parcellaireagricole";1;0;1
 "pprlpays-de-monts-cote-reference";1;0;1
 "risquenaturel";1;0;1
-"mobive";1;0;1
 "sde24";1;0;1
 "sdee47";1;0;1
 "sdeeg33";1;0;1
