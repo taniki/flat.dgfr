@@ -25,7 +25,7 @@
 "inondation";931;3;934
 "zones-de-gestion-de-restriction-ou-de-reglementat";907;0;907
 "ortho";905;0;905
-"economie";851;48;899
+"economie";852;48;900
 "open-data";885;14;899
 "document-durbanisme";897;0;897
 "mobilite";850;42;892
@@ -37,16 +37,16 @@
 "1973";849;0;849
 "risque";804;2;806
 "elections";692;84;776
-"hauts-de-france";762;6;768
-"donnee-ouverte";750;2;752
+"hauts-de-france";763;6;769
+"donnee-ouverte";751;2;753
 "logement";716;28;744
 "reseaux-de-transport";722;1;723
 "geolocalisation";663;54;717
 "transports";676;16;692
 "commune";635;53;688
+"pas-de-calais";682;2;684
 "ppr";682;1;683
-"pas-de-calais";681;2;683
-"nord";675;5;680
+"nord";676;5;681
 "equipements";660;18;678
 "amenagement-du-territoire";659;4;663
 "sport";581;67;648
@@ -60,26 +60,26 @@
 "election";580;30;610
 "gouvernement";602;8;610
 "insee";563;36;599
-"somme";595;2;597
+"somme";596;2;598
 "risques";596;0;596
 "alea-enjeux-inondation-amenagement-urbanisme-prescription-prevention-servitude-risque-multi-risque";596;0;596
 "alea-enjeux-inondation-amenageme";596;0;596
 "education";543;46;589
 "deplacements";581;1;582
-"emploi";522;36;558
+"emploi";523;36;559
 "risque-inondation";542;0;542
 "population";482;59;541
 "transportation";536;3;539
 "finances";501;30;531
 "batiments";520;5;525
-"unites-administratives";517;1;518
+"unites-administratives";518;1;519
 "alea-enjeux-inondation-amenagement-urbanis";514;0;514
 "hydrographie";507;6;513
 "bus";488;21;509
-"oise";507;1;508
+"oise";508;1;509
 "stationnement";494;8;502
 "lot-et-garonne";498;1;499
-"aisne";493;1;494
+"aisne";494;1;495
 "services";463;6;469
 "adresse";456;8;464
 "rhone-alpes";462;2;464
@@ -117,7 +117,7 @@
 "intercommunalite";338;3;341
 "2019";329;4;333
 "circulation";308;23;331
-"departement";258;67;325
+"departement";258;68;326
 "gtfs";314;10;324
 "utilities-communication";324;0;324
 "finance";321;2;323
@@ -126,10 +126,10 @@
 "nuisance-bruit";317;0;317
 "pollution";301;14;315
 "biodiversite";305;9;314
-"commerce";283;25;308
+"commerce";284;25;309
 "specification-nationale";305;0;305
+"entreprise";292;12;304
 "biota";302;1;303
-"entreprise";291;12;303
 "loisirs";292;8;300
 "covid19";120;180;300
 "parking";289;10;299
@@ -144,7 +144,7 @@
 "habitats-et-biotopes";290;1;291
 "base-adresse-locale";291;0;291
 "cd-53";290;0;290
-"industrie";282;4;286
+"industrie";283;4;287
 "pedologie";285;1;286
 "repartition-de-la-population-demographie";283;0;283
 "structure";279;1;280
@@ -297,10 +297,10 @@
 "ilot-de-chaleur";140;1;141
 "2020";140;1;141
 "cinema";110;30;140
+"regions";100;40;140
 "concentration-de-polluant";140;0;140
 "station-meteo";139;1;140
 "paris";89;50;139
-"regions";100;39;139
 "espace schengen";137;0;137
 "internet";115;22;137
 "location";130;7;137
@@ -352,6 +352,7 @@
 "estuaire";126;0;126
 "caux";126;0;126
 "cadre-de-vie";124;1;125
+"cci";121;4;125
 "faune";125;0;125
 "flore";124;1;125
 "randonnee";121;4;125
@@ -359,7 +360,6 @@
 "conseil-departemental";125;0;125
 "metropole-golfe-de-gascogne";125;0;125
 "bourgogne";122;2;124
-"cci";120;4;124
 "communaute";123;1;124
 "havre";124;0;124
 "archives";118;5;123
@@ -392,12 +392,12 @@
 "occupationdusol";118;0;118
 "emissions";114;3;117
 "culture-tourisme";117;0;117
+"chambre-de-commerce-et-d-industrie";117;0;117
 "etranger";114;2;116
 "exposition";114;2;116
 "ligne";115;1;116
 "ppri";116;0;116
 "departement-du-bas-rhin-67";116;0;116
-"chambre-de-commerce-et-d-industrie";116;0;116
 "api";47;68;115
 "arret";111;4;115
 "infrastructures";112;3;115
@@ -537,10 +537,10 @@
 "trait-de-cote";84;2;86
 "sevres";86;0;86
 "etat-du-milieu-especes";86;0;86
+"csv";78;7;85
 "naissance";71;14;85
 "metropole-mers-celtiques";85;0;85
 "dataviz1";85;0;85
-"csv";78;6;84
 "verre";82;2;84
 "loire-atlantique";83;1;84
 "nom";83;1;84
@@ -3877,6 +3877,7 @@
 "fond-de-carte";9;0;9
 "bebe";4;5;9
 "classification";9;0;9
+"startup";4;5;9
 "mer-littoral-peche-maritime";9;0;9
 "dac";9;0;9
 "aide-a-finalite-regionale";9;0;9
@@ -4263,7 +4264,6 @@
 "moyens-financiers";8;0;8
 "moyens-humains";8;0;8
 "organismes";8;0;8
-"startup";4;4;8
 "secheresse";6;2;8
 "coney";8;0;8
 "pprif";8;0;8
@@ -5635,6 +5635,7 @@
 "etrangere";5;0;5
 "etudiant-etranger";4;1;5
 "evaluant";5;0;5
+"excel";2;3;5
 "exclus";5;0;5
 "fer";4;1;5
 "fermages";5;0;5
@@ -6537,7 +6538,6 @@
 "etiquette";4;0;4
 "etude-d-usages";4;0;4
 "euro";3;1;4
-"excel";2;2;4
 "exclusivement";4;0;4
 "exploitation-forestiere";4;0;4
 "exterieures";4;0;4
@@ -8945,6 +8945,7 @@
 "secretariat";3;0;3
 "prix-au-m2";1;2;3
 "preservation";3;0;3
+"estimation-immobiliere";1;2;3
 "prix-m2";1;2;3
 "referes";3;0;3
 "dietetique";1;2;3
@@ -12217,7 +12218,6 @@
 "avantage";2;0;2
 "enclos";2;0;2
 "sable";2;0;2
-"estimation-immobiliere";1;1;2
 "occupation-sol-agriculture-environnement-urbanisme";2;0;2
 "mannequinat";0;2;2
 "detecteur-de-monoxyde-de-carbone";0;2;2
@@ -14306,6 +14306,8 @@
 "airspace-map";1;1;2
 "communaute-de-communes-du-pays-fertois";2;0;2
 "jury";2;0;2
+"estimation-en-ligne";0;2;2
+"estimation-gratuite";0;2;2
 "age-de-populaton";2;0;2
 "fragilite-numerique";2;0;2
 "fragilte-numerique";2;0;2
@@ -28509,8 +28511,6 @@
 "grand-site-de-france";1;0;1
 "protection-du-patrimoine-natruel";1;0;1
 "prestations-solidarite";1;0;1
-"estimation-en-ligne";0;1;1
-"estimation-gratuite";0;1;1
 "quartier-avant-2008";1;0;1
 "certificat-dimmatriculation";0;1;1
 "agglodebrive";1;0;1
@@ -29533,3 +29533,4 @@
 "jeunes-salaries";1;0;1
 "jobs";1;0;1
 "jobs-dete";1;0;1
+"jobs-etudiants";1;0;1
