@@ -8,27 +8,27 @@
 "zones-a-risque-naturel";2545;0;2545
 "geospatial";2439;6;2445
 "grand-public";2252;0;2252
-"environnement";1835;35;1870
+"environnement";1834;35;1869
 "plu";1528;4;1532
 "transport";1377;23;1400
 "localisation";1304;22;1326
 "environment";1317;6;1323
 "france";1145;114;1259
-"citoyennete";1233;6;1239
+"citoyennete";1234;6;1240
 "urbanisme";1178;13;1191
-"administration";1167;13;1180
-"finances-publiques";1120;5;1125
+"administration";1168;13;1181
+"finances-publiques";1121;5;1126
 "budget";1068;20;1088
 "pprn";1084;0;1084
 "tourisme";1001;31;1032
 "culture";990;41;1031
 "inondation";931;3;934
 "zones-de-gestion-de-restriction-ou-de-reglementat";907;0;907
+"economie";858;48;906
 "ortho";906;0;906
-"economie";857;48;905
 "open-data";885;14;899
 "document-durbanisme";897;0;897
-"mobilite";851;42;893
+"mobilite";852;42;894
 "orthophotographie";890;2;892
 "casq";886;0;886
 "photo";871;1;872
@@ -37,15 +37,15 @@
 "1973";849;0;849
 "risque";804;2;806
 "elections";693;84;777
-"hauts-de-france";767;6;773
-"donnee-ouverte";755;2;757
+"hauts-de-france";768;6;774
+"donnee-ouverte";756;2;758
 "logement";723;28;751
 "reseaux-de-transport";722;1;723
 "geolocalisation";663;54;717
 "transports";677;16;693
+"pas-de-calais";687;2;689
 "commune";635;53;688
-"pas-de-calais";686;2;688
-"nord";680;5;685
+"nord";681;5;686
 "ppr";682;1;683
 "equipements";664;18;682
 "amenagement-du-territoire";662;4;666
@@ -53,35 +53,35 @@
 "boundaries";643;1;644
 "territoire";628;12;640
 "eau";621;12;633
+"sante";543;87;630
 "bretagne";579;50;629
-"sante";542;87;629
 "patrimoine";615;12;627
 "donnees-publiques";610;3;613
-"gouvernement";604;8;612
+"gouvernement";605;8;613
 "election";580;30;610
-"somme";600;2;602
+"somme";601;2;603
 "insee";563;36;599
 "risques";596;0;596
 "alea-enjeux-inondation-amenagement-urbanisme-prescription-prevention-servitude-risque-multi-risque";596;0;596
 "alea-enjeux-inondation-amenageme";596;0;596
 "education";543;46;589
 "deplacements";582;1;583
-"emploi";528;36;564
+"emploi";529;36;565
 "population";484;59;543
 "risque-inondation";542;0;542
 "transportation";536;3;539
 "finances";502;30;532
 "batiments";524;5;529
-"unites-administratives";522;1;523
-"bus";494;21;515
+"unites-administratives";523;1;524
+"bus";493;21;514
+"oise";513;1;514
 "alea-enjeux-inondation-amenagement-urbanis";514;0;514
 "hydrographie";507;6;513
-"oise";512;1;513
-"stationnement";494;8;502
+"stationnement";495;8;503
+"aisne";499;1;500
 "lot-et-garonne";498;1;499
-"aisne";498;1;499
 "services";463;6;469
-"adresse";458;8;466
+"adresse";460;8;468
 "rhone-alpes";462;2;464
 "opendata";415;43;458
 "zonages-risque-naturel";457;0;457
@@ -116,18 +116,18 @@
 "cartographie";247;94;341
 "intercommunalite";338;3;341
 "2019";329;4;333
-"circulation";308;23;331
+"circulation";309;23;332
 "departement";260;68;328
-"gtfs";315;10;325
+"gtfs";314;10;324
 "utilities-communication";324;0;324
 "finance";321;2;323
 "voirie";313;10;323
+"sante-social";318;3;321
 "biodiversite";311;9;320
-"sante-social";317;3;320
 "pollution";304;14;318
 "nuisance-bruit";317;0;317
-"commerce";288;25;313
-"entreprise";301;12;313
+"commerce";289;25;314
+"entreprise";302;12;314
 "specification-nationale";305;0;305
 "biota";302;1;303
 "carte";121;182;303
@@ -136,14 +136,14 @@
 "covid19";120;180;300
 "parking";289;10;299
 "subvention";287;8;295
+"base-adresse-locale";295;0;295
 "deplacement";292;1;293
 "mayenne";292;1;293
-"base-adresse-locale";293;0;293
 "compte-administratif";290;2;292
+"industrie";288;4;292
 "developpement-economique";291;1;292
 "littoral-aquitain";292;0;292
 "habitats-et-biotopes";290;1;291
-"industrie";287;4;291
 "cd-53";290;0;290
 "pedologie";285;1;286
 "repartition-de-la-population-demographie";283;0;283
@@ -158,8 +158,8 @@
 "etudes-pedologiques";268;0;268
 "types-de-sols";268;0;268
 "repartition-de-la-population";268;0;268
+"irve";258;9;267
 "society";267;0;267
-"irve";257;9;266
 "nouvelle-aquitaine";265;1;266
 "region";224;40;264
 "hebergement";254;6;260
@@ -272,6 +272,7 @@
 "sncf-reseau";153;0;153
 "marches-publics";138;14;152
 "routes";137;15;152
+"bal";150;2;152
 "pm10";151;0;151
 "trafic";147;4;151
 "departements";103;47;150
@@ -279,7 +280,6 @@
 "littoral";146;4;150
 "france-metropolitaine";138;12;150
 "immigre";150;0;150
-"bal";148;2;150
 "infrastructure";144;5;149
 "reseau-routier";148;1;149
 "deces";101;47;148
@@ -333,6 +333,7 @@
 "trimestrielles";131;0;131
 "artois-picardie";131;0;131
 "ouvertes";131;0;131
+"cci";126;4;130
 "depenses";118;12;130
 "mer";126;4;130
 "prescription";130;0;130
@@ -340,7 +341,6 @@
 "agenda";114;15;129
 "aide";127;2;129
 "art";124;5;129
-"cci";125;4;129
 "ecoles";125;4;129
 "accueil";126;2;128
 "administratif";114;14;128
@@ -375,9 +375,9 @@
 "codah";122;0;122
 "havraise";122;0;122
 "lagglomeration";122;0;122
+"chambre-de-commerce-et-d-industrie";122;0;122
 "immobilier";72;49;121
 "menage";120;1;121
-"chambre-de-commerce-et-d-industrie";121;0;121
 "electricite";113;7;120
 "rhone";119;1;120
 "cote-rocheuse";120;0;120
@@ -459,11 +459,11 @@
 "theatre";90;11;101
 "aides";99;1;100
 "maternelle";99;1;100
-"parcs";97;3;100
 "ouvert";100;0;100
 "sante-et-securite-des-personnes";100;0;100
 "loisir";96;3;99
 "mairie";90;9;99
+"parcs";96;3;99
 "police";83;16;99
 "franche-comte";98;0;98
 "marche-public";93;5;98
@@ -504,11 +504,11 @@
 "etat";84;7;91
 "cadre-de-vie-environnement";91;0;91
 "evenement";80;10;90
+"prenoms";62;28;90
 "transport-en-commun";87;3;90
 "biologie";88;1;89
 "democratie";83;6;89
 "iris";73;16;89
-"prenoms";61;28;89
 "qualite";86;3;89
 "ille-et-vilaine";86;3;89
 "eau-souterraine";87;1;88
@@ -530,6 +530,7 @@
 "bourgogne-franche-comte";86;1;87
 "donnees-de-references-referentie";87;0;87
 "aide-sociale";86;0;86
+"bornes";80;6;86
 "evolution";65;21;86
 "jardin";81;5;86
 "morbihan";82;4;86
@@ -538,7 +539,6 @@
 "sevres";86;0;86
 "espace-naturel-sensible";86;0;86
 "etat-du-milieu-especes";86;0;86
-"bornes";79;6;85
 "csv";78;7;85
 "naissance";71;14;85
 "metropole-mers-celtiques";85;0;85
@@ -575,18 +575,18 @@
 "urbain";79;1;80
 "amenagement-urbanisme";79;1;80
 "specification-locale";80;0;80
+"bornes-de-recharge";77;3;80
 "ayant";79;0;79
 "eleves";79;0;79
 "gare-de-voyageurs";71;8;79
+"rue";70;9;79
 "service-public";66;13;79
 "surveillance";75;4;79
 "voies";77;2;79
 "communaute-urbaine";79;0;79
-"bornes-de-recharge";76;3;79
 "logement-sante-social";79;0;79
 "2009";78;0;78
 "gaz";74;4;78
-"rue";69;9;78
 "enjeux";78;0;78
 "vrap";78;0;78
 "chaville";78;0;78
@@ -634,6 +634,7 @@
 "parcelles-cadastrales";67;5;72
 "paysage";71;1;72
 "pmr";70;2;72
+"prenom";53;19;72
 "ddtm-44";72;0;72
 "multi-risque";72;0;72
 "mobilites";64;8;72
@@ -644,7 +645,6 @@
 "effectif";64;7;71
 "institution";71;0;71
 "limite-administrative";71;0;71
-"prenom";52;19;71
 "transports-et-mobilite";69;2;71
 "barometre";70;1;71
 "administration-et-finances-publiques";71;0;71
@@ -703,6 +703,7 @@
 "produit";58;7;65
 "spectacle";56;9;65
 "universites";61;4;65
+"vehicule-electrique";61;4;65
 "premiere-guerre-mondiale";2;63;65
 "government";65;0;65
 "espaces-verts";62;2;64
@@ -712,7 +713,6 @@
 "livre";58;6;64
 "numero";63;1;64
 "élection";57;7;64
-"vehicule-electrique";60;4;64
 "siren";53;11;64
 "sources-denergie";64;0;64
 "route-departementale";64;0;64
@@ -739,12 +739,14 @@
 "mesure";62;0;62
 "retraite";60;2;62
 "services-de-l-etat";61;1;62
+"vehicule";58;4;62
 "visiteur";62;0;62
 "agglo";61;1;62
 "bureau-de-vote";62;0;62
 "immigration-clandestine";62;0;62
 "memoire-des-hommes";2;60;62
 "14-18";3;59;62
+"adressage";62;0;62
 "donnees-environnementales";62;0;62
 "animation";56;5;61
 "autorisation de séjour";61;0;61
@@ -761,7 +763,6 @@
 "presse";52;9;61
 "regroupement familial";61;0;61
 "titre de séjour";61;0;61
-"vehicule";57;4;61
 "niveau-de-diffusion";61;0;61
 "autorisation-de-sejour";61;0;61
 "autorisation-provisoire-de-sejour";61;0;61
@@ -769,7 +770,6 @@
 "migration-professionnelle";61;0;61
 "regroupement-familial";61;0;61
 "autorisation-provisoire-de-sejou";61;0;61
-"adressage";61;0;61
 "covid19france";8;53;61
 "affaires";59;1;60
 "collectivites";47;13;60
@@ -787,7 +787,6 @@
 "ca";59;0;59
 "du";59;0;59
 "financement";58;1;59
-"jardins";52;7;59
 "piste-cyclable";58;1;59
 "proximite";52;7;59
 "natura-2000";58;1;59
@@ -799,6 +798,7 @@
 "compte";58;0;58
 "crowdsourcing";17;41;58
 "equipement-sportif";17;41;58
+"jardins";51;7;58
 "photovoltaique";48;10;58
 "regionales";55;3;58
 "transport-urbain";58;0;58
@@ -841,6 +841,7 @@
 "hotel";49;6;55
 "ocs";55;0;55
 "parlement";46;9;55
+"idg";54;1;55
 "pdf";54;1;55
 "gestion-de-risque";55;0;55
 "etat-du-milieu-qualite-quantite";55;0;55
@@ -856,7 +857,6 @@
 "reglementation";53;1;54
 "restaurant";48;6;54
 "statistique";42;12;54
-"idg";53;1;54
 "fibre";44;10;54
 "bio";48;6;54
 "metz-metropole";54;0;54
@@ -890,6 +890,7 @@
 "gestion-du-risque-d-inondation";52;0;52
 "territoire-a-risque-d-inondation";52;0;52
 "dechetterie";50;2;52
+"borne-electrique";47;5;52
 "star";52;0;52
 "confinement";27;25;52
 "caf";49;2;51
@@ -907,7 +908,6 @@
 "habitats-naturels";51;0;51
 "dataconnexions-6";1;50;51
 "srce";51;0;51
-"borne-electrique";46;5;51
 "referentiels-geographiques";51;0;51
 "dioxyde-dazote";51;0;51
 "particules-en-suspension";51;0;51
@@ -1030,6 +1030,7 @@
 "mariages";27;18;45
 "parcours";43;2;45
 "particules";44;1;45
+"pharmacie";31;14;45
 "places";44;1;45
 "retour-aide";45;0;45
 "revenu";39;6;45
@@ -1054,7 +1055,6 @@
 "immigration illégale";44;0;44
 "label";43;1;44
 "observatoire";28;16;44
-"pharmacie";30;14;44
 "retour aidé";44;0;44
 "test";37;7;44
 "travail illigal";44;0;44
@@ -1077,6 +1077,7 @@
 "repas";42;1;43
 "routier";42;1;43
 "sociales";41;2;43
+"voiture-electrique";40;3;43
 "vendee";41;2;43
 "eau-assainissement";43;0;43
 "foret-dfci";43;0;43
@@ -1104,7 +1105,6 @@
 "tableaux";38;4;42
 "ter";35;7;42
 "transport-public";38;4;42
-"voiture-electrique";39;3;42
 "eau-peche";42;0;42
 "submersion-marine";42;0;42
 "culture-patrimoine";39;3;42
@@ -1152,6 +1152,7 @@
 "éducation";24;16;40
 "blagnac";40;0;40
 "vie-economique-innovation";40;0;40
+"bornes-de-recharge-electrique";28;12;40
 "bourse-detudes";40;0;40
 "monoxyde-de-carbone";40;0;40
 "valorisation-du-patrimoine-regional";40;0;40
@@ -1178,7 +1179,6 @@
 "elections-municipales";30;9;39
 "fourriere";39;0;39
 "donnees-sexuees";39;0;39
-"bornes-de-recharge-electrique";27;12;39
 "oscom";39;0;39
 "bilan-social";39;0;39
 "saintquentin";39;0;39
@@ -1433,6 +1433,7 @@
 "the-trivedi-effect";31;0;31
 "trivedi-effect";31;0;31
 "uai";30;1;31
+"iot";30;1;31
 "economie-entreprise";31;0;31
 "monoxyde-dazote";31;0;31
 "recharge-vehicules-electriques";29;2;31
@@ -1479,7 +1480,6 @@
 "grand-paris";27;3;30
 "simulateur";22;8;30
 "zones-naturelles-paysages-ecosys";30;0;30
-"iot";29;1;30
 "issy-com";30;0;30
 "sixt-sur-aff";30;0;30
 "oleoproteagineux";30;0;30
@@ -1508,10 +1508,12 @@
 "basque";29;0;29
 "bas-rhin";28;1;29
 "base-adresse-nationale";29;0;29
+"vehicules-electriques";26;3;29
 "academies";29;0;29
 "consommation-electrique";29;0;29
 "biofield-energy-treatment";29;0;29
 "biofield-treatment";29;0;29
+"bornes-electriques";25;4;29
 "etablissements-agra-c-a-c-s-ce";29;0;29
 "rdi";29;0;29
 "ville-de-lorient";29;0;29
@@ -1555,10 +1557,8 @@
 "emprunts";28;0;28
 "relais";28;0;28
 "balances-comptables";28;0;28
-"vehicules-electriques";25;3;28
 "actes-administratifs";27;1;28
 "dreal-nouvelle-aquitaine";28;0;28
-"bornes-electriques";24;4;28
 "meteofrance";27;1;28
 "ants";28;0;28
 "belfort";27;1;28
@@ -1579,7 +1579,6 @@
 "derniers";27;0;27
 "donnees-budgetaires";27;0;27
 "espaces-naturels-sensibles";27;0;27
-"ferme";26;1;27
 "films";21;6;27
 "gymnase";26;1;27
 "harmonises";27;0;27
@@ -1613,6 +1612,7 @@
 "dfa";27;0;27
 "cnig-2014";27;0;27
 "toolbox";27;0;27
+"20006911000019";27;0;27
 "agriculteur";27;0;27
 "lio";27;0;27
 "accompagnement";26;0;26
@@ -1628,6 +1628,7 @@
 "elections-europeennes";20;6;26
 "eolienne";26;0;26
 "equipement-culturel";26;0;26
+"ferme";25;1;26
 "finale";26;0;26
 "geo";14;12;26
 "immatriculations";26;0;26
@@ -1669,7 +1670,6 @@
 "housing";26;0;26
 "spatial-planning";26;0;26
 "town-planning";26;0;26
-"20006911000019";26;0;26
 "aeroport";22;3;25
 "ages";24;1;25
 "appartement";19;6;25
@@ -1803,6 +1803,7 @@
 "marchés publics";17;6;23
 "changement-climatique";21;2;23
 "administration-territoriale";23;0;23
+"film";21;2;23
 "permis-de-conduire";15;8;23
 "agglomeration";23;0;23
 "dreal-pc";23;0;23
@@ -1814,6 +1815,7 @@
 "batiment-equipements";23;0;23
 "energies-renouvelables";21;2;23
 "nationalite-francaise";23;0;23
+"voitures-electriques";22;1;23
 "titres-de-transport";23;0;23
 "profils";23;0;23
 "organisme-culturel";23;0;23
@@ -1853,7 +1855,6 @@
 "systemes";22;0;22
 "tri-selectif";19;3;22
 "video";19;3;22
-"film";21;1;22
 "sinp";22;0;22
 "site-industriel";22;0;22
 "risque-gestion-du-risque";22;0;22
@@ -1866,7 +1867,6 @@
 "bm";22;0;22
 "bmvr";22;0;22
 "police-municipale";22;0;22
-"voitures-electriques";21;1;22
 "commerces-services";22;0;22
 "dcpsl";22;0;22
 "economie-emploi";21;1;22
@@ -2082,6 +2082,7 @@
 "spectacles";18;1;19
 "transport_public";17;2;19
 "vegetaux";17;2;19
+"voitures";13;6;19
 "zone-protegee";17;2;19
 "zones-humides";19;0;19
 "data2c";0;19;19
@@ -2183,7 +2184,6 @@
 "totales";18;0;18
 "totem";18;0;18
 "twitter";14;4;18
-"voitures";12;6;18
 "zus";18;0;18
 "url";18;0;18
 "actes";18;0;18
@@ -2584,6 +2584,7 @@
 "annonces-immobilieres";14;1;15
 "fxx";15;0;15
 "saint-denis";14;1;15
+"bornes-electrique";15;0;15
 "effectifs-salaries";14;1;15
 "sport-et-nature";15;0;15
 "datagouv";14;1;15
@@ -2694,6 +2695,7 @@
 "cyclotourisme";14;0;14
 "mandat";14;0;14
 "velo-libre-service";14;0;14
+"vehicules-electrique";13;1;14
 "front-dunaire";14;0;14
 "siba";14;0;14
 "institution-publique";14;0;14
@@ -2717,7 +2719,6 @@
 "images-aeriennes";14;0;14
 "bt";14;0;14
 "circuit-scolaire";14;0;14
-"bornes-electrique";14;0;14
 "monlittoral";14;0;14
 "gestion-post-crise";14;0;14
 "inventaire-flore";14;0;14
@@ -2890,7 +2891,6 @@
 "vincennes";12;1;13
 "gares-de-voyageurs";13;0;13
 "emission-atmospherique";13;0;13
-"vehicules-electrique";12;1;13
 "compost";13;0;13
 "gnv";13;0;13
 "conseil-departemental-89";13;0;13
@@ -3075,6 +3075,7 @@
 "carte-de-france";0;12;12
 "decouverte";10;2;12
 "foret-foret";12;0;12
+"referentiel-arrets";12;0;12
 "movements";12;0;12
 "sportif";11;1;12
 "yvelines";9;3;12
@@ -3172,6 +3173,7 @@
 "epin";11;0;11
 "essais_cliniques";11;0;11
 "fonctionnaires";11;0;11
+"garde";10;1;11
 "gouvernance";11;0;11
 "grippe";4;7;11
 "groupe";11;0;11
@@ -3279,7 +3281,7 @@
 "wifi-public";6;5;11
 "cr";11;0;11
 "donnee-generique-habillage";11;0;11
-"referentiel-arrets";11;0;11
+"referentiel-lignes";11;0;11
 "reseau-de-surface";11;0;11
 "dsoe";11;0;11
 "systeme-de-maillage-geographique";11;0;11
@@ -3384,7 +3386,6 @@
 "fonction-publique-territoriale";9;1;10
 "fourniture";10;0;10
 "fse";10;0;10
-"garde";9;1;10
 "girci";10;0;10
 "guide";9;1;10
 "haie";10;0;10
@@ -3401,7 +3402,6 @@
 "juridique";9;1;10
 "librairie";5;5;10
 "lieu";9;1;10
-"lille";5;5;10
 "lycee-public";10;0;10
 "maisons";10;0;10
 "mode";9;1;10
@@ -3530,7 +3530,6 @@
 "moteur-de-recherche";1;9;10
 "reseau-mobile";4;6;10
 "roe";10;0;10
-"referentiel-lignes";10;0;10
 "ordures";10;0;10
 "sport-loisirs";10;0;10
 "dejeuner";10;0;10
@@ -3692,6 +3691,7 @@
 "langue";9;0;9
 "legislation";2;7;9
 "liee";9;0;9
+"lille";4;5;9
 "mandats";9;0;9
 "manifestations-sportives";9;0;9
 "medecin-liberal";6;3;9
@@ -3973,6 +3973,7 @@
 "preprod";9;0;9
 "36159";9;0;9
 "publie-par-la-collectivite";9;0;9
+"chargeguru";9;0;9
 "accueil-de-jour";7;1;8
 "actp";8;0;8
 "administration-publique";5;3;8
@@ -4393,8 +4394,8 @@
 "dgaln";8;0;8
 "geomonlittoral";8;0;8
 "pays-de-mormal";2;6;8
+"vehicule-propre";8;0;8
 "le-poinconnet";8;0;8
-"chargeguru";8;0;8
 "abonnement";7;0;7
 "accroissement";7;0;7
 "achat public";7;0;7
@@ -5366,7 +5367,6 @@
 "acces-public";6;0;6
 "2g-3g-4g";2;4;6
 "circulations";6;0;6
-"annecy";5;1;6
 "eclairage-public";6;0;6
 "renovation-energetique";6;0;6
 "big-data";1;5;6
@@ -5425,6 +5425,7 @@
 "ecoles-dingenieurs";6;0;6
 "arrets-de-bus";6;0;6
 "archive-ouverte";6;0;6
+"adresse-numero-rue-code-postal-ville";6;0;6
 "plu-pos-sudocuh";6;0;6
 "courbe-moyenne";6;0;6
 "infrastructure-de-recherche";6;0;6
@@ -5542,7 +5543,6 @@
 "carrieres-sous-poissy";6;0;6
 "epone";6;0;6
 "codes-naf";5;1;6
-"vehicule-propre";6;0;6
 "surface-utile";6;0;6
 "irve-61-borne-recharge";4;2;6
 "escoublac";6;0;6
@@ -6144,6 +6144,7 @@
 "topographique";5;0;5
 "vehicule-de-transport-en-commun";5;0;5
 "monreseaumobile-fr";2;3;5
+"annecy";4;1;5
 "bd-ortho";5;0;5
 "orthoimagerie";4;1;5
 "cours-de-lor";3;2;5
@@ -6208,7 +6209,6 @@
 "master-lmd";5;0;5
 "saint-gatien-des-bois";5;0;5
 "la-gaude";5;0;5
-"adresse-numero-rue-code-postal-ville";5;0;5
 "systeme-de-coordonnees";5;0;5
 "centre-val-de-loire";1;4;5
 "wiiiz";4;1;5
@@ -6220,6 +6220,7 @@
 "sauvetage";3;2;5
 "apec";5;0;5
 "comportement-social";5;0;5
+"etablissement-daccueil";5;0;5
 "organisation-du-territoire";5;0;5
 "structure-daccueil";5;0;5
 "quimper-bretagne-occidentale";5;0;5
@@ -6335,6 +6336,7 @@
 "cerema-infra-transport-materiaux";5;0;5
 "effectif-prive";5;0;5
 "reduction-des-dechets";5;0;5
+"adresse-locale";5;0;5
 "comparabus";0;5;5
 "iledefrance";0;5;5
 "information-voyageurs";5;0;5
@@ -7526,7 +7528,6 @@
 "beta";4;0;4
 "basket";4;0;4
 "deplacements-doux";4;0;4
-"etablissement-daccueil";4;0;4
 "procedure-civile";4;0;4
 "traitement-de-leau";4;0;4
 "seiche";4;0;4
@@ -7704,7 +7705,6 @@
 "saintdenis";4;0;4
 "open-science";4;0;4
 "visas";4;0;4
-"adresse-locale";4;0;4
 "ocs-2-d";4;0;4
 "ap";4;0;4
 "blablabus";1;3;4
@@ -8075,6 +8075,7 @@
 "filiere-medico-sociale";3;0;3
 "filles";1;2;3
 "films-francais";2;1;3
+"films-francais-production";2;1;3
 "fins";3;0;3
 "fixes";3;0;3
 "flux migratoire";3;0;3
@@ -9482,6 +9483,7 @@
 "ressort-territorial";3;0;3
 "pde";3;0;3
 "transparence-sante";1;2;3
+"restriction-circulation";3;0;3
 "csa";3;0;3
 "o-3";3;0;3
 "frelons";3;0;3
@@ -9521,6 +9523,7 @@
 "cavaillon";1;2;3
 "saint-didier";2;1;3
 "meze";3;0;3
+"buxerolles";2;1;3
 "chavagne";0;3;3
 "reseaux-de-chaleur";3;0;3
 "bilingue";3;0;3
@@ -10402,7 +10405,6 @@
 "fibre optique";1;1;2
 "fichier-unite";1;1;2
 "films-agrees";2;0;2
-"films-francais-production";2;0;2
 "films-produits";2;0;2
 "films-sortis";1;1;2
 "financiere";1;1;2
@@ -13279,7 +13281,6 @@
 "13-octobre";2;0;2
 "data-storytelling";0;2;2
 "paris-sans-voiture";2;0;2
-"restriction-circulation";2;0;2
 "concentration-cartographiee";2;0;2
 "batiment-communal";2;0;2
 "cartouche";2;0;2
@@ -13358,8 +13359,6 @@
 "sete";2;0;2
 "siege";2;0;2
 "site-geographique";2;0;2
-"grand-annecy";2;0;2
-"sibra";2;0;2
 "biv";2;0;2
 "prochain-passage";2;0;2
 "registres-matricules";0;2;2
@@ -13382,7 +13381,6 @@
 "luce";1;1;2
 "passy";1;1;2
 "transports-urbains";2;0;2
-"buxerolles";1;1;2
 "chatellerault";1;1;2
 "aire-dadhesion";2;0;2
 "blois";1;1;2
@@ -14458,8 +14456,6 @@
 "vin-dirouleguy";2;0;2
 "sdirve";2;0;2
 "2030";2;0;2
-"jybus";2;0;2
-"rumilly";2;0;2
 "1-dose";0;2;2
 "regionales-2021";0;2;2
 "ccsd-hal";2;0;2
@@ -14539,6 +14535,8 @@
 "nowigo";0;2;2
 "bibliotheque-du-patrimoine";2;0;2
 "ingeteam";2;0;2
+"chasseneuil-du-poitou";2;0;2
+"montamise";2;0;2
 "112";1;0;1
 "18";1;0;1
 "1998";1;0;1
@@ -24368,7 +24366,9 @@
 "voirie-communautaire";1;0;1
 "collaborateur";1;0;1
 "responsabilite-societale-entreprise-rse";1;0;1
+"grand-annecy";1;0;1
 "interurbains";1;0;1
+"sibra";1;0;1
 "secours-a-personne";1;0;1
 "assurance-sant";1;0;1
 "gagny";0;1;1
@@ -29200,6 +29200,8 @@
 "2035";1;0;1
 "montataire-hta";1;0;1
 "rccem-hta";1;0;1
+"jybus";1;0;1
+"rumilly";1;0;1
 "parisot";1;0;1
 "04161";1;0;1
 "meolans-revel";1;0;1
