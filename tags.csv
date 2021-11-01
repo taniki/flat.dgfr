@@ -11,10 +11,10 @@
 "environnement";1836;35;1871
 "plu";1528;4;1532
 "transport";1377;23;1400
-"localisation";1304;22;1326
+"localisation";1305;22;1327
 "environment";1317;6;1323
 "france";1145;114;1259
-"citoyennete";1237;6;1243
+"citoyennete";1238;6;1244
 "urbanisme";1179;13;1192
 "administration";1169;13;1182
 "finances-publiques";1122;5;1127
@@ -23,7 +23,7 @@
 "culture";991;41;1032
 "tourisme";1001;31;1032
 "inondation";931;3;934
-"economie";865;48;913
+"economie";866;48;914
 "zones-de-gestion-de-restriction-ou-de-reglementat";907;0;907
 "ortho";906;0;906
 "open-data";886;14;900
@@ -36,22 +36,22 @@
 "prise-de-vue";852;0;852
 "1973";849;0;849
 "risque";804;2;806
-"hauts-de-france";775;6;781
+"hauts-de-france";776;6;782
 "elections";693;84;777
-"donnee-ouverte";763;2;765
+"donnee-ouverte";764;2;766
 "logement";724;28;752
 "reseaux-de-transport";722;1;723
 "geolocalisation";663;54;717
-"pas-de-calais";694;2;696
+"pas-de-calais";695;2;697
+"nord";689;5;694
 "transports";678;16;694
-"nord";688;5;693
 "commune";635;53;688
 "equipements";666;18;684
 "ppr";682;1;683
 "amenagement-du-territoire";663;4;667
 "sport";582;67;649
 "boundaries";643;1;644
-"territoire";625;12;637
+"territoire";623;12;635
 "eau";621;12;633
 "sante";544;87;631
 "bretagne";579;50;629
@@ -59,25 +59,25 @@
 "donnees-publiques";611;3;614
 "gouvernement";606;8;614
 "election";582;30;612
-"somme";608;2;610
+"somme";609;2;611
 "insee";563;37;600
 "risques";596;0;596
 "alea-enjeux-inondation-amenagement-urbanisme-prescription-prevention-servitude-risque-multi-risque";596;0;596
 "alea-enjeux-inondation-amenageme";596;0;596
 "education";544;46;590
 "deplacements";583;1;584
-"emploi";536;36;572
+"emploi";537;36;573
 "population";484;59;543
 "risque-inondation";542;0;542
 "transportation";536;3;539
 "finances";502;30;532
-"unites-administratives";530;1;531
+"unites-administratives";531;1;532
 "batiments";525;5;530
-"oise";520;1;521
+"oise";521;1;522
 "bus";494;21;515
 "alea-enjeux-inondation-amenagement-urbanis";514;0;514
 "hydrographie";507;6;513
-"aisne";506;1;507
+"aisne";507;1;508
 "stationnement";495;8;503
 "lot-et-garonne";498;1;499
 "adresse";462;8;470
@@ -89,8 +89,8 @@
 "velo";405;47;452
 "agriculture";424;27;451
 "communes";360;80;440
+"demographie";388;44;432
 "inland-waters";432;0;432
-"demographie";387;44;431
 "farming";428;0;428
 "ddt-54";426;0;426
 "social";416;8;424
@@ -122,8 +122,8 @@
 "utilities-communication";324;0;324
 "finance";321;2;323
 "voirie";313;10;323
-"commerce";296;25;321
-"entreprise";309;12;321
+"commerce";297;25;322
+"entreprise";310;12;322
 "sante-social";318;3;321
 "biodiversite";311;9;320
 "pollution";306;14;320
@@ -134,8 +134,8 @@
 "loisirs";294;8;302
 "air";297;4;301
 "covid19";120;181;301
+"industrie";296;4;300
 "parking";290;10;300
-"industrie";295;4;299
 "base-adresse-locale";298;0;298
 "subvention";287;8;295
 "deplacement";292;1;293
@@ -161,9 +161,9 @@
 "irve";258;9;267
 "society";267;0;267
 "nouvelle-aquitaine";265;1;266
-"region";221;41;262
 "hebergement";254;6;260
 "recensement";193;66;259
+"region";218;41;259
 "filosofi";259;0;259
 "altitude";251;6;257
 "montpellier";237;20;257
@@ -193,12 +193,12 @@
 "entreprises";190;25;215
 "inventaire";212;2;214
 "economy";211;1;212
+"metropole";201;11;212
 "transport-collectif";210;2;212
 "bibliotheque";202;9;211
 "dce";211;0;211
 "habitat";207;4;211
 "dreal-na";211;0;211
-"metropole";200;10;210
 "temperature";206;3;209
 "2012";192;12;204
 "assainissement";203;1;204
@@ -283,10 +283,10 @@
 "deces";101;48;149
 "lignes";148;1;149
 "reseau-routier";148;1;149
-"infrastructure";143;5;148
 "transports-en-commun";136;12;148
 "2020";147;1;148
 "accessibilite";136;11;147
+"infrastructure";142;5;147
 "seine";145;0;145
 "alea";145;0;145
 "geoportail";144;1;145
@@ -302,7 +302,7 @@
 "station-meteo";139;1;140
 "emissions";136;3;139
 "paris";89;50;139
-"cci";133;4;137
+"cci";134;4;138
 "espace schengen";137;0;137
 "internet";115;22;137
 "location";130;7;137
@@ -340,10 +340,10 @@
 "depenses";118;12;130
 "ecoles";126;4;130
 "prescription";130;0;130
+"chambre-de-commerce-et-d-industrie";130;0;130
 "2014";128;1;129
 "aide";127;2;129
 "art";124;5;129
-"chambre-de-commerce-et-d-industrie";129;0;129
 "accueil";126;2;128
 "administratif";114;14;128
 "lycees";124;4;128
@@ -407,7 +407,6 @@
 "numerique";107;7;114
 "payant";114;0;114
 "station";106;8;114
-"electricite";106;7;113
 "no2";113;0;113
 "ville";95;18;113
 "loire";112;1;113
@@ -416,6 +415,7 @@
 "directive-cadre-eau";112;0;112
 "ressources-humaines";109;3;112
 "service";108;4;112
+"electricite";104;7;111
 "espaces-naturels";110;1;111
 "investissement";98;12;110
 "referentiels-de-coordonnees";110;0;110
@@ -671,7 +671,6 @@
 "cinéma";53;15;68
 "commerces";64;4;68
 "etudiant";61;7;68
-"meteorologie";59;9;68
 "papier";68;0;68
 "recette";64;4;68
 "routes-departementales";58;10;68
@@ -686,6 +685,7 @@
 "camping";56;11;67
 "candidats";63;4;67
 "manche";65;2;67
+"meteorologie";58;9;67
 "secteur";67;0;67
 "zonages-amenagement";67;0;67
 "audeg";67;0;67
@@ -707,7 +707,6 @@
 "premiere-guerre-mondiale";2;63;65
 "government";65;0;65
 "espaces-verts";62;2;64
-"gaz";60;4;64
 "gps";60;4;64
 "immigration-irreguliere";64;0;64
 "insertion";59;5;64
@@ -735,6 +734,7 @@
 "comptes";57;5;62
 "elu";61;1;62
 "equipements-sportifs";58;4;62
+"gaz";58;4;62
 "historique";57;5;62
 "horodateur";62;0;62
 "immigration familiale";62;0;62
@@ -870,6 +870,7 @@
 "imagerybasemapsearthcover";52;1;53
 "nogent-sur-marne";45;8;53
 "technologie-numerique";52;1;53
+"velos";49;4;53
 "agri-environnement";53;0;53
 "milieu-aquatique";53;0;53
 "dechetterie";50;3;53
@@ -887,7 +888,6 @@
 "societe";39;13;52
 "villes";35;17;52
 "visualisation";1;51;52
-"velos";49;3;52
 "dila";50;2;52
 "gestion-du-risque-d-inondation";52;0;52
 "territoire-a-risque-d-inondation";52;0;52
@@ -2377,6 +2377,7 @@
 "parc-relais";16;0;16
 "participants";16;0;16
 "pcrdt";14;2;16
+"pietons";15;1;16
 "piste";16;0;16
 "placements";16;0;16
 "pont";16;0;16
@@ -2504,7 +2505,6 @@
 "patients";6;9;15
 "peinture";14;1;15
 "petite enfance";12;3;15
-"pietons";15;0;15
 "plh";15;0;15
 "pompier";13;2;15
 "population-active";14;1;15
@@ -5299,6 +5299,7 @@
 "tues";6;0;6
 "vie-privee";3;3;6
 "communes-rurales";5;1;6
+"loiret";4;2;6
 "neuf";3;3;6
 "2g";6;0;6
 "irigo";6;0;6
@@ -7181,7 +7182,6 @@
 "informations-complementaires";4;0;4
 "infrastructure-de-transport";4;0;4
 "loi-littoral";3;1;4
-"loiret";3;1;4
 "operations-programmees-d-amelioration-de-l-habitat";4;0;4
 "ouvrages-prioritaires";4;0;4
 "planification-et-documents-d-urbanisme";4;0;4
@@ -7408,6 +7408,7 @@
 "nutri-score";0;4;4
 "orthophotos";4;0;4
 "perimetres-administratifs";4;0;4
+"orleans";2;2;4
 "d-1-biodiversite";4;0;4
 "d-6-integrite-des-fonds-marins";4;0;4
 "";4;0;4
@@ -7765,6 +7766,7 @@
 "commune-donnee";4;0;4
 "exoneration";4;0;4
 "pole-d-equilibre-territorial-et-rural";4;0;4
+"eld";3;1;4
 "amelioration-des-logements";4;0;4
 "vias";4;0;4
 "ep";4;0;4
@@ -9837,7 +9839,6 @@
 "infrastructure-sportive";3;0;3
 "martigues";3;0;3
 "reseau-de-telecommunications";3;0;3
-"eld";2;1;3
 "service-civique";3;0;3
 "positivite";0;3;3
 "taux-de-reproduction";0;3;3
@@ -9937,6 +9938,7 @@
 "algorithmes-publics";3;0;3
 "213302300";3;0;3
 "mairie-de-lapouyade";3;0;3
+"grd";3;0;3
 "200083830";3;0;3
 "mairie-de-val-de-livenne";3;0;3
 "agneaux-de-lait-des-pyrenees";3;0;3
@@ -12785,7 +12787,6 @@
 "pilegaltech";0;2;2
 "tal";0;2;2
 "palais-de-justice";2;0;2
-"orleans";1;1;2
 "arbres-d-ornement";2;0;2
 "pietonne";2;0;2
 "immobilier-etat";1;1;2
@@ -14488,7 +14489,6 @@
 "agglomeration-montargoise";2;0;2
 "contour-du-pays-basque";2;0;2
 "ruches";2;0;2
-"grd";2;0;2
 "alfredo-dambrosio";2;0;2
 "arie-van-beek";2;0;2
 "igor-stravinski";2;0;2
@@ -14548,6 +14548,7 @@
 "montamise";2;0;2
 "velo-assistance-electrique";2;0;2
 "sdis25";2;0;2
+"region-centre-val-de-loire";1;1;2
 "112";1;0;1
 "18";1;0;1
 "1998";1;0;1
@@ -29528,3 +29529,5 @@
 "declarations-meubles-touristiques";1;0;1
 "declarations-prealables";1;0;1
 "demarches-administratives";1;0;1
+"feuilles-de-logements";1;0;1
+"heures-denseignement";1;0;1
