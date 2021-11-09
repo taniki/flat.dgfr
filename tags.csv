@@ -6,9 +6,9 @@
 "planning-cadastre";4985;0;4985
 "risque-zonages-risque-naturel";4512;0;4512
 "zones-a-risque-naturel";2545;0;2545
-"geospatial";2475;6;2481
+"geospatial";2478;6;2484
 "grand-public";2252;0;2252
-"environnement";1843;35;1878
+"environnement";1844;35;1879
 "plu";1528;4;1532
 "transport";1386;23;1409
 "localisation";1308;22;1330
@@ -23,7 +23,7 @@
 "culture";991;41;1032
 "tourisme";1001;31;1032
 "inondation";933;3;936
-"economie";873;48;921
+"economie";874;48;922
 "zones-de-gestion-de-restriction-ou-de-reglementat";907;0;907
 "ortho";906;0;906
 "open-data";886;14;900
@@ -36,14 +36,14 @@
 "prise-de-vue";852;0;852
 "1973";849;0;849
 "risque";804;2;806
-"hauts-de-france";783;6;789
+"hauts-de-france";784;6;790
 "elections";693;84;777
-"donnee-ouverte";771;3;774
+"donnee-ouverte";772;3;775
 "logement";725;28;753
 "reseaux-de-transport";729;1;730
 "geolocalisation";663;54;717
-"pas-de-calais";702;2;704
-"nord";696;5;701
+"pas-de-calais";703;2;705
+"nord";697;5;702
 "transports";679;16;695
 "commune";635;53;688
 "equipements";667;18;685
@@ -57,7 +57,7 @@
 "sante";544;87;631
 "bretagne";579;50;629
 "patrimoine";615;12;627
-"somme";616;2;618
+"somme";617;2;619
 "gouvernement";606;8;614
 "election";582;30;612
 "insee";565;37;602
@@ -66,16 +66,16 @@
 "alea-enjeux-inondation-amenageme";596;0;596
 "education";547;46;593
 "deplacements";584;1;585
-"emploi";544;36;580
+"emploi";545;36;581
 "population";484;59;543
 "risque-inondation";542;0;542
+"unites-administratives";539;1;540
 "transportation";536;3;539
-"unites-administratives";538;1;539
 "finances";502;30;532
 "batiments";526;5;531
-"oise";528;1;529
+"oise";529;1;530
 "bus";496;21;517
-"aisne";514;1;515
+"aisne";515;1;516
 "alea-enjeux-inondation-amenagement-urbanis";514;0;514
 "hydrographie";507;6;513
 "stationnement";498;8;506
@@ -112,14 +112,14 @@
 "statistiques";321;38;359
 "institut-national-de-la-statistique-et-des-etudes-economiques";354;0;354
 "developpement-durable";335;13;348
-"equipement";333;10;343
+"equipement";334;10;344
 "cartographie";247;94;341
 "intercommunalite";338;3;341
 "circulation";311;23;334
 "2019";329;4;333
+"commerce";306;25;331
 "departement";262;69;331
-"commerce";305;25;330
-"entreprise";317;12;329
+"entreprise";318;12;330
 "gtfs";319;10;329
 "voirie";314;10;324
 "utilities-communication";324;0;324
@@ -128,7 +128,7 @@
 "sante-social";318;3;321
 "pollution";306;14;320
 "nuisance-bruit";317;0;317
-"industrie";304;4;308
+"industrie";305;4;309
 "specification-nationale";305;0;305
 "carte";122;182;304
 "biota";302;1;303
@@ -287,8 +287,8 @@
 "2020";146;2;148
 "accessibilite";136;11;147
 "infrastructure";142;5;147
+"cci";142;4;146
 "depenses";134;12;146
-"cci";141;4;145
 "seine";145;0;145
 "alea";145;0;145
 "geoportail";144;1;145
@@ -304,13 +304,13 @@
 "cinema";109;30;139
 "emissions";136;3;139
 "paris";89;50;139
+"chambre-de-commerce-et-d-industrie";138;0;138
 "espace schengen";137;0;137
 "internet";115;22;137
 "location";130;7;137
 "maritime";136;1;137
 "securite";114;23;137
 "espace-schengen";137;0;137
-"chambre-de-commerce-et-d-industrie";137;0;137
 "batiment";132;4;136
 "dechet";130;6;136
 "etablissement";128;8;136
@@ -352,11 +352,11 @@
 "risques-technologiques";128;0;128
 "dvd";126;1;127
 "marche";123;4;127
+"cadre-de-vie";125;1;126
 "randonnee";122;4;126
 "sig";111;15;126
 "estuaire";126;0;126
 "caux";126;0;126
-"cadre-de-vie";124;1;125
 "faune";125;0;125
 "flore";124;1;125
 "isere";122;3;125
@@ -488,11 +488,11 @@
 "granulats-marins";95;0;95
 "etat-du-milieu-habitats";95;0;95
 "issy-les-moulineaux";92;2;94
+"pav";91;3;94
 "personnes-agees";81;13;94
 "sup";91;3;94
 "travaux";90;4;94
 "entrée en france";93;0;93
-"pav";90;3;93
 "borne";88;4;92
 "foret";84;8;92
 "frontiere";92;0;92
@@ -914,6 +914,7 @@
 "srce";51;0;51
 "referentiels-geographiques";51;0;51
 "dioxyde-dazote";51;0;51
+"chalons-en-champagne";50;1;51
 "particules-en-suspension";51;0;51
 "2021";36;15;51
 "data";25;25;50
@@ -963,6 +964,7 @@
 "octeville";49;0;49
 "rogerville";49;0;49
 "sainte";49;0;49
+"chalons-agglo";49;0;49
 "epidemie";26;23;49
 "bureau";46;2;48
 "cantonales";46;2;48
@@ -980,7 +982,6 @@
 "bassin-darcachon";48;0;48
 "doubs";47;1;48
 "dame";48;0;48
-"chalons-en-champagne";47;1;48
 "voi";48;0;48
 "pollution-de-leau";46;2;48
 "marnes-la-coquette";48;0;48
@@ -1021,7 +1022,6 @@
 "tourgeville";46;0;46
 "vauville";46;0;46
 "netex";45;1;46
-"chalons-agglo";46;0;46
 "plhi";46;0;46
 "ame";45;0;45
 "aménagement du territoire";45;0;45
@@ -1045,6 +1045,7 @@
 "obstacle";45;0;45
 "auvergne-rhone-alpes";43;2;45
 "centre-de-retention-administrati";45;0;45
+"cac";45;0;45
 "sd";45;0;45
 "2008";44;0;44
 "academie";38;6;44
@@ -1118,7 +1119,6 @@
 "alerte";40;2;42
 "observations";42;0;42
 "rhone-mediterranee";42;0;42
-"cac";42;0;42
 "service-definition";42;0;42
 "conteneur";42;0;42
 "budget-general";42;0;42
@@ -1166,6 +1166,7 @@
 "vie-economique-innovation";40;0;40
 "bornes-de-recharge-electrique";28;12;40
 "monoxyde-de-carbone";40;0;40
+"chalons";40;0;40
 "temps-theorique";40;0;40
 "prevention-des-inondations";40;0;40
 "bois";37;2;39
@@ -1237,7 +1238,6 @@
 "dreal-interne";37;0;37
 "metromobilite";36;1;37
 "la-rochelle";36;1;37
-"chalons";37;0;37
 "credits-de-paiement";37;0;37
 "smica";37;0;37
 "totems";37;0;37
@@ -1345,6 +1345,7 @@
 "nombre";32;1;33
 "outre-mer";27;6;33
 "registre";29;4;33
+"rues";31;2;33
 "salaires";22;11;33
 "sanitaire";27;6;33
 "urgence";32;1;33
@@ -1375,7 +1376,6 @@
 "politique des visas";32;0;32
 "prestation";32;0;32
 "rpg";26;6;32
-"rues";30;2;32
 "salaire";28;4;32
 "surface";31;1;32
 "technologique";32;0;32
@@ -1566,6 +1566,7 @@
 "ants";28;0;28
 "belfort";27;1;28
 "drh";28;0;28
+"mairie-et-democratie";28;0;28
 "pprn-mt";28;0;28
 "grand-besancon-metropole";28;0;28
 "ocs-2d";28;0;28
@@ -1665,7 +1666,6 @@
 "clermont-ferrand";25;1;26
 "comptage-routier";26;0;26
 "crise";26;0;26
-"mairie-et-democratie";26;0;26
 "servitudes-dutilite-publique";26;0;26
 "directive-2002-49-ce";26;0;26
 "lfi-2012";26;0;26
@@ -1771,6 +1771,7 @@
 "parc-de-production";24;0;24
 "observatoire-finances";24;0;24
 "transition-ecologique";20;4;24
+"environnement-et-cadre-de-vie";24;0;24
 "mds";24;0;24
 "m71";24;0;24
 "lfi-2013";24;0;24
@@ -1828,7 +1829,6 @@
 "services-d-utilite-publique-et-s";18;5;23
 "bruits";23;0;23
 "budget-2018";23;0;23
-"environnement-et-cadre-de-vie";23;0;23
 "zas";23;0;23
 "mobilite-douce";19;4;23
 "education-au-developpement-durable";0;23;23
@@ -2580,6 +2580,7 @@
 "pied-de-falaise";15;0;15
 "sommet-de-falaise";15;0;15
 "pyrenees-orientales";14;1;15
+"ramassage";15;0;15
 "wfd-groundwater-body";15;0;15
 "finances-departementales";15;0;15
 "variete";15;0;15
@@ -2706,7 +2707,6 @@
 "engin";14;0;14
 "atmo";14;0;14
 "etablissement-denseignement";14;0;14
-"ramassage";14;0;14
 "civ";14;0;14
 "profil-acheteur";14;0;14
 "plan-doccupation-des-sols";14;0;14
@@ -3123,6 +3123,7 @@
 "prenom-naissance";3;9;12
 "code-source";9;3;12
 "rivers-water-framework-directive";12;0;12
+"culture-et-tourisme";12;0;12
 "mediation-numerique";12;0;12
 "projet-annuel-de-performance";12;0;12
 "plan-climat-air-energie-pcae";12;0;12
@@ -3328,7 +3329,6 @@
 "bureau-communautaire";11;0;11
 "constructibilite";11;0;11
 "jeunesse-animation-sport";11;0;11
-"culture-et-tourisme";11;0;11
 "cul";11;0;11
 "pave";11;0;11
 "ro";11;0;11
@@ -4289,6 +4289,7 @@
 "proliferation-d-algues";8;0;8
 "brgm";8;0;8
 "n-zonages-nature";8;0;8
+"espace-aerien";3;5;8
 "draaf-aquitaine";8;0;8
 "grand-cahors";8;0;8
 "effets-risques-technologiques-da";8;0;8
@@ -4341,6 +4342,7 @@
 "filets";8;0;8
 "profils-acheteurs";7;1;8
 "des";8;0;8
+"economie-et-entreprises";8;0;8
 "lakes-water-framework-directive";8;0;8
 "parcs-nature-biodiversite";8;0;8
 "opd";8;0;8
@@ -4857,7 +4859,6 @@
 "suffrage";7;0;7
 "signal";7;0;7
 "zones-de-circulation";7;0;7
-"economie-et-entreprises";7;0;7
 "solidarite-et-sante";7;0;7
 "tad";7;0;7
 "rack";7;0;7
@@ -5345,7 +5346,6 @@
 "rep";6;0;6
 "patent";6;0;6
 "propriete-intellectuelle";3;3;6
-"espace-aerien";3;3;6
 "acheteurs-publics";5;1;6
 "chrysomele-diabrotica-virgifera-mais-sante-vegetale-alsace";6;0;6
 "actions-sur-l-eau-reponses-zonag";6;0;6
@@ -7554,6 +7554,7 @@
 "nids";4;0;4
 "batiments-communaux";4;0;4
 "agde";4;0;4
+"points-dapports-volontaires";4;0;4
 "rochefort";4;0;4
 "caca";4;0;4
 "data-collection";4;0;4
@@ -9524,7 +9525,6 @@
 "capbus";3;0;3
 "vandieres";3;0;3
 "chalonsenchampagne";3;0;3
-"points-dapports-volontaires";3;0;3
 "aires-de-jeu";3;0;3
 "ecole-dingenieurs";3;0;3
 "gazon";3;0;3
