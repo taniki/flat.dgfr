@@ -23,7 +23,7 @@
 "tourisme";1006;31;1037
 "culture";992;41;1033
 "inondation";933;3;936
-"economie";883;48;931
+"economie";884;48;932
 "zones-de-gestion-de-restriction-ou-de-reglementat";907;0;907
 "ortho";906;0;906
 "open-data";886;14;900
@@ -36,14 +36,14 @@
 "prise-de-vue";852;0;852
 "1973";849;0;849
 "risque";804;2;806
-"hauts-de-france";789;6;795
-"donnee-ouverte";779;3;782
+"hauts-de-france";790;6;796
+"donnee-ouverte";780;3;783
 "elections";697;84;781
 "logement";729;28;757
 "reseaux-de-transport";736;1;737
 "geolocalisation";663;54;717
-"pas-de-calais";708;2;710
-"nord";702;5;707
+"pas-de-calais";709;2;711
+"nord";703;5;708
 "transports";678;16;694
 "commune";636;53;689
 "equipements";670;18;688
@@ -57,7 +57,7 @@
 "patrimoine";621;12;633
 "sante";545;87;632
 "bretagne";579;50;629
-"somme";622;2;624
+"somme";623;2;625
 "gouvernement";610;8;618
 "election";583;30;613
 "insee";565;37;602
@@ -65,16 +65,16 @@
 "alea-enjeux-inondation-amenagement-urbanisme-prescription-prevention-servitude-risque-multi-risque";596;0;596
 "alea-enjeux-inondation-amenageme";596;0;596
 "education";548;46;594
-"emploi";552;36;588
+"emploi";553;36;589
 "deplacements";583;1;584
-"unites-administratives";544;1;545
+"unites-administratives";545;1;546
 "population";484;59;543
 "risque-inondation";542;0;542
 "transportation";536;3;539
-"oise";534;1;535
+"oise";535;1;536
 "batiments";528;5;533
 "finances";502;30;532
-"aisne";520;1;521
+"aisne";521;1;522
 "bus";496;21;517
 "alea-enjeux-inondation-amenagement-urbanis";514;0;514
 "hydrographie";507;6;513
@@ -115,10 +115,10 @@
 "equipement";335;10;345
 "cartographie";247;95;342
 "intercommunalite";338;3;341
+"commerce";314;25;339
 "2019";335;4;339
-"commerce";313;25;338
+"entreprise";326;12;338
 "circulation";314;23;337
-"entreprise";325;12;337
 "departement";262;69;331
 "gtfs";319;10;329
 "voirie";318;10;328
@@ -128,7 +128,7 @@
 "sante-social";318;3;321
 "pollution";306;14;320
 "nuisance-bruit";317;0;317
-"industrie";311;4;315
+"industrie";312;4;316
 "carte";128;182;310
 "parking";295;10;305
 "specification-nationale";305;0;305
@@ -268,14 +268,14 @@
 "bureaux-de-vote";151;4;155
 "nature";154;1;155
 "trafic";151;4;155
+"marches-publics";139;15;154
 "etablissements";149;4;153
-"marches-publics";139;14;153
 "routes";138;15;153
 "solidarite";151;2;153
 "temps-reel";151;2;153
 "train";135;18;153
 "sncf-reseau";153;0;153
-"cci";147;4;151
+"cci";148;4;152
 "pm10";151;0;151
 "departements";103;47;150
 "immigré";150;0;150
@@ -294,10 +294,10 @@
 "geoportail";144;1;145
 "geographie";113;31;144
 "musique";133;11;144
+"chambre-de-commerce-et-d-industrie";144;0;144
 "mesures";143;0;143
 "planification";142;1;143
 "ilot-de-chaleur";142;1;143
-"chambre-de-commerce-et-d-industrie";143;0;143
 "station-meteo";141;1;142
 "deplacements-transports";139;2;141
 "regions";100;40;140
@@ -2101,6 +2101,7 @@
 "limites-administratives-et-decoupage-des-territoires-limites-administratives";19;0;19
 "zonages";17;2;19
 "pluie";19;0;19
+"boamp";10;9;19
 "eau-utilisation-autre";19;0;19
 "agen";18;1;19
 "seveso";16;3;19
@@ -2203,7 +2204,6 @@
 "infrastructures-de-transport";18;0;18
 "amenagement-urbanisme-assiette-servitude";18;0;18
 "sites-industriels";18;0;18
-"boamp";10;8;18
 "donnee-generique-demographie";18;0;18
 "environnement-espace-naturel";18;0;18
 "agriculture-exploitation-elevage";17;1;18
@@ -4961,6 +4961,7 @@
 "apb";5;1;6
 "arbres remarquables";4;2;6
 "argent";5;1;6
+"artisans";5;1;6
 "assainissement collectif";6;0;6
 "attribuables";6;0;6
 "attributaires";5;1;6
@@ -5593,7 +5594,6 @@
 "apprentis";5;0;5
 "archives-regionales";4;1;5
 "argiles";5;0;5
-"artisans";5;0;5
 "assemblee-locale";5;0;5
 "avancé";5;0;5
 "benevolat";4;1;5
@@ -14375,6 +14375,7 @@
 "open-source";0;2;2
 "oxca";1;1;2
 "oxcaville";1;1;2
+"stop-pub";1;1;2
 "bot-twitter";1;1;2
 "charte-2020-2035";2;0;2
 "patrimoine-paysager";2;0;2
@@ -28555,7 +28556,6 @@
 "pgs";1;0;1
 "groupe-d-039-action-locale";1;0;1
 "citedia";1;0;1
-"stop-pub";1;0;1
 "election-presidentielle-2022";0;1;1
 "francois-fillon";0;1;1
 "jean-luc-melenchon";0;1;1
