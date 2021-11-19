@@ -15,15 +15,15 @@
 "environment";1317;6;1323
 "france";1178;114;1292
 "citoyennete";1242;6;1248
-"urbanisme";1187;13;1200
+"urbanisme";1188;13;1201
 "administration";1177;13;1190
 "finances-publiques";1128;5;1133
 "budget";1087;20;1107
 "pprn";1084;0;1084
 "tourisme";1006;31;1037
 "culture";992;41;1033
+"economie";888;48;936
 "inondation";933;3;936
-"economie";887;48;935
 "zones-de-gestion-de-restriction-ou-de-reglementat";907;0;907
 "ortho";906;0;906
 "open-data";886;14;900
@@ -36,14 +36,14 @@
 "prise-de-vue";852;0;852
 "1973";849;0;849
 "risque";804;2;806
-"hauts-de-france";793;6;799
-"donnee-ouverte";783;3;786
+"hauts-de-france";794;6;800
+"donnee-ouverte";784;3;787
 "elections";697;84;781
 "logement";730;28;758
 "reseaux-de-transport";736;1;737
 "geolocalisation";663;54;717
-"pas-de-calais";712;2;714
-"nord";706;5;711
+"pas-de-calais";713;2;715
+"nord";707;5;712
 "transports";679;16;695
 "commune";636;53;689
 "equipements";671;18;689
@@ -52,12 +52,12 @@
 "sport";581;67;648
 "donnees-publiques";643;4;647
 "boundaries";643;1;644
+"eau";626;12;638
 "territoire";626;12;638
-"eau";625;12;637
 "patrimoine";621;12;633
 "sante";546;87;633
 "bretagne";579;50;629
-"somme";626;2;628
+"somme";627;2;629
 "gouvernement";610;8;618
 "election";583;30;613
 "insee";565;37;602
@@ -65,16 +65,16 @@
 "alea-enjeux-inondation-amenagement-urbanisme-prescription-prevention-servitude-risque-multi-risque";596;0;596
 "alea-enjeux-inondation-amenageme";596;0;596
 "education";548;46;594
-"emploi";556;36;592
+"emploi";557;36;593
 "deplacements";584;1;585
-"unites-administratives";548;1;549
+"unites-administratives";549;1;550
 "population";484;59;543
 "risque-inondation";542;0;542
+"oise";539;1;540
 "transportation";536;3;539
-"oise";538;1;539
 "batiments";529;5;534
 "finances";502;30;532
-"aisne";524;1;525
+"aisne";525;1;526
 "bus";496;21;517
 "alea-enjeux-inondation-amenagement-urbanis";514;0;514
 "hydrographie";507;6;513
@@ -113,9 +113,9 @@
 "institut-national-de-la-statistique-et-des-etudes-economiques";354;0;354
 "developpement-durable";338;13;351
 "equipement";335;10;345
+"commerce";318;25;343
 "cartographie";247;95;342
-"commerce";317;25;342
-"entreprise";329;12;341
+"entreprise";330;12;342
 "intercommunalite";338;3;341
 "2019";335;4;339
 "circulation";314;23;337
@@ -126,10 +126,10 @@
 "utilities-communication";324;0;324
 "biodiversite";314;9;323
 "sante-social";318;3;321
+"industrie";316;4;320
 "pollution";306;14;320
-"industrie";315;4;319
 "nuisance-bruit";317;0;317
-"carte";128;184;312
+"carte";129;184;313
 "parking";295;10;305
 "specification-nationale";305;0;305
 "biota";302;1;303
@@ -244,7 +244,7 @@
 "limousin";176;0;176
 "associations";155;20;175
 "2016";172;2;174
-"decp";172;1;173
+"decp";172;2;174
 "imagery-base-maps-earth-cover";172;0;172
 "musee";135;36;171
 "eau-de-surface";167;2;169
@@ -264,9 +264,9 @@
 "college";150;8;158
 "donnees-vecteur";157;0;157
 "brocas";134;22;156
+"cci";152;4;156
 "reseau-routier";155;1;156
 "bureaux-de-vote";151;4;155
-"cci";151;4;155
 "nature";154;1;155
 "trafic";151;4;155
 "marches-publics";139;15;154
@@ -276,8 +276,8 @@
 "temps-reel";151;2;153
 "train";135;18;153
 "sncf-reseau";153;0;153
+"departements";104;47;151
 "pm10";151;0;151
-"departements";103;47;150
 "immigré";150;0;150
 "littoral";146;4;150
 "france-metropolitaine";138;12;150
@@ -286,8 +286,8 @@
 "deces";101;48;149
 "lignes";148;1;149
 "transports-en-commun";136;12;148
+"chambre-de-commerce-et-d-industrie";148;0;148
 "accessibilite";136;11;147
-"chambre-de-commerce-et-d-industrie";147;0;147
 "depenses";134;12;146
 "infrastructure";141;5;146
 "seine";145;0;145
@@ -464,11 +464,11 @@
 "acces";100;0;100
 "aides";99;1;100
 "fonctionnement";96;4;100
+"marche-public";94;6;100
 "ouvert";100;0;100
 "sante-et-securite-des-personnes";100;0;100
 "loisir";96;3;99
 "mairie";90;9;99
-"marche-public";94;5;99
 "parcs";96;3;99
 "perimetre";99;0;99
 "franche-comte";98;0;98
@@ -493,12 +493,12 @@
 "personnes-agees";81;13;94
 "sup";91;3;94
 "entrée en france";93;0;93
+"commande-publique";83;10;93
 "borne";88;4;92
 "foret";84;8;92
 "frontiere";92;0;92
 "iris";76;16;92
 "limite";92;0;92
-"commande-publique";83;9;92
 "habitat-politique-de-la-ville-po";92;0;92
 "boulogne-billancourt";87;5;92
 "cantons";77;14;91
@@ -1544,7 +1544,6 @@
 "dioxyde-de-soufre";28;0;28
 "décès";11;17;28
 "etalab";16;12;28
-"films";21;7;28
 "geographique";6;22;28
 "gymnase";27;1;28
 "habitation";28;0;28
@@ -1593,6 +1592,7 @@
 "cpge";24;3;27
 "derniers";27;0;27
 "donnees-budgetaires";27;0;27
+"films";21;6;27
 "harmonises";27;0;27
 "integration";27;0;27
 "intensite";27;0;27
@@ -2875,6 +2875,7 @@
 "resultat-dexercice";13;0;13
 "usagers";13;0;13
 "vegetal";13;0;13
+"carte-de-france";1;12;13
 "memoire";12;1;13
 "haute-savoie";11;2;13
 "savoie";11;2;13
@@ -3086,7 +3087,6 @@
 "residence-pricipale";12;0;12
 "station-service";7;5;12
 "tour-1";10;2;12
-"carte-de-france";0;12;12
 "decouverte";10;2;12
 "foret-foret";12;0;12
 "referentiel-arrets";12;0;12
@@ -3258,7 +3258,6 @@
 "élections départementales";9;2;11
 "bts";10;1;11
 "infrastructures-routieres";11;0;11
-"autre";11;0;11
 "caserne";11;0;11
 "cil";8;3;11
 "nature-paysage-biodiversite-zonages-nature";11;0;11
@@ -3488,6 +3487,7 @@
 "élections régionales";10;0;10
 "loi-notre";2;8;10
 "aires-de-service";10;0;10
+"autre";10;0;10
 "INSEE";10;0;10
 "acteur";10;0;10
 "zone piétonne";10;0;10
@@ -3542,6 +3542,7 @@
 "reseau-vert";10;0;10
 "salle-polyvalente";10;0;10
 "securite-ferroviaire";10;0;10
+"services-voyageurs";10;0;10
 "toponyme";9;1;10
 "tour-2";10;0;10
 "antennes-mobiles";3;7;10
@@ -3863,7 +3864,6 @@
 "redressement-judiciaire";9;0;9
 "reglement-de-dublin";9;0;9
 "scenario-rcp";9;0;9
-"services-voyageurs";9;0;9
 "tisseo";8;1;9
 "transports-infrastructure-ferroviaire";9;0;9
 "plan-regional";9;0;9
@@ -5301,7 +5301,6 @@
 "fouilles-archeologiques";1;5;6
 "foyer-rural";6;0;6
 "histoire-des-arts";6;0;6
-"informations-institutionnelles";6;0;6
 "legalite";6;0;6
 "lieu-de-residence";2;4;6
 "maladies-sexuellement-transmissibles";6;0;6
@@ -6068,6 +6067,7 @@
 "grotte";5;0;5
 "higher-education";4;1;5
 "identite";4;1;5
+"informations-institutionnelles";5;0;5
 "livret-de-famille";5;0;5
 "localite";5;0;5
 "maison-pour-tous";5;0;5
@@ -6137,6 +6137,7 @@
 "secteur-public";3;2;5
 "spd";3;2;5
 "tabacs";2;3;5
+"ogp";3;2;5
 "cotisants";5;0;5
 "reversion";5;0;5
 "gestion-patrimoniale";5;0;5
@@ -7278,7 +7279,6 @@
 "dinsic";3;1;4
 "timeline";0;4;4
 "chatbot";1;3;4
-"ogp";3;1;4
 "donneesouvertes";4;0;4
 "ft-ir";4;0;4
 "tmjm";4;0;4
