@@ -89,7 +89,7 @@
 "citoyennete-institution";454;0;454
 "communes";367;80;447
 "social";431;10;441
-"demographie";388;44;432
+"demographie";388;45;433
 "formation";404;27;431
 "inland-waters";431;0;431
 "farming";428;0;428
@@ -120,9 +120,9 @@
 "2019";341;4;345
 "intercommunalite";339;3;342
 "voirie";328;11;339
+"cartographie";238;97;335
 "departement";266;69;335
 "finance";333;2;335
-"cartographie";238;96;334
 "gtfs";323;10;333
 "industrie";326;4;330
 "biodiversite";317;9;326
@@ -871,6 +871,7 @@
 "chiffre";54;0;54
 "comptage";53;1;54
 "formations-sanitaires-et-sociales";54;0;54
+"justice";38;16;54
 "mnt";50;4;54
 "reglementation";53;1;54
 "restaurant";48;6;54
@@ -883,7 +884,6 @@
 "conseil";52;1;53
 "gare";51;2;53
 "imagerybasemapsearthcover";52;1;53
-"justice";38;15;53
 "nogent-sur-marne";45;8;53
 "technologie-numerique";52;1;53
 "vie-sociale";51;2;53
@@ -1676,6 +1676,7 @@
 "politique-publique";20;6;26
 "residence";25;1;26
 "resulats";26;0;26
+"satellite";26;0;26
 "science";22;4;26
 "securite-civile";24;2;26
 "tombe";26;0;26
@@ -1723,7 +1724,6 @@
 "prospective";25;0;25
 "ps";25;0;25
 "salarie";25;0;25
-"satellite";25;0;25
 "square";25;0;25
 "tgv";17;8;25
 "traitement";25;0;25
@@ -2106,6 +2106,7 @@
 "france métropolitaine";17;2;19
 "grand-etablissement";18;1;19
 "hotspot";16;3;19
+"images";19;0;19
 "installations-de-suivi-environnemental";19;0;19
 "institutions-publiques";19;0;19
 "magasin";11;8;19
@@ -2200,7 +2201,6 @@
 "francais-etablis-hors-de-france";18;0;18
 "haut-debit";17;1;18
 "image";18;0;18
-"images";18;0;18
 "incidence";5;13;18
 "joafe";17;1;18
 "lac";13;5;18
@@ -9387,6 +9387,7 @@
 "recommandations";3;0;3
 "perruches";3;0;3
 "association-francaise";2;1;3
+"magistrats";2;1;3
 "syndicats-intercommunaux";2;1;3
 "archives-nationales";3;0;3
 "modes-doux";3;0;3
@@ -12841,7 +12842,6 @@
 "devis-travaux";0;2;2
 "gpl";1;1;2
 "infogreffe";0;2;2
-"magistrats";2;0;2
 "notre-dame";2;0;2
 "hasard";1;1;2
 "jeux-d-argent";2;0;2
