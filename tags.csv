@@ -70,7 +70,7 @@
 "unites-administratives";552;1;553
 "finances";522;30;552
 "oise";547;1;548
-"population";487;59;546
+"population";486;59;545
 "batiments";538;5;543
 "risque-inondation";542;0;542
 "aisne";533;1;534
@@ -89,7 +89,7 @@
 "citoyennete-institution";454;0;454
 "communes";367;80;447
 "social";431;10;441
-"demographie";388;45;433
+"demographie";387;45;432
 "formation";404;27;431
 "inland-waters";431;0;431
 "farming";428;0;428
@@ -871,7 +871,6 @@
 "chiffre";54;0;54
 "comptage";53;1;54
 "formations-sanitaires-et-sociales";54;0;54
-"justice";38;16;54
 "mnt";50;4;54
 "reglementation";53;1;54
 "restaurant";48;6;54
@@ -884,6 +883,7 @@
 "conseil";52;1;53
 "gare";51;2;53
 "imagerybasemapsearthcover";52;1;53
+"justice";37;16;53
 "nogent-sur-marne";45;8;53
 "technologie-numerique";52;1;53
 "vie-sociale";51;2;53
@@ -2322,7 +2322,6 @@
 "titres";17;0;17
 "traitement-des-dechets";14;3;17
 "travaillees";17;0;17
-"tribunaux";12;5;17
 "viabilite-hivernale";17;0;17
 "wikipedia";9;8;17
 "élections municipales";13;4;17
@@ -2430,6 +2429,7 @@
 "taxi";15;1;16
 "terrasse";15;1;16
 "toilette";15;1;16
+"tribunaux";11;5;16
 "trottoir";15;1;16
 "vacances";15;1;16
 "vente";10;6;16
@@ -9091,7 +9091,6 @@
 "algues";3;0;3
 "chaufferie";3;0;3
 "dechets-non-dangereux";2;1;3
-"demographie-et-population-recensement";3;0;3
 "eau-brute";3;0;3
 "energie-autres";2;1;3
 "matieres-phosphorees";3;0;3
@@ -12375,6 +12374,7 @@
 "culture-societe-service-equipement-sportif-ou-culturel";2;0;2
 "zones-de-gestion-derestriction-ou-de-reglementation-et-unites-de-declaration";2;0;2
 "chauves-souris";2;0;2
+"demographie-et-population-recensement";2;0;2
 "incinerateur";2;0;2
 "labellisation";2;0;2
 "machefers";2;0;2
