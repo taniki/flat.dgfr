@@ -80,7 +80,7 @@
 "alea-enjeux-inondation-amenagement-urbanis";514;0;514
 "lot-et-garonne";498;1;499
 "transportation";494;3;497
-"adresse";480;8;488
+"adresse";480;9;489
 "services";483;5;488
 "agriculture";444;28;472
 "velo";421;48;469
@@ -155,7 +155,7 @@
 "structure";278;1;279
 "irve";265;9;274
 "politique-de-lenvironnement";270;0;270
-"adresses";260;8;268
+"adresses";260;9;269
 "cartes-pedologiques";268;0;268
 "etudes-pedologiques";268;0;268
 "types-de-sols";268;0;268
@@ -187,7 +187,7 @@
 "budget-primitif";227;1;228
 "immigration";220;6;226
 "pprt";225;0;225
-"cadastre";198;25;223
+"cadastre";198;26;224
 "bibliotheque";212;9;221
 "gironde";219;2;221
 "geomorphologie";217;0;217
@@ -4398,6 +4398,7 @@
 "bussang";8;0;8
 "residence-principale";8;0;8
 "dons";8;0;8
+"rna";3;5;8
 "bordeaux-metropole";7;1;8
 "kite";8;0;8
 "raquettes";8;0;8
@@ -4894,7 +4895,6 @@
 "revision";7;0;7
 "indre-et-loire";5;2;7
 "mobive";7;0;7
-"rna";3;4;7
 "reseau-electronique-dinformation";7;0;7
 "elections-presidentielles-2017";2;5;7
 "accrobranche";7;0;7
@@ -5625,6 +5625,7 @@
 "analyse-de-leau";3;3;6
 "etablissement-employeur";5;1;6
 "adresse-base";6;0;6
+"adresse-locale";5;1;6
 "antenne-regionale";6;0;6
 "conservation-du-patrimoine";6;0;6
 "inventaire-culturel";6;0;6
@@ -6488,7 +6489,6 @@
 "cerema-infra-transport-materiaux";5;0;5
 "effectif-prive";5;0;5
 "reduction-des-dechets";5;0;5
-"adresse-locale";5;0;5
 "comparabus";0;5;5
 "iledefrance";0;5;5
 "information-voyageurs";5;0;5
