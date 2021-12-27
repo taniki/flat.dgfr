@@ -750,6 +750,7 @@
 "effectifs";61;1;62
 "immigration familiale";62;0;62
 "mesure";62;0;62
+"point";62;0;62
 "presse";53;9;62
 "services-de-l-etat";61;1;62
 "transport-urbain";62;0;62
@@ -775,7 +776,6 @@
 "indicateur";60;1;61
 "migration professionnelle";61;0;61
 "migration économique";61;0;61
-"point";61;0;61
 "proximite";54;7;61
 "regroupement familial";61;0;61
 "titre de séjour";61;0;61
@@ -1394,6 +1394,7 @@
 "citoyens";28;4;32
 "compostage";32;0;32
 "conservatoire";28;4;32
+"fonction-publique";30;2;32
 "legislative";30;2;32
 "nautisme";26;6;32
 "non-formatrices";32;0;32
@@ -1441,7 +1442,6 @@
 "controle";28;3;31
 "donnee";29;2;31
 "droit";25;6;31
-"fonction-publique";29;2;31
 "hlm";29;2;31
 "interne";31;0;31
 "jeux";28;3;31
@@ -14324,6 +14324,7 @@
 "anxiete";1;1;2
 "tribunal";2;0;2
 "veligo";2;0;2
+"hds";0;2;2
 "centre-test-depistage";0;2;2
 "maisons-de-sante";2;0;2
 "territorialisation";2;0;2
@@ -14798,6 +14799,7 @@
 "centrales-nucleaires";2;0;2
 "datavisualisations";2;0;2
 "mesures-phares";2;0;2
+"point-dindice";2;0;2
 "limites-territtoriales";2;0;2
 "112";1;0;1
 "18";1;0;1
@@ -27787,7 +27789,6 @@
 "barreaux";1;0;1
 "cour";1;0;1
 "municipales-2014";0;1;1
-"hds";0;1;1
 "dropshipping";0;1;1
 "formation-dropshipping";0;1;1
 "yomi-denzel";0;1;1
