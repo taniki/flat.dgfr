@@ -8,20 +8,20 @@
 "zones-a-risque-naturel";2545;0;2545
 "geospatial";2481;6;2487
 "grand-public";2252;0;2252
-"environnement";1883;35;1918
+"environnement";1887;35;1922
 "plu";1564;4;1568
-"transport";1396;23;1419
+"transport";1397;23;1420
 "localisation";1336;23;1359
 "france";1211;113;1324
 "environment";1316;6;1322
 "citoyennete";1276;6;1282
-"urbanisme";1234;13;1247
+"urbanisme";1237;13;1250
 "administration";1203;13;1216
 "finances-publiques";1141;5;1146
 "budget";1119;20;1139
 "pprn";1084;0;1084
 "culture";1036;44;1080
-"tourisme";1034;33;1067
+"tourisme";1035;33;1068
 "economie";907;50;957
 "inondation";935;3;938
 "mobilite";887;43;930
@@ -73,8 +73,8 @@
 "population";487;59;546
 "batiments";539;5;544
 "risque-inondation";542;0;542
+"bus";512;22;534
 "aisne";533;1;534
-"bus";511;22;533
 "stationnement";516;9;525
 "hydrographie";511;6;517
 "alea-enjeux-inondation-amenagement-urbanis";514;0;514
@@ -107,11 +107,11 @@
 "sols";381;1;382
 "epci";346;24;370
 "developpement-durable";353;15;368
+"statistiques";328;40;368
 "deplacement";363;1;364
 "nace";364;0;364
 "dreal-auvergne-rhone-alpes";364;0;364
 "commerce";332;31;363
-"statistiques";321;40;361
 "occupation-des-terres";358;1;359
 "entreprise";340;14;354
 "institut-national-de-la-statistique-et-des-etudes-economiques";354;0;354
@@ -123,8 +123,8 @@
 "departement";269;70;339
 "cartographie";240;98;338
 "finance";333;2;335
-"gtfs";324;10;334
-"base-adresse-locale";333;0;333
+"gtfs";325;10;335
+"base-adresse-locale";334;0;334
 "sante-social";329;3;332
 "industrie";326;4;330
 "biodiversite";318;10;328
@@ -153,8 +153,8 @@
 "energie";251;30;281
 "covid-19";105;175;280
 "structure";278;1;279
+"adresses";261;9;270
 "politique-de-lenvironnement";270;0;270
-"adresses";260;9;269
 "cartes-pedologiques";268;0;268
 "etudes-pedologiques";268;0;268
 "types-de-sols";268;0;268
@@ -244,9 +244,9 @@
 "migrant";177;0;177
 "reseau-de-transport";171;6;177
 "élections";155;22;177
+"musee";140;36;176
 "limousin";176;0;176
 "decp";174;2;176
-"musee";139;36;175
 "trafic";171;4;175
 "pays";169;3;172
 "enseignement-formation-recherche";168;3;171
@@ -425,9 +425,9 @@
 "espaces-naturels";110;1;111
 "osm";74;37;111
 "parcelle";104;6;110
+"topographie";107;3;110
 "europe";96;13;109
 "plan-de-prevention";109;0;109
-"topographie";106;3;109
 "vie-culturelle";108;1;109
 "metropole-manche-mer-du-nord";109;0;109
 "cerema";109;0;109
@@ -474,10 +474,10 @@
 "fonctionnement";96;4;100
 "mairie";91;9;100
 "ouvert";100;0;100
+"commande-publique";90;10;100
 "aide-sociale";99;0;99
 "dataviz";11;88;99
 "sante-et-securite-des-personnes";99;0;99
-"commande-publique";89;10;99
 "franche-comte";98;0;98
 "pav";95;3;98
 "perimetre";98;0;98
@@ -1381,6 +1381,7 @@
 "soins";30;3;33
 "transition-energetique";28;5;33
 "espace-naturel";33;0;33
+"greffes";32;1;33
 "1er";33;0;33
 "iot";32;1;33
 "eau-continentale";33;0;33
@@ -1466,7 +1467,6 @@
 "agriculture-parcellaire-agricole";30;1;31
 "eaux-usees";30;1;31
 "basque";31;0;31
-"greffes";30;1;31
 "shapefile";30;1;31
 "pistes-cyclables";31;0;31
 "juridictions-financieres";31;0;31
@@ -1622,6 +1622,7 @@
 "donnees-budgetaires";27;0;27
 "epuration";26;1;27
 "harmonises";27;0;27
+"immatriculations";27;0;27
 "intensite";27;0;27
 "mensuel";27;0;27
 "musées";12;15;27
@@ -1665,7 +1666,6 @@
 "films";21;5;26
 "finale";26;0;26
 "geo";14;12;26
-"immatriculations";26;0;26
 "implantation";26;0;26
 "intégration";26;0;26
 "limitation";26;0;26
@@ -1691,6 +1691,7 @@
 "intertidal";26;0;26
 "milieu-physique-hydrodynamique-cotiere";26;0;26
 "wikidata";25;1;26
+"mer-et-littoral";25;1;26
 "zonage-eau";26;0;26
 "lozere";25;1;26
 "parkings";23;3;26
@@ -1784,7 +1785,6 @@
 "partenariat";24;0;24
 "troncons";24;0;24
 "finistere";21;3;24
-"mer-et-littoral";23;1;24
 "urbanisme-et-foncier-planification-et-documents-d-urbanisme";24;0;24
 "permis-de-conduire";16;8;24
 "ant";24;0;24
@@ -2163,6 +2163,7 @@
 "moselle";18;1;19
 "logement-politique-de-la-ville-p";19;0;19
 "cyclotourisme";19;0;19
+"horaires-theoriques";18;1;19
 "description-du-reseau";19;0;19
 "ddt-allier";19;0;19
 "cours-eau";19;0;19
@@ -2258,7 +2259,6 @@
 "subvention-municipale";17;1;18
 "sicoval";18;0;18
 "internat";18;0;18
-"horaires-theoriques";17;1;18
 "bioenergies";18;0;18
 "production-electrique";17;1;18
 "locavore";18;0;18
@@ -3608,10 +3608,12 @@
 "antenne-sociale";10;0;10
 "enseignement-technologique";2;8;10
 "fetes";9;1;10
+"liquidation-judiciaire";10;0;10
 "modele";7;3;10
 "photo-aerienne";10;0;10
 "protection-subsidiaire";10;0;10
 "realisation";10;0;10
+"redressement-judiciaire";10;0;10
 "reforme-territoriale";2;8;10
 "reseau-social";10;0;10
 "reseau-vert";10;0;10
@@ -3928,14 +3930,12 @@
 "informatique-et-libertes";8;1;9
 "infrastructure-de-recharge";8;1;9
 "inter-region-de-recherche-clinique";9;0;9
-"liquidation-judiciaire";9;0;9
 "marche-de-lelectricite";9;0;9
 "nom-de-domaine";9;0;9
 "objets-trouves";8;1;9
 "polices-municipales";2;7;9
 "promoteur-industriel";9;0;9
 "protection-internationale";9;0;9
-"redressement-judiciaire";9;0;9
 "reglement-de-dublin";9;0;9
 "scenario-rcp";9;0;9
 "tisseo";8;1;9
@@ -9719,6 +9719,7 @@
 "capbus";3;0;3
 "vandieres";3;0;3
 "chalonsenchampagne";3;0;3
+"transdev";3;0;3
 "aires-de-jeu";3;0;3
 "ecole-dingenieurs";3;0;3
 "gazon";3;0;3
@@ -10943,6 +10944,7 @@
 "par-departement";2;0;2
 "paramedicaux";2;0;2
 "parcours-buissonniers";2;0;2
+"parcours-culturels";2;0;2
 "parkingsouterrain";1;1;2
 "partiellement";2;0;2
 "partis_politiques";1;1;2
@@ -13507,7 +13509,6 @@
 "statistiques-des-naissances";1;1;2
 "cites-en-champagne";2;0;2
 "occupation-du-sols";2;0;2
-"transdev";2;0;2
 "autun";2;0;2
 "eolas";2;0;2
 "repetition";2;0;2
@@ -16415,7 +16416,6 @@
 "par-region";1;0;1
 "parc-d-activites-economiques";1;0;1
 "parc-zoologique";1;0;1
-"parcours-culturels";1;0;1
 "paris hippiques";1;0;1
 "paris sportifs";1;0;1
 "parking-ouvrage";1;0;1
