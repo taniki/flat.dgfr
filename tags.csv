@@ -15,7 +15,7 @@
 "france";1211;113;1324
 "environment";1316;6;1322
 "citoyennete";1276;6;1282
-"urbanisme";1237;13;1250
+"urbanisme";1238;13;1251
 "administration";1203;13;1216
 "finances-publiques";1141;5;1146
 "budget";1119;20;1139
@@ -573,12 +573,12 @@
 "fibre-optique";70;13;83
 "liste-de-jeux-de-donnees";82;1;83
 "monument";66;17;83
+"petite-enfance";78;5;83
 "sports";79;4;83
 "envia";83;0;83
 "2009";82;0;82
 "bordeaux";75;7;82
 "eleves";81;1;82
-"petite-enfance";77;5;82
 "aleas";82;0;82
 "nord-pas-de-calais";81;1;82
 "france-entiere";74;8;82
@@ -830,6 +830,7 @@
 "eaux-interieures-de-surface-rivi";58;0;58
 "budget-finances";58;0;58
 "balade";53;4;57
+"dgfip";46;11;57
 "immigration clandestine";57;0;57
 "immigration irrégulière";57;0;57
 "orthophoto";56;1;57
@@ -844,7 +845,6 @@
 "siret";44;13;57
 "adresses-postales";57;0;57
 "csp";55;1;56
-"dgfip";45;11;56
 "ocs";56;0;56
 "parcours";54;2;56
 "regions-maritimes";56;0;56
@@ -1383,6 +1383,7 @@
 "espace-naturel";33;0;33
 "greffes";32;1;33
 "1er";33;0;33
+"relais";33;0;33
 "iot";32;1;33
 "eau-continentale";33;0;33
 "crpm";33;0;33
@@ -1417,7 +1418,7 @@
 "gens-du-voyage";32;0;32
 "allier";31;1;32
 "lorient";32;0;32
-"relais";32;0;32
+"shapefile";31;1;32
 "politique-des-visas";32;0;32
 "acte-administratif";32;0;32
 "collecte-des-dechets";32;0;32
@@ -1467,7 +1468,6 @@
 "agriculture-parcellaire-agricole";30;1;31
 "eaux-usees";30;1;31
 "basque";31;0;31
-"shapefile";30;1;31
 "pistes-cyclables";31;0;31
 "juridictions-financieres";31;0;31
 "grenoble";29;2;31
@@ -1609,6 +1609,7 @@
 "grand-besancon-metropole";28;0;28
 "ocs-2d";28;0;28
 "ocs2d";28;0;28
+"cnig-2014";28;0;28
 "challenge-data";22;6;28
 "accompagnement";27;0;27
 "action-publique";26;1;27
@@ -1649,7 +1650,6 @@
 "spatial-planning";27;0;27
 "town-planning";27;0;27
 "dashboards";27;0;27
-"cnig-2014";27;0;27
 "toolbox";27;0;27
 "agriculteur";27;0;27
 "lio";27;0;27
@@ -2699,6 +2699,7 @@
 "gig";13;1;14
 "géolocalisé";2;12;14
 "immobiliers";11;3;14
+"impots-locaux";8;6;14
 "jeu";11;3;14
 "journaux";9;5;14
 "jusqu";14;0;14
@@ -2850,7 +2851,6 @@
 "grand_paris";13;0;13
 "grand_paris_express";12;1;13
 "hors";13;0;13
-"impots-locaux";7;6;13
 "inlandwaters";10;3;13
 "inscrits";12;1;13
 "internaute";13;0;13
@@ -3227,6 +3227,7 @@
 "barometre-economique";12;0;12
 "hospitalisation";2;10;12
 "etat-du-milieu-hydrodynamique";12;0;12
+"plan-local-durbanisme-intercommunal";12;0;12
 "defaillances";12;0;12
 "ea-public";12;0;12
 "bus-et-tramway";12;0;12
@@ -3430,7 +3431,6 @@
 "comptes-administratifs";11;0;11
 "licence-ouverte";11;0;11
 "observatoire-eco-effectifs-salaries";11;0;11
-"plan-local-durbanisme-intercommunal";11;0;11
 "reglion";11;0;11
 "connaitre-la-cdc";11;0;11
 "neuville-saint-remy";7;4;11
@@ -4063,6 +4063,7 @@
 "machilly";9;0;9
 "saint-cergues";9;0;9
 "ville-la-grand";9;0;9
+"test-covid19";1;8;9
 "animal";9;0;9
 "investissement-territoire";9;0;9
 "observatoire-eco-travailleurs-independants";9;0;9
@@ -4515,7 +4516,6 @@
 "prix-appartements";1;7;8
 "cranves-sales";8;0;8
 "lucinges";8;0;8
-"test-covid19";1;7;8
 "suivi-scientifique";8;0;8
 "economie-equine";8;0;8
 "animal-sauvage";8;0;8
@@ -6329,6 +6329,7 @@
 "maison-de-la-citoyennete";5;0;5
 "tarif-intercites";5;0;5
 "taxe-dhabitation";4;1;5
+"taxe-fonciere";5;0;5
 "evolution-demographique";3;2;5
 "associations-sportives";5;0;5
 "aerosols";5;0;5
@@ -7594,7 +7595,6 @@
 "ventilation-chiffre-daffaires";4;0;4
 "ville-de-toulouse";4;0;4
 "auto-partage";4;0;4
-"taxe-fonciere";4;0;4
 "dab";4;0;4
 "bdortho";3;1;4
 "tissu-associatif";2;2;4
@@ -9939,6 +9939,7 @@
 "saint-prix";3;0;3
 "regimes-speciaux";3;0;3
 "velos-libre-service";3;0;3
+"rei";1;2;3
 "aeroports-de-paris";2;1;3
 "cerema-eau-mer-fleuve";3;0;3
 "exzeco-inondation-risque";3;0;3
@@ -12578,6 +12579,7 @@
 "parking-relais";2;0;2
 "parking-velo";2;0;2
 "parkings-deux-roues-motorises";2;0;2
+"taxe-habitation";2;0;2
 "benevole";2;0;2
 "comite-des-oeuvres-sociales";2;0;2
 "comite-technique";2;0;2
@@ -14094,7 +14096,6 @@
 "tpk";2;0;2
 "bred";2;0;2
 "crise-45";2;0;2
-"rei";0;2;2
 "psu";2;0;2
 "referendum-initiative-partagee";2;0;2
 "cannabidiol";1;1;2
@@ -20591,7 +20592,6 @@
 "gov";0;1;1
 "hmrc";0;1;1
 "taux-moyens";1;0;1
-"taxe-habitation";1;0;1
 "politique-des-transports";1;0;1
 "politique-energetique";1;0;1
 "vehicule-non-polluant";1;0;1
@@ -30154,11 +30154,3 @@
 "marseillan";0;1;1
 "premier-tour-2017";0;1;1
 "buget";0;1;1
-"effectifs-eleves";0;1;1
-"enzo";0;1;1
-"jacques";0;1;1
-"jean";0;1;1
-"laura";0;1;1
-"mathieu";0;1;1
-"sigalisation-tricolore";0;1;1
-"delegation-de-service-public";1;0;1
