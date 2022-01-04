@@ -61,7 +61,7 @@
 "gouvernement";620;8;628
 "election";584;30;614
 "education";564;47;611
-"emploi";573;36;609
+"emploi";574;36;610
 "insee";567;39;606
 "risques";597;0;597
 "alea-enjeux-inondation-amenagement-urbanisme-prescription-prevention-servitude-risque-multi-risque";596;0;596
@@ -530,6 +530,7 @@
 "axe";89;0;89
 "age";76;12;88
 "biologie";87;1;88
+"vaccination";36;52;88
 "plui";87;1;88
 "bourgogne-franche-comte";87;1;88
 "route-departementale";88;0;88
@@ -544,7 +545,6 @@
 "presidentielle";79;8;87
 "travail";57;30;87
 "urbain";86;1;87
-"vaccination";36;51;87
 "vanves";87;0;87
 "donnees-de-references-referentiels-vocabulaire-controle";87;0;87
 "donnees-de-references-referentie";87;0;87
@@ -1078,6 +1078,7 @@
 "auvergne-rhone-alpes";43;2;45
 "centre-de-retention-administrati";45;0;45
 "sd";45;0;45
+"observatoire-economique";45;0;45
 "academie";38;6;44
 "ajoutee";44;0;44
 "archive";42;2;44
@@ -1102,7 +1103,6 @@
 "dirm";44;0;44
 "pollution-des-cours-deau";43;1;44
 "risques-et-territoires";44;0;44
-"observatoire-economique";44;0;44
 "continue";43;0;43
 "declaration";42;1;43
 "gendarmerie";30;13;43
@@ -2514,6 +2514,7 @@
 "employment";16;0;16
 "sme";16;0;16
 "esri-france";0;16;16
+"effectifs-salaries";15;1;16
 "amenagement-des-territoires";16;0;16
 "73065";16;0;16
 "igr";16;0;16
@@ -2620,6 +2621,7 @@
 "egalite-hommes-femmes";10;5;15
 "informations-institutionnelles-et-financieres";15;0;15
 "manifestations";14;1;15
+"masse-salariale";13;2;15
 "polynesie";15;0;15
 "previsions-meteo";15;0;15
 "prise-de-vue-aerienne";15;0;15
@@ -2657,7 +2659,6 @@
 "annonces-immobilieres";14;1;15
 "fxx";15;0;15
 "saint-denis";14;1;15
-"effectifs-salaries";14;1;15
 "observatoire-eco-difficultes-des-entreprises";15;0;15
 "sport-et-nature";15;0;15
 "datagouv";14;1;15
@@ -2754,7 +2755,6 @@
 "yonne";13;1;14
 "ligne-de-mosaiquage";14;0;14
 "horaires-et-itineraires";14;0;14
-"masse-salariale";12;2;14
 "mecenat";14;0;14
 "pedagogie";14;0;14
 "recherche-clinique";14;0;14
@@ -3225,6 +3225,7 @@
 "municipales-2020";6;6;12
 "base-adresse";11;1;12
 "barometre-economique";12;0;12
+"observatoire-eco-effectifs-salaries";12;0;12
 "hospitalisation";2;10;12
 "etat-du-milieu-hydrodynamique";12;0;12
 "plan-local-durbanisme-intercommunal";12;0;12
@@ -3432,7 +3433,6 @@
 "pontault-combault";11;0;11
 "comptes-administratifs";11;0;11
 "licence-ouverte";11;0;11
-"observatoire-eco-effectifs-salaries";11;0;11
 "connaitre-la-cdc";11;0;11
 "neuville-saint-remy";7;4;11
 "ccpl";11;0;11
@@ -3703,6 +3703,7 @@
 "coronavirustraking";0;10;10
 "aide-regionale";10;0;10
 "covidtracker";1;9;10
+"observatoire-eco-masse-salariale";10;0;10
 "personne-physique";8;2;10
 "developpement-du-territoire";10;0;10
 "annemasse";10;0;10
@@ -4052,7 +4053,6 @@
 "ddm";9;0;9
 "mdna";9;0;9
 "epinal";3;6;9
-"observatoire-eco-masse-salariale";9;0;9
 "travailleurs-independants";9;0;9
 "education-jeunesse";9;0;9
 "environnement-agriculture-eau";9;0;9
@@ -30154,3 +30154,4 @@
 "marseillan";0;1;1
 "premier-tour-2017";0;1;1
 "buget";0;1;1
+"effectifs-eleves";0;1;1
