@@ -10,9 +10,9 @@
 "grand-public";2252;0;2252
 "environnement";1893;35;1928
 "plu";1564;4;1568
-"transport";1416;23;1439
+"transport";1417;23;1440
 "localisation";1342;23;1365
-"france";1243;113;1356
+"france";1244;113;1357
 "environment";1308;6;1314
 "citoyennete";1279;6;1285
 "urbanisme";1238;13;1251
@@ -47,7 +47,7 @@
 "nord";715;5;720
 "equipements";696;18;714
 "commune";652;57;709
-"geolocalisation";651;57;708
+"geolocalisation";652;57;709
 "amenagement-du-territoire";680;4;684
 "ppr";682;1;683
 "sport";593;68;661
@@ -124,9 +124,9 @@
 "cartographie";240;98;338
 "finance";333;2;335
 "gtfs";325;10;335
+"route";330;5;335
 "sante-social";331;3;334
 "base-adresse-locale";334;0;334
-"route";328;5;333
 "industrie";328;4;332
 "biodiversite";321;10;331
 "carte";130;194;324
@@ -150,7 +150,7 @@
 "cd-53";290;0;290
 "vote";278;10;288
 "repartition-de-la-population-demographie";283;0;283
-"energie";251;30;281
+"energie";252;30;282
 "covid-19";105;175;280
 "structure";278;1;279
 "adresses";263;9;272
@@ -161,8 +161,8 @@
 "repartition-de-la-population";268;0;268
 "society";267;0;267
 "nouvelle-aquitaine";265;1;266
+"hebergement";259;6;265
 "irve";262;3;265
-"hebergement";258;6;264
 "recensement";196;66;262
 "montpellier";239;20;259
 "filosofi";259;0;259
@@ -172,7 +172,7 @@
 "risque-zonages-risque-technologi";256;0;256
 "directive-inondation";249;0;249
 "cadastre";221;26;247
-"zonage";231;12;243
+"zonage";232;12;244
 "subventions";224;18;242
 "tri";237;5;242
 "guyane";239;1;240
@@ -297,16 +297,16 @@
 "infrastructure";141;5;146
 "alea";146;0;146
 "seine";145;0;145
+"elus";106;38;144
 "plan";138;6;144
 "geoportail";143;1;144
-"elus";105;38;143
+"etablissement";135;8;143
 "geographie";113;30;143
 "mesures";143;0;143
+"paris";92;51;143
 "planification";142;1;143
 "deplacements-transports";141;2;143
 "ilot-de-chaleur";142;1;143
-"etablissement";134;8;142
-"paris";91;51;142
 "station-meteo";141;1;142
 "jeunesse";136;5;141
 "securite";118;23;141
@@ -350,11 +350,11 @@
 "artois-picardie";131;0;131
 "ouvertes";131;0;131
 "administratif";116;14;130
+"numerique";122;8;130
 "sig";115;15;130
 "dvd";128;1;129
 "location";122;7;129
 "marche";124;5;129
-"numerique";121;8;129
 "activite";122;6;128
 "principaux";128;0;128
 "auvergne";127;1;128
@@ -457,12 +457,12 @@
 "2005";105;0;105
 "donnees-descriptives";105;0;105
 "police";88;16;104
+"prix";81;23;104
 "scolaire";102;2;104
 "entree-en-france";104;0;104
 "donnees-qualitatives";104;0;104
 "budget-regional";98;5;103
 "landes";79;24;103
-"prix";80;23;103
 "pss";103;0;103
 "i2g";103;0;103
 "climat";94;8;102
@@ -517,12 +517,12 @@
 "prenoms";62;29;91
 "bornes";85;5;90
 "democratie";84;6;90
+"electricite";83;7;90
 "flux";89;1;90
 "qualite";87;3;90
 "verre";88;2;90
 "cadre-de-vie-environnement";90;0;90
 "eau-souterraine";88;1;89
-"electricite";82;7;89
 "ozone";89;0;89
 "ille-et-vilaine";86;3;89
 "urbanisme-logement";89;0;89
@@ -693,7 +693,9 @@
 "scrutin";68;1;69
 "immigration-familiale";69;0;69
 "natural-risk-zones";69;0;69
+"sirene";49;20;69
 "donnees-derivees-indicateurs";69;0;69
+"bilan";67;1;68
 "cinéma";53;15;68
 "covoiturage";59;9;68
 "eau-potable";66;2;68
@@ -702,10 +704,8 @@
 "vls";68;0;68
 "carte-de-sejour";68;0;68
 "environnement-loiret";68;0;68
-"sirene";48;20;68
 "comptes-consolides";68;0;68
 "loi-de-finances-initiale";68;0;68
-"bilan";66;1;67
 "camping";56;11;67
 "candidats";63;4;67
 "manche";65;2;67
@@ -828,6 +828,7 @@
 "signataires";58;0;58
 "dechetterie";55;3;58
 "saint";58;0;58
+"siret";45;13;58
 "eaux-interieures-de-surface-rivi";58;0;58
 "budget-finances";58;0;58
 "balade";53;4;57
@@ -842,7 +843,6 @@
 "plateforme-publique-de-l-information-geographique-ppige-nord-pas-de-calais";57;0;57
 "borne-electrique";54;3;57
 "secteur-dactivite";57;0;57
-"siret";44;13;57
 "adresses-postales";57;0;57
 "arret-de-bus";52;4;56
 "csp";55;1;56
@@ -1902,6 +1902,7 @@
 "poste";20;2;22
 "qualite-de-vie";20;2;22
 "raisons";22;0;22
+"remuneration";19;3;22
 "statut";20;2;22
 "systemes";22;0;22
 "video";19;3;22
@@ -1964,6 +1965,7 @@
 "lieu-de-visites-touristiques";9;12;21
 "livraison";20;1;21
 "m52";21;0;21
+"metiers";18;3;21
 "musee-de-france";10;11;21
 "pacs";19;2;21
 "pauvrete";19;2;21
@@ -1972,7 +1974,6 @@
 "potentiels";21;0;21
 "programme";20;1;21
 "references";20;1;21
-"remuneration";18;3;21
 "ressources";21;0;21
 "régions";13;8;21
 "sage";21;0;21
@@ -2052,7 +2053,6 @@
 "indemnites";20;0;20
 "magasin";12;8;20
 "medecin-generaliste";9;11;20
-"metiers";17;3;20
 "ministre";16;4;20
 "niveau-de-vie";17;3;20
 "nouveaux";20;0;20
@@ -2104,6 +2104,7 @@
 "gracethd";20;0;20
 "corona";13;7;20
 "covid2019";1;19;20
+"vie-de-linstitution";20;0;20
 "actif";19;0;19
 "aide-au-logement";19;0;19
 "alsace";17;2;19
@@ -2186,7 +2187,6 @@
 "lfi-2014";19;0;19
 "lieu-daccueil";19;0;19
 "coronavirusfrance";1;18;19
-"vie-de-linstitution";19;0;19
 "anct";13;6;19
 "transports-et-mobilites";19;0;19
 "accessibilité";15;3;18
@@ -2261,6 +2261,7 @@
 "humidite";17;1;18
 "second-tour";16;2;18
 "subvention-municipale";17;1;18
+"conseillers-departementaux";17;1;18
 "sicoval";18;0;18
 "internat";18;0;18
 "bioenergies";18;0;18
@@ -2307,6 +2308,7 @@
 "espece";17;0;17
 "etang";12;5;17
 "gaz-a-effet-de-serre";15;2;17
+"geocodage";8;9;17
 "horodateurs";17;0;17
 "innondation";17;0;17
 "lie";17;0;17
@@ -2372,7 +2374,6 @@
 "rnsr";17;0;17
 "zone-reglementee";17;0;17
 "lisieux";17;0;17
-"conseillers-departementaux";16;1;17
 "noirmoutier-en-l-ile-85163";17;0;17
 "pirae";15;2;17
 "ingenieurs";16;1;17
@@ -2418,7 +2419,6 @@
 "encombrants";14;2;16
 "familles";11;5;16
 "financement-europeen";14;2;16
-"geocodage";7;9;16
 "gic";15;1;16
 "listes";13;3;16
 "macroeconomiques";16;0;16
@@ -2865,6 +2865,7 @@
 "naissances-annuelles";6;7;13
 "nationalité française";13;0;13
 "ocsol";12;1;13
+"organisations";13;0;13
 "ouvrages";13;0;13
 "paiement";13;0;13
 "parc-de-stationnement";7;6;13
@@ -2891,6 +2892,7 @@
 "reservation";12;1;13
 "réintégration";13;0;13
 "scientifique";13;0;13
+"sejour";12;1;13
 "sociale";13;0;13
 "sorties";9;4;13
 "technologie";10;3;13
@@ -3098,7 +3100,6 @@
 "niveau";10;2;12
 "occupees";12;0;12
 "oeuvre";12;0;12
-"organisations";12;0;12
 "pch";12;0;12
 "piéton";11;1;12
 "poisson";12;0;12
@@ -3115,7 +3116,6 @@
 "restauration-collective";11;1;12
 "sante-sociale";8;4;12
 "securite-des-soins";12;0;12
-"sejour";11;1;12
 "site-naturel";6;6;12
 "spectacle vivant";12;0;12
 "sports-et-loisirs";9;3;12
@@ -6195,6 +6195,7 @@
 "departements-francais";2;3;5
 "elections-municipales-2014";5;0;5
 "elections-partielles";5;0;5
+"elues";3;2;5
 "espaces-chiens";5;0;5
 "esperance-de-vie";3;2;5
 "etablissements-recevant-du-public";5;0;5
@@ -6373,6 +6374,7 @@
 "saint-gatien-des-bois";5;0;5
 "la-gaude";5;0;5
 "systeme-de-coordonnees";5;0;5
+"puissance-dinjection";5;0;5
 "declaration-prealable";5;0;5
 "centre-val-de-loire";1;4;5
 "wiiiz";4;1;5
@@ -6850,6 +6852,7 @@
 "perturbation";4;0;4
 "phytopharmaceutiques";2;2;4
 "plante";4;0;4
+"poles";3;1;4
 "politique-d-immigration";3;1;4
 "pommes";4;0;4
 "pompe";1;3;4
@@ -7283,7 +7286,6 @@
 "dispositif-medical";3;1;4
 "dotation-globale-de-fonctionnement";3;1;4
 "election-municipale";4;0;4
-"elues";2;2;4
 "eu";4;0;4
 "ferree";4;0;4
 "feu-tricolore";4;0;4
@@ -7311,6 +7313,7 @@
 "photographies-aeriennes";4;0;4
 "pompes-funebres";3;1;4
 "proces-verbal";4;0;4
+"puissance-installee";4;0;4
 "reduite";4;0;4
 "renovation-habitat";2;2;4
 "reseaux-mobiles";2;2;4
@@ -7671,7 +7674,6 @@
 "encombrant";4;0;4
 "filiere-de-production";4;0;4
 "point-de-soutirage";4;0;4
-"puissance-dinjection";4;0;4
 "yelo";4;0;4
 "sang";3;1;4
 "astrophysique";4;0;4
@@ -8442,7 +8444,6 @@
 "pmsi";3;0;3
 "pn";3;0;3
 "pole emploi";2;1;3
-"poles";2;1;3
 "politique publique";3;0;3
 "politique-de-defense";1;2;3
 "politique-de-l-eau";1;2;3
@@ -9096,7 +9097,6 @@
 "programme-enseignement";3;0;3
 "projet-de-developpement";3;0;3
 "propositions-politiques";1;2;3
-"puissance-installee";3;0;3
 "reception";3;0;3
 "rentree-scolaire-2016";2;1;3
 "reperes-fondamentaux";2;1;3
@@ -11100,6 +11100,7 @@
 "reparation";2;0;2
 "reperes fondamentaux";1;1;2
 "representant";2;0;2
+"representations";2;0;2
 "reserve-biologique";1;1;2
 "reserve-naturelle-regionale";2;0;2
 "reside";2;0;2
@@ -14844,6 +14845,7 @@
 "bd-topo-bdto";2;0;2
 "euskara";2;0;2
 "rebours";2;0;2
+"voierie";2;0;2
 "112";1;0;1
 "18";1;0;1
 "1998";1;0;1
@@ -16781,7 +16783,6 @@
 "replantee";1;0;1
 "reponse";1;0;1
 "representant-permanent";1;0;1
-"representations";1;0;1
 "représentation";1;0;1
 "repères de nivellement";1;0;1
 "requetes";1;0;1
