@@ -13,7 +13,7 @@
 "transport";1417;23;1440
 "localisation";1343;23;1366
 "france";1244;113;1357
-"citoyennete";1279;6;1285
+"citoyennete";1280;6;1286
 "environment";1279;6;1285
 "urbanisme";1238;13;1251
 "administration";1207;13;1220
@@ -59,7 +59,7 @@
 "gouvernement";623;8;631
 "bretagne";579;50;629
 "boundaries";627;1;628
-"election";583;30;613
+"election";584;30;614
 "emploi";577;36;613
 "education";565;47;612
 "insee";570;39;609
@@ -147,7 +147,7 @@
 "littoral-aquitain";292;0;292
 "openstreetmap";231;59;290
 "cd-53";290;0;290
-"vote";277;10;287
+"vote";278;10;288
 "repartition-de-la-population-demographie";283;0;283
 "habitats-et-biotopes";280;1;281
 "covid-19";105;175;280
@@ -334,12 +334,12 @@
 "aide";131;2;133
 "ecoles";128;5;133
 "lycees";129;4;133
+"numerique";125;8;133
 "resultats";128;5;133
 "draaf-auvergne-rhone-alpes";133;0;133
 "saint-quentin";132;1;133
 "art";127;5;132
 "ligne";131;1;132
-"numerique";124;8;132
 "ddt-isere";132;0;132
 "zonages-nature";130;2;132
 "ddt-haute-savoie";132;0;132
@@ -376,12 +376,12 @@
 "metropole-golfe-de-gascogne";125;0;125
 "bourgogne";122;2;124
 "communaute";123;1;124
+"participation";121;3;124
 "universite";106;18;124
 "mobilite-et-espace-public";124;0;124
 "havre";124;0;124
 "guadeloupe";122;1;123
 "nationaux";123;0;123
-"participation";120;3;123
 "histoire";114;8;122
 "immobilier";73;49;122
 "infrastructures";118;4;122
@@ -512,11 +512,11 @@
 "naissance";76;16;92
 "habitat-politique-de-la-ville-po";92;0;92
 "boulogne-billancourt";87;5;92
+"democratie";85;6;91
 "etat";84;7;91
 "evenement";81;10;91
 "prenoms";62;29;91
 "bornes";85;5;90
-"democratie";84;6;90
 "electricite";83;7;90
 "flux";89;1;90
 "qualite";87;3;90
@@ -691,6 +691,7 @@
 "producteur";65;4;69
 "secteur";69;0;69
 "strasbourg";59;10;69
+"scrutin";68;1;69
 "immigration-familiale";69;0;69
 "vehicule-electrique";67;2;69
 "natural-risk-zones";69;0;69
@@ -703,7 +704,6 @@
 "horodateur";68;0;68
 "recette";64;4;68
 "vls";68;0;68
-"scrutin";67;1;68
 "carte-de-sejour";68;0;68
 "comptes-consolides";68;0;68
 "loi-de-finances-initiale";68;0;68
@@ -734,6 +734,7 @@
 "transport-urbain";64;0;64
 "élection";57;7;64
 "datavisualisation";4;60;64
+"bureau-de-vote";63;1;64
 "siren";52;12;64
 "sources-denergie";64;0;64
 "morts-pour-la-france";2;62;64
@@ -746,7 +747,6 @@
 "creation";60;3;63
 "jardins";56;7;63
 "riviere";58;5;63
-"bureau-de-vote";62;1;63
 "atc";63;0;63
 "accident";42;20;62
 "atlas";57;5;62
@@ -1822,6 +1822,8 @@
 "agents";23;0;23
 "alimentaire";20;3;23
 "altimetrie";21;2;23
+"citoyen";18;5;23
+"conference";21;2;23
 "demande";23;0;23
 "diagnostic";23;0;23
 "distribution";23;0;23
@@ -1884,9 +1886,7 @@
 "centres";20;2;22
 "certification";21;1;22
 "circuit";22;0;22
-"citoyen";17;5;22
 "commission";22;0;22
-"conference";20;2;22
 "creanciers";22;0;22
 "cycle";21;1;22
 "espaces";22;0;22
@@ -5813,6 +5813,7 @@
 "forme";5;0;5
 "formes";5;0;5
 "fort";5;0;5
+"forum";4;1;5
 "fosses";5;0;5
 "fumeurs";4;1;5
 "gabarit";5;0;5
@@ -6732,7 +6733,6 @@
 "foraine";4;0;4
 "forfait";2;2;4
 "formation-professionnelle-continue";3;1;4
-"forum";3;1;4
 "fracture sanitaire";3;1;4
 "fromages";3;1;4
 "fruit";4;0;4
