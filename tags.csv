@@ -252,8 +252,8 @@
 "decp";174;2;176
 "pays";168;3;171
 "enseignement-formation-recherche";168;3;171
+"college";162;8;170
 "nature";169;1;170
-"college";161;8;169
 "eau-de-surface";167;2;169
 "marches-publics";154;15;169
 "precipitations";169;0;169
@@ -467,6 +467,7 @@
 "ddt-loire";105;0;105
 "2005";105;0;105
 "donnees-descriptives";105;0;105
+"maternelle";103;1;104
 "prix";81;23;104
 "unites-statistiques";104;0;104
 "entree-en-france";104;0;104
@@ -474,7 +475,6 @@
 "budget-regional";98;5;103
 "landes";79;24;103
 "marche-public";97;6;103
-"maternelle";102;1;103
 "pss";103;0;103
 "borne-de-recharge";101;2;103
 "i2g";103;0;103
@@ -568,6 +568,7 @@
 "sevres";86;0;86
 "etat-du-milieu-especes";86;0;86
 "dataviz1";86;0;86
+"petite-enfance";80;5;85
 "politique-agricole-commune";79;6;85
 "recyclage";78;7;85
 "loire-atlantique";84;1;85
@@ -577,7 +578,6 @@
 "eleves";83;1;84
 "iris";67;17;84
 "monument";67;17;84
-"petite-enfance";79;5;84
 "protection";78;6;84
 "sports";80;4;84
 "calvados";82;2;84
@@ -880,6 +880,7 @@
 "formations";50;5;55
 "hotel";49;6;55
 "parlement";46;9;55
+"primaire";54;1;55
 "routier";54;1;55
 "enr";51;4;55
 "idg";54;1;55
@@ -893,7 +894,6 @@
 "diplome";52;2;54
 "formations-sanitaires-et-sociales";54;0;54
 "justice";38;16;54
-"primaire";53;1;54
 "promenade";53;1;54
 "reglementation";53;1;54
 "restaurant";48;6;54
@@ -1329,6 +1329,7 @@
 "invalidite";35;0;35
 "montagne";31;4;35
 "mos";35;0;35
+"salaire";31;4;35
 "sanitaire";29;6;35
 "spectacle-vivant";35;0;35
 "transport-de-voyageurs";33;2;35
@@ -1357,7 +1358,7 @@
 "provence-alpes-cote-d-azur";21;13;34
 "registre";30;4;34
 "revenus";26;8;34
-"salaire";30;4;34
+"salaires";23;11;34
 "scolarite";33;1;34
 "stade";31;3;34
 "sud";34;0;34
@@ -1395,7 +1396,6 @@
 "occupation";33;0;33
 "outre-mer";27;6;33
 "prive";31;2;33
-"salaires";22;11;33
 "soins";30;3;33
 "transition-energetique";28;5;33
 "espace-naturel";33;0;33
@@ -2222,6 +2222,7 @@
 "démocratie";17;1;18
 "déplacements - transports";16;2;18
 "emplacement";18;0;18
+"enseignants";17;1;18
 "espe";16;2;18
 "francais-de-l-etranger";17;1;18
 "francais-etablis-hors-de-france";18;0;18
@@ -2325,7 +2326,6 @@
 "eau-cotiere";15;2;17
 "emballage";16;1;17
 "emplois";15;2;17
-"enseignants";16;1;17
 "espece";17;0;17
 "etang";12;5;17
 "gaz-a-effet-de-serre";15;2;17
@@ -3833,7 +3833,6 @@
 "navigables";9;0;9
 "navire";5;4;9
 "norme";9;0;9
-"ocde";8;1;9
 "offre-de-soins";6;3;9
 "offre-legale";8;1;9
 "omr";7;2;9
@@ -6794,6 +6793,7 @@
 "elections-legislatives-assemblee-nationale-depute";3;1;4
 "emigration";4;0;4
 "emis";4;0;4
+"enseignant";4;0;4
 "escalier";4;0;4
 "escargots";3;1;4
 "espaceschiens";3;1;4
@@ -6954,6 +6954,7 @@
 "procedures";3;1;4
 "production-cinematographique";4;0;4
 "production-de-bois";4;0;4
+"professeurs";4;0;4
 "profession-de-la-sante";3;1;4
 "professionnels";3;1;4
 "profondeur";4;0;4
@@ -6998,6 +6999,7 @@
 "santé sociale";2;2;4
 "sciences du numérique";1;3;4
 "scolarisation";4;0;4
+"secondaire";4;0;4
 "secourisme";4;0;4
 "secretaire-d-etat";3;1;4
 "secteur-d-activite";1;3;4
@@ -7655,6 +7657,7 @@
 "parc-dactivites";4;0;4
 "parrainages";1;3;4
 "virtuelle";4;0;4
+"professeur";4;0;4
 "demande-de-raccordement";4;0;4
 "alim-confiance";1;3;4
 "perruches";4;0;4
@@ -8324,7 +8327,6 @@
 "engagements";3;0;3
 "enquete-menages-deplacements";3;0;3
 "enregistrees";3;0;3
-"enseignant";3;0;3
 "enseignante";3;0;3
 "enumerees";3;0;3
 "environnementales";3;0;3
@@ -8582,7 +8584,6 @@
 "prise";3;0;3
 "privee";3;0;3
 "produits-culturels";3;0;3
-"professeurs";3;0;3
 "professionnelle";3;0;3
 "professionnelles";3;0;3
 "professionnels de santé";3;0;3
@@ -8639,7 +8640,6 @@
 "savoir";3;0;3
 "saône-et-loire";1;2;3
 "scrapping";3;0;3
-"secondaire";3;0;3
 "secteur-primaire";3;0;3
 "sections";3;0;3
 "selection";1;2;3
@@ -9510,7 +9510,6 @@
 "indice-de-confiance";3;0;3
 "points-de-charge";3;0;3
 "drones-civils";2;1;3
-"professeur";3;0;3
 "scrutins";1;2;3
 "mobiliers-urbains";3;0;3
 "bpi-france";3;0;3
@@ -11036,6 +11035,7 @@
 "occupant";2;0;2
 "occupee";2;0;2
 "occuper";2;0;2
+"ocde";1;1;2
 "octroi";2;0;2
 "officiel";1;1;2
 "officielle";2;0;2
@@ -30437,15 +30437,3 @@
 "fontainebleau-archives-nationales";1;0;1
 "pierrefitte-saint-denis-archives-nationales";1;0;1
 "donnees-du-repertoire-des-logements-locatifs-des-bailleurs-sociaux";1;0;1
-"rpls2020";1;0;1
-"repertoire-des-logements-locatifs-des-bailleurs-sociaux";0;1;1
-"bdnb";0;1;1
-"gorenove";0;1;1
-"vice-president";1;0;1
-"vice-presidente";1;0;1
-"sql";0;1;1
-"consommant";0;1;1
-"reparateurs";1;0;1
-"base-adresse-locale-chelles";1;0;1
-"deliberations-conseil-municipal-chelles";1;0;1
-"equipements-publics-chelles";1;0;1
