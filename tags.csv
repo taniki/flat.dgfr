@@ -32,7 +32,7 @@
 "economie";944;50;994
 "mobilite";898;43;941
 "inondation";935;3;938
-"open-data";897;15;912
+"open-data";897;16;913
 "zones-de-gestion-de-restriction-ou-de-reglementat";907;0;907
 "document-durbanisme";897;0;897
 "donnee-ouverte";854;3;857
@@ -100,7 +100,7 @@
 "farming";425;0;425
 "reseau";403;21;424
 "enseignement";401;18;419
-"opendata";358;43;401
+"opendata";358;44;402
 "dreal";398;0;398
 "dechets";382;7;389
 "recherche";363;25;388
@@ -134,7 +134,7 @@
 "cartographie";223;98;321
 "parking";306;11;317
 "nuisance-bruit";317;0;317
-"covid19";123;189;312
+"covid19";123;190;313
 "loisirs";302;8;310
 "route";300;6;306
 "air";301;4;305
@@ -207,8 +207,8 @@
 "dreal-na";211;0;211
 "saint-quentin";210;1;211
 "bruit";209;1;210
+"covid";66;143;209
 "metropole";197;11;208
-"covid";66;142;208
 "public";203;1;204
 "pays-de-la-loire";203;1;204
 "enfance";199;3;202
@@ -315,7 +315,7 @@
 "station-meteo";141;1;142
 "arret";137;4;141
 "cinema";111;30;141
-"deliberations";137;3;140
+"deliberations";138;3;141
 "jeunesse";135;5;140
 "sig";125;15;140
 "topographie";137;3;140
@@ -358,9 +358,9 @@
 "artois-picardie";131;0;131
 "ouvertes";131;0;131
 "lycees";126;4;130
+"scdl";127;3;130
 "dvd";128;1;129
 "terrain";120;9;129
-"scdl";126;3;129
 "activite";122;6;128
 "location";121;7;128
 "principaux";128;0;128
@@ -1240,6 +1240,7 @@
 "cyclable";36;2;38
 "debit";37;1;38
 "dimension";38;0;38
+"egalite";33;5;38
 "espace-vert";37;1;38
 "imagerie";38;0;38
 "projet";36;2;38
@@ -1266,7 +1267,6 @@
 "artisanat";31;6;37
 "assemblee";31;6;37
 "degustation";37;0;37
-"egalite";33;4;37
 "espaces-naturels-sensibles";36;1;37
 "europeennes";37;0;37
 "evaluation";35;2;37
@@ -1416,6 +1416,7 @@
 "gestion-de-leau";33;0;33
 "recharge-vehicules-electriques";31;2;33
 "chiffres-cles-de-limmigration";33;0;33
+"scdl-deliberations";33;0;33
 "clermont-auvergne-metropole";33;0;33
 "accidents";24;8;32
 "administration-generale";31;1;32
@@ -1454,7 +1455,6 @@
 "autorisations-dengagement";32;0;32
 "industrie-et-services";31;1;32
 "plf-2014";31;1;32
-"scdl-deliberations";32;0;32
 "coronavius";11;21;32
 "20006911000019";32;0;32
 "agriculture-et-innovations";32;0;32
@@ -3268,6 +3268,7 @@
 "maison-de-la-nature-et-de-larbre";12;0;12
 "occupation-des-sols";12;0;12
 "comptage-velo";12;0;12
+"pontault-combault";12;0;12
 "base-adresse";11;1;12
 "barometre-economique";12;0;12
 "hospitalisation";2;10;12
@@ -3477,7 +3478,6 @@
 "bd-inventaire";11;0;11
 "invalidites";11;0;11
 "dasco";11;0;11
-"pontault-combault";11;0;11
 "comptes-administratifs";11;0;11
 "scdl-equipements";11;0;11
 "licence-ouverte";11;0;11
@@ -4284,6 +4284,7 @@
 "republique";7;1;8
 "reussite";7;1;8
 "régionales";7;1;8
+"sciences";4;4;8
 "sensible";8;0;8
 "seuil";7;1;8
 "sida";8;0;8
@@ -4758,7 +4759,6 @@
 "référentiel";7;0;7
 "sante-et-protection-des-animaux";7;0;7
 "scanner";3;4;7
-"sciences";4;3;7
 "seance-pleniere";7;0;7
 "series";6;1;7
 "signaletique";6;1;7
