@@ -84,7 +84,7 @@
 "services";484;5;489
 "intercommunalite";479;3;482
 "velo";432;48;480
-"agriculture";444;29;473
+"agriculture";444;30;474
 "2019";461;4;465
 "rhone-alpes";462;2;464
 "citoyennete-institution";460;0;460
@@ -1206,6 +1206,7 @@
 "toulouse";32;8;40
 "visa";39;1;40
 "éducation";24;16;40
+"agriculture-biologique";36;4;40
 "blagnac";40;0;40
 "vie-economique-innovation";40;0;40
 "article-179";40;0;40
@@ -1220,7 +1221,6 @@
 "transpole";39;0;39
 "Sxcuritx-sanitaire";39;0;39
 "compte administratif";39;0;39
-"agriculture-biologique";36;3;39
 "carte-interactive";0;39;39
 "libre-service";39;0;39
 "oscom";39;0;39
@@ -2151,6 +2151,7 @@
 "mais";19;0;19
 "numérique";16;3;19
 "pac";17;2;19
+"pesticides";10;9;19
 "piste";19;0;19
 "pole-emploi";14;5;19
 "ports";18;1;19
@@ -2249,7 +2250,6 @@
 "offre";18;0;18
 "orthophotoplan";17;1;18
 "paje";17;1;18
-"pesticides";10;8;18
 "placement";18;0;18
 "pont";18;0;18
 "privation";18;0;18
@@ -14939,6 +14939,8 @@
 "gros-oeuvre";2;0;2
 "cani-accueillance";2;0;2
 "polenta";2;0;2
+"haute-valeur-environnementale";1;1;2
+"hve";1;1;2
 "arrondissement-departemental-haute-garonne";2;0;2
 "limites-geographiques";2;0;2
 "distribus";2;0;2
@@ -30330,8 +30332,6 @@
 "rgesn";0;1;1
 "certification-environnementale";1;0;1
 "green-deal";1;0;1
-"haute-valeur-environnementale";1;0;1
-"hve";1;0;1
 "saint-clement-sur-durance";1;0;1
 "eygliers";1;0;1
 "pleaides";1;0;1
@@ -30441,3 +30441,5 @@
 "ascenseurs";1;0;1
 "equipements-et-services-en-gares";1;0;1
 "escaliers-mecaniques";1;0;1
+"fanzone";1;0;1
+"metiers-de-la-donnee";0;1;1
