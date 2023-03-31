@@ -6,7 +6,7 @@
 "geoscientific-information";5170;1;5171
 "planning-cadastre";4889;0;4889
 "risque-zonages-risque-naturel";4510;0;4510
-"environnement";2649;41;2690
+"environnement";2651;41;2692
 "zones-a-risque-naturel";2487;0;2487
 "localisation";2257;25;2282
 "grand-public";2262;0;2262
@@ -22,7 +22,7 @@
 "budget";1604;21;1625
 "citoyennete";1574;6;1580
 "france";1450;127;1577
-"urbanisme";1507;17;1524
+"urbanisme";1509;17;1526
 "finances-publiques";1440;4;1444
 "administration";1429;13;1442
 "culture";1234;48;1282
@@ -32,9 +32,9 @@
 "environment";1184;7;1191
 "occupation-du-sol";1172;15;1187
 "open-data";1102;24;1126
-"economie";1069;53;1122
+"economie";1070;53;1123
 "pprn";1083;0;1083
-"amenagement-du-territoire";1021;7;1028
+"amenagement-du-territoire";1023;7;1030
 "occupation-des-terres";1012;1;1013
 "inondation";952;5;957
 "deliberation";952;0;952
@@ -43,10 +43,10 @@
 "elections";809;106;915
 "zones-de-gestion-de-restriction-ou-de-reglementat";907;0;907
 "donnee-ouverte";896;3;899
-"logement";844;39;883
-"transports";860;20;880
+"logement";846;39;885
+"transports";861;20;881
 "commune";814;63;877
-"equipements";796;18;814
+"equipements";798;18;816
 "hauts-de-france";802;6;808
 "patrimoine";779;18;797
 "risque";771;2;773
@@ -63,16 +63,16 @@
 "nord";715;5;720
 "geolocalisation";656;59;715
 "sante";599;94;693
+"emploi";650;41;691
 "2019";687;4;691
-"emploi";649;41;690
 "ppr";681;1;682
 "insee";614;50;664
-"batiments";645;6;651
+"batiments";647;6;653
 "donnees-publiques";641;4;645
 "unites-administratives";644;1;645
 "reseaux-de-transport";641;1;642
 "somme";635;2;637
-"deplacements";630;1;631
+"deplacements";631;1;632
 "adresse";603;12;615
 "bus";585;29;614
 "boundaries";611;1;612
@@ -103,13 +103,13 @@
 "epci";456;26;482
 "adresses";456;9;465
 "enseignement";442;21;463
-"developpement-economique";460;1;461
+"developpement-economique";461;1;462
 "equipement";445;10;455
 "geoportail";451;1;452
 "zonages-risque-naturel";450;0;450
 "demographie";400;47;447
-"dechets";436;9;445
-"irve";441;4;445
+"dechets";437;9;446
+"irve";442;4;446
 "statistiques";398;44;442
 "opendata";382;59;441
 "transportation";437;3;440
@@ -208,10 +208,10 @@
 "imagerie-relief-et-occupation-du-sol";249;0;249
 "immigration";241;7;248
 "etat-civil";223;22;245
+"tri";236;5;241
 "data-gouv";240;1;241
 "guyane";239;1;240
 "pos";239;1;240
-"tri";235;5;240
 "emission";239;0;239
 "2016";236;2;238
 "entreprises";207;30;237
@@ -234,8 +234,8 @@
 "production";217;6;223
 "modelisation";222;1;223
 "compte";222;0;222
+"bornes-de-recharge";219;3;222
 "route-departementale";221;1;222
-"bornes-de-recharge";218;3;221
 "2012";207;12;219
 "marches-publics";202;16;218
 "plan";211;7;218
@@ -264,22 +264,22 @@
 "arrets";200;1;201
 "associations";177;22;199
 "musique";188;11;199
+"decp";196;3;199
 "seine-saint-denis";195;3;198
 "ban";190;8;198
-"decp";195;3;198
 "metro";184;13;197
+"temps-reel";192;5;197
 "batiment";187;9;196
-"temps-reel";191;5;196
+"business";196;0;196
 "risques-naturels";193;3;196
 "coronavirus";82;114;196
 "securite";167;28;195
-"business";195;0;195
 "landes-40";195;0;195
 "photographie-aerienne";193;1;194
 "train";169;25;194
 "horaires";188;5;193
+"pme";191;2;193
 "bureaux-de-vote";188;4;192
-"pme";190;2;192
 "college";183;8;191
 "migrant";191;0;191
 "musee";154;37;191
@@ -823,6 +823,7 @@
 "horaire";63;8;71
 "corse";67;4;71
 "qualite-de-lenvironnement";71;0;71
+"gtfs-rt";69;2;71
 "programme-europeen";71;0;71
 "architecture";64;6;70
 "camping";59;11;70
@@ -837,7 +838,6 @@
 "amenagement-urbanisme";68;2;70
 "natural-risk-zones";70;0;70
 "referentiels-geographiques";70;0;70
-"gtfs-rt";68;2;70
 "sno-karst";70;0;70
 "bibliotheques";62;7;69
 "bilan";68;1;69
@@ -1988,6 +1988,7 @@
 "spatial-planning";26;0;26
 "town-planning";26;0;26
 "reanimation";9;17;26
+"datagouv";25;1;26
 "publie-par-la-collectivite";26;0;26
 "beaumont";26;0;26
 "infra-rouge-couleur";26;0;26
@@ -2045,7 +2046,6 @@
 "hta";25;0;25
 "covidfrance";0;25;25
 "vie-de-linstitution";25;0;25
-"datagouv";24;1;25
 "challengeopendata";25;0;25
 "politiques-sociales";25;0;25
 "cartographie-de-reference";25;0;25
@@ -2551,6 +2551,7 @@
 "parlement-de-la-mer";19;0;19
 "orthoimagery";19;0;19
 "administration-et-services-publics";19;0;19
+"lieux-de-mediation-numerique";19;0;19
 "effort-fiscal";19;0;19
 "slam";19;0;19
 "potentiel-financier";19;0;19
@@ -2622,6 +2623,7 @@
 "agriculture-exploitation-elevage";17;1;18
 "chantiers";17;1;18
 "designation";18;0;18
+"dechetteries";17;1;18
 "sitadel";14;4;18
 "asso";17;1;18
 "tache";18;0;18
@@ -2664,7 +2666,6 @@
 "vehicule-propre";18;0;18
 "bruit-ferroviaire";18;0;18
 "agglopolys";18;0;18
-"lieux-de-mediation-numerique";18;0;18
 "abonnes";17;0;17
 "aerodrome";16;1;17
 "aot";17;0;17
@@ -2743,7 +2744,6 @@
 "specification-departementale";17;0;17
 "enjeu";17;0;17
 "zonage-reglementaire";17;0;17
-"dechetteries";16;1;17
 "poissons-migrateurs";17;0;17
 "midi-pyrénées";16;1;17
 "Gare de voyageurs";17;0;17
@@ -3044,6 +3044,7 @@
 "residence-pricipale";15;0;15
 "resultat-dexercice";15;0;15
 "memoire";14;1;15
+"dechets-menagers";12;3;15
 "haute-savoie";13;2;15
 "savoie";13;2;15
 "cyclisme";9;6;15
@@ -3201,7 +3202,6 @@
 "recherche-clinique";14;0;14
 "services-voyageurs";14;0;14
 "couverture-mobile";4;10;14
-"dechets-menagers";11;3;14
 "demographie-et-population-recensement";14;0;14
 "sportif";12;2;14
 "intelligence-artificielle";4;10;14
@@ -16303,6 +16303,7 @@
 "victimes-de-guerre";2;0;2
 "professionnels-du-social";2;0;2
 "direction-de-la-protection-judiciaire-de-la-jeunesse";2;0;2
+"tri-de-dechets";2;0;2
 "conseils-departementaux-de-lacces-au-droit";2;0;2
 "quintiles";2;0;2
 "temps-dantenne";2;0;2
@@ -32435,7 +32436,6 @@
 "bassin-de-retenue";1;0;1
 "pouembout";1;0;1
 "cheque-emploi";1;0;1
-"tri-de-dechets";1;0;1
 "amp";1;0;1
 "fablio";1;0;1
 "series-longues";1;0;1
@@ -33035,3 +33035,4 @@
 "perimetre-debroussaillement";1;0;1
 "obligations-legales-debroussaillement";1;0;1
 "old";1;0;1
+"irve77";1;0;1
