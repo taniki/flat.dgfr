@@ -32,7 +32,7 @@
 "mobilite";1191;56;1247
 "environment";1184;7;1191
 "open-data";1106;24;1130
-"economie";1063;53;1116
+"economie";1064;53;1117
 "pprn";1083;0;1083
 "amenagement-du-territoire";1053;7;1060
 "occupation-des-terres";1014;1;1015
@@ -255,8 +255,8 @@
 "metropole";200;11;211
 "borne-de-recharge";209;2;211
 "dreal-na";211;0;211
-"economy";208;1;209
 "lieux-de-production-et-sites-industriels";209;0;209
+"economy";207;1;208
 "dce";206;0;206
 "zone";204;2;206
 "normandie";204;2;206
@@ -271,8 +271,8 @@
 "decp";197;3;200
 "seine-saint-denis";195;3;198
 "metro";184;13;197
-"business";197;0;197
 "batiment";187;9;196
+"business";196;0;196
 "risques-naturels";193;3;196
 "coronavirus";82;114;196
 "pays";192;3;195
@@ -2673,9 +2673,6 @@
 "patrimoine-tourisme-culture";18;0;18
 "outre-mer-ocean-indien";18;0;18
 "bt";18;0;18
-"economic-development";18;0;18
-"employment";18;0;18
-"sme";18;0;18
 "coronavirusenfrance";0;18;18
 "ville-durable";17;1;18
 "vehicule-propre";18;0;18
@@ -2810,6 +2807,9 @@
 "annonces-immobilieres";16;1;17
 "val-de-fensch";17;0;17
 "etat-du-milieu-geologie";17;0;17
+"economic-development";17;0;17
+"employment";17;0;17
+"sme";17;0;17
 "esri-france";1;16;17
 "coronavirusupdates";0;17;17
 "corsica-statistica";17;0;17
