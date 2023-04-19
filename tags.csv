@@ -47,7 +47,7 @@
 "logement";847;39;886
 "transports";866;20;886
 "hauts-de-france";802;6;808
-"patrimoine";782;18;800
+"patrimoine";783;18;801
 "risque";771;2;773
 "finances";743;29;772
 "election";723;47;770
@@ -232,9 +232,9 @@
 "gironde";229;2;231
 "route-departementale";230;1;231
 "public";229;1;230
+"production";221;6;227
 "tramway";217;10;227
 "geomorphologie";227;0;227
-"production";220;6;226
 "ecologie";210;14;224
 "pprt";224;0;224
 "modelisation";222;1;223
@@ -281,9 +281,9 @@
 "train";170;25;195
 "landes-40";195;0;195
 "bureaux-de-vote";190;4;194
+"horaires";189;5;194
 "photographie-aerienne";193;1;194
 "arret";188;5;193
-"horaires";188;5;193
 "pme";191;2;193
 "college";185;7;192
 "ens";191;1;192
@@ -448,9 +448,9 @@
 "reservoir-de-biodiversite";131;0;131
 "arbre";122;8;130
 "police";112;18;130
+"transport-en-commun";126;4;130
 "primitif";130;0;130
 "location";120;9;129
-"transport-en-commun";125;4;129
 "ville";106;23;129
 "espaces-naturels";127;1;128
 "evolution";105;23;128
@@ -488,12 +488,12 @@
 "vehicule-electrique";120;3;123
 "investissement";110;12;122
 "ligne";120;2;122
+"pav";119;3;122
 "recettes";114;8;122
 "donnees-vecteur";122;0;122
 "codah";122;0;122
 "havraise";122;0;122
 "lagglomeration";122;0;122
-"pav";118;3;121
 "prix";90;31;121
 "travaux";116;5;121
 "dataviz";18;103;121
@@ -577,6 +577,7 @@
 "donnees-qualitatives";105;0;105
 "budget-regional";99;5;104
 "car";97;7;104
+"evenement";94;10;104
 "payant";104;0;104
 "surveillance";99;5;104
 "verre";101;2;103
@@ -585,7 +586,6 @@
 "pss";103;0;103
 "pdf";102;1;103
 "i2g";103;0;103
-"evenement";92;10;102
 "nom";101;1;102
 "exposition-des-personnes-aux-polluants";102;0;102
 "parc-naturel-regional";100;1;101
@@ -596,6 +596,7 @@
 "naissances";71;29;100
 "morbihan";95;5;100
 "plhi";100;0;100
+"paysage";96;3;99
 "politique-agricole-commune";93;6;99
 "milieux-naturels";98;1;99
 "urbanisme-logement";97;2;99
@@ -605,7 +606,6 @@
 "meuse";98;1;99
 "arrondissement";97;1;98
 "historique";92;6;98
-"paysage";95;3;98
 "qualite";95;3;98
 "donnee-generique-intercommunalite";98;0;98
 "bourgogne-franche-comte";97;1;98
@@ -613,6 +613,7 @@
 "monument";80;17;97
 "retraite";95;2;97
 "sphere-publique";97;0;97
+"musees";78;19;97
 "moselle";96;1;97
 "covoiturage";82;14;96
 "franche-comte";96;0;96
@@ -621,7 +622,6 @@
 "politique-de-la-ville";93;3;96
 "reseaux";89;7;96
 "vaccination";43;53;96
-"musees";77;19;96
 "axe";96;0;96
 "espace-public";94;1;95
 "pps";95;0;95
@@ -644,16 +644,15 @@
 "numero";91;1;92
 "habitat-politique-de-la-ville-po";92;0;92
 "arcgis";89;3;92
+"netex";91;1;92
 "education-formation-jeunesse";92;0;92
 "etat";83;8;91
 "prenom";67;24;91
 "protection";85;6;91
 "sol";88;3;91
-"netex";90;1;91
 "fiche-horaire-fluo-grand-est";91;0;91
 "biologie";89;1;90
 "construction";87;3;90
-"proprete";90;0;90
 "scot";89;1;90
 "lorient-agglomeration";90;0;90
 "bureau-de-vote";89;1;90
@@ -661,6 +660,7 @@
 "zas";90;0;90
 "eau-souterraine";88;1;89
 "fibre-optique";76;13;89
+"proprete";89;0;89
 "vehicule";85;4;89
 "aprona";89;0;89
 "inventaire-plaine";89;0;89
@@ -743,6 +743,7 @@
 "natura-2000";77;2;79
 "chargeguru";79;0;79
 "arts";74;4;78
+"eolien";74;4;78
 "fontaine";77;1;78
 "gare-de-voyageurs";70;8;78
 "habitant";69;9;78
@@ -755,7 +756,6 @@
 "2010";77;0;77
 "conditions";74;3;77
 "eau-potable";75;2;77
-"eolien";73;4;77
 "etudiants";67;10;77
 "pnr";76;1;77
 "tram";73;4;77
@@ -886,6 +886,7 @@
 "conseil";64;3;67
 "denominations-geographiques";67;0;67
 "gaz";57;10;67
+"livres";60;7;67
 "produit";59;8;67
 "visiteur";67;0;67
 "audeg";67;0;67
@@ -893,7 +894,6 @@
 "adresse-locale";66;1;67
 "camping-car";65;1;66
 "canal";66;0;66
-"livres";60;6;66
 "local";63;3;66
 "photos";60;6;66
 "promenade";65;1;66
@@ -1904,6 +1904,7 @@
 "administration-locale";10;17;27
 "annees";27;0;27
 "bateau";26;1;27
+"capacite";27;0;27
 "cpef";27;0;27
 "derniers";27;0;27
 "donnees-budgetaires";27;0;27
@@ -1958,7 +1959,6 @@
 "ase";26;0;26
 "assurance-maladie";19;7;26
 "autopartage";26;0;26
-"capacite";26;0;26
 "certification";25;1;26
 "comparative";26;0;26
 "diagnostic";26;0;26
@@ -7285,6 +7285,7 @@
 "contexte-economique";5;0;5
 "diversification";5;0;5
 "interet-general";4;1;5
+"telepherique";4;1;5
 "consultation-publique";4;1;5
 "pelouse";5;0;5
 "socio-professionnel";4;1;5
@@ -8910,6 +8911,7 @@
 "formation-education-et-emploi";3;1;4
 "france-relance";3;1;4
 "site-patrimoine-remarquable";4;0;4
+"autoconsommation-collective";3;1;4
 "actes-detat-civil";3;1;4
 "carrieres-ss-poissy";4;0;4
 "datactivist";2;2;4
@@ -9171,6 +9173,7 @@
 "connectivite";3;0;3
 "connues";3;0;3
 "consolidation";2;1;3
+"consolide";3;0;3
 "consulats";3;0;3
 "contacts";3;0;3
 "conversion";1;2;3
@@ -10825,7 +10828,6 @@
 "mode-de-gestion";3;0;3
 "plus-values";3;0;3
 "securisation";3;0;3
-"telepherique";2;1;3
 "droit-du-sol";3;0;3
 "friche";3;0;3
 "offres-demploi";3;0;3
@@ -11145,7 +11147,6 @@
 "app-store";3;0;3
 "arrondissement-municipal";3;0;3
 "autoconsommateur";3;0;3
-"autoconsommation-collective";3;0;3
 "production-locale";3;0;3
 "pre-saint-gervais";3;0;3
 "accueil-petite-enfance";3;0;3
@@ -11669,7 +11670,6 @@
 "conseil régional";2;0;2
 "considerant";2;0;2
 "consideres";2;0;2
-"consolide";2;0;2
 "consommation-medicale";1;1;2
 "consumer";2;0;2
 "contentieux-electoral";1;1;2
@@ -15425,6 +15425,7 @@
 "zoom";2;0;2
 "225-kv";2;0;2
 "certificats";2;0;2
+"editeurs";1;1;2
 "tagv";2;0;2
 "znief";2;0;2
 "leisure";2;0;2
@@ -28515,7 +28516,6 @@
 "working";1;0;1
 "protection-de-donnees";0;1;1
 "droits-des-sols";1;0;1
-"editeurs";1;0;1
 "ied";1;0;1
 "mooj";1;0;1
 "poles-metropolitains";1;0;1
@@ -33115,3 +33115,5 @@
 "fleuves";0;1;1
 "dataframe";0;1;1
 "kd";1;0;1
+"maisons-dedition";0;1;1
+"sensibilite-eolienne";1;0;1
