@@ -171,7 +171,7 @@
 "covid19";132;194;326
 "2017";308;10;318
 "nuisance-bruit";317;0;317
-"naf";305;4;309
+"naf";306;4;310
 "habitats-et-biotopes";305;2;307
 "subventions";281;21;302
 "consommation";270;31;301
@@ -184,8 +184,8 @@
 "littoral-aquitain";292;0;292
 "utilities-communication";291;0;291
 "cd-53";290;0;290
+"ape";282;4;286
 "covid-19";109;177;286
-"ape";281;4;285
 "biota";284;1;285
 "gis-gr-eu";285;0;285
 "grande-region";285;0;285
@@ -196,9 +196,9 @@
 "repartition-de-la-population";271;1;272
 "pm10";271;0;271
 "zonage";259;12;271
+"kbis";269;1;270
 "politique-de-lenvironnement";269;0;269
 "2021";252;17;269
-"kbis";268;1;269
 "cartes-pedologiques";268;0;268
 "etudes-pedologiques";268;0;268
 "types-de-sols";268;0;268
@@ -824,6 +824,7 @@
 "vehicules-electrique";72;1;73
 "ville-davray";73;0;73
 "zone-propice";73;0;73
+"extraitkbis";73;0;73
 "horaire";64;8;72
 "meteorologie";62;10;72
 "rsa";69;3;72
@@ -837,7 +838,6 @@
 "gtfs-rt";70;2;72
 "rapportage";72;0;72
 "hydrochemistry";72;0;72
-"extraitkbis";72;0;72
 "architecture";65;6;71
 "cimetiere";70;1;71
 "collectivites-locales";64;7;71
