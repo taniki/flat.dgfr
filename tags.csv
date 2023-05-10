@@ -166,25 +166,26 @@
 "2018";335;2;337
 "openstreetmap";275;60;335
 "region";291;44;335
+"naf";330;4;334
 "parking";321;12;333
 "altitude";319;7;326
 "covid19";132;194;326
 "2017";308;10;318
 "nuisance-bruit";317;0;317
-"naf";306;4;310
+"ape";307;4;311
 "habitats-et-biotopes";305;2;307
+"consommation";270;32;302
 "subventions";281;21;302
-"consommation";270;31;301
 "pedologie";298;2;300
 "repartition-de-la-population-demographie";299;0;299
 "recensement";229;66;295
+"kbis";294;1;295
 "mayenne";293;1;294
 "specification-nationale";293;0;293
 "meteo";276;16;292
 "littoral-aquitain";292;0;292
 "utilities-communication";291;0;291
 "cd-53";290;0;290
-"ape";282;4;286
 "covid-19";109;177;286
 "biota";284;1;285
 "gis-gr-eu";285;0;285
@@ -196,7 +197,6 @@
 "repartition-de-la-population";271;1;272
 "pm10";271;0;271
 "zonage";259;12;271
-"kbis";269;1;270
 "politique-de-lenvironnement";269;0;269
 "2021";252;17;269
 "cartes-pedologiques";268;0;268
@@ -210,8 +210,8 @@
 "bruit";260;1;261
 "filosofi";260;1;261
 "territoires";242;17;259
+"enfance";255;3;258
 "ecole";244;13;257
-"enfance";254;3;257
 "risque-zonages-risque-technologi";256;0;256
 "budget-de-letat";254;0;254
 "cartes";242;10;252
@@ -310,9 +310,9 @@
 "deliberations";181;4;185
 "mesures";185;0;185
 "ocsge2";185;0;185
+"jeunesse";179;5;184
 "concentration-de-polluant";183;1;184
 "dechet";177;6;183
-"jeunesse";178;5;183
 "randonnee";178;5;183
 "etablissement";173;8;181
 "2015";176;5;181
@@ -565,6 +565,7 @@
 "mnt";104;4;108
 "personnes-agees";95;13;108
 "2011";106;1;107
+"famille";101;6;107
 "nappe-phreatique";106;1;107
 "étranger";107;0;107
 "citoyenneté";107;0;107
@@ -572,7 +573,6 @@
 "tcu";107;0;107
 "urbanisme-et-logements";105;2;107
 "masse-deau";107;0;107
-"famille";100;6;106
 "mairie";94;12;106
 "espaces-verts";102;3;105
 "mayotte";101;4;105
@@ -616,16 +616,17 @@
 "arrondissement";97;1;98
 "covoiturage";84;14;98
 "monument";81;17;98
+"retraite";96;2;98
 "donnee-generique-intercommunalite";98;0;98
 "bourgogne-franche-comte";97;1;98
 "fonctionnement";94;3;97
 "poi";87;10;97
 "reseaux";90;7;97
-"retraite";95;2;97
 "sphere-publique";97;0;97
 "musees";78;19;97
 "moselle";96;1;97
 "donnees-environnementales";97;0;97
+"extraitkbis";97;0;97
 "franche-comte";96;0;96
 "frontiere";96;0;96
 "tour";96;0;96
@@ -824,7 +825,6 @@
 "vehicules-electrique";72;1;73
 "ville-davray";73;0;73
 "zone-propice";73;0;73
-"extraitkbis";73;0;73
 "horaire";64;8;72
 "meteorologie";62;10;72
 "rsa";69;3;72
@@ -1917,6 +1917,7 @@
 "publie-par-la-collectivite";28;0;28
 "irve-stations-de-recharge";27;1;28
 "ecopop";28;0;28
+"grand-age-et-autonomie";28;0;28
 "effort-fiscal";28;0;28
 "potentiel-financier";28;0;28
 "administration-locale";10;17;27
@@ -1967,7 +1968,6 @@
 "orthophotographies";27;0;27
 "effectifs-salaries";26;1;27
 "lieux-d-inclusion-numerique";26;1;27
-"grand-age-et-autonomie";27;0;27
 "bd-em";27;0;27
 "embellir-votre-quartier";27;0;27
 "agents";26;0;26
@@ -2086,6 +2086,7 @@
 "challengeopendata";25;0;25
 "politiques-sociales";25;0;25
 "cartographie-de-reference";25;0;25
+"minima-sociaux-et-pauvrete";25;0;25
 "lieux-de-mediation-numerique";25;0;25
 "osm2igeo";25;0;25
 "actif";24;0;24
@@ -2150,7 +2151,6 @@
 "institutions-et-citoyens";24;0;24
 "le-mix-de-production";23;1;24
 "flora-biology";24;0;24
-"minima-sociaux-et-pauvrete";24;0;24
 "image-satellite";24;0;24
 "photographies-aereinnes";24;0;24
 "aeronautique";23;0;23
@@ -3214,6 +3214,7 @@
 "payees";14;0;14
 "poisson";14;0;14
 "population-active";13;1;14
+"produits-alimentaires";1;13;14
 "professionnel";13;1;14
 "proposition";13;1;14
 "propositions";13;1;14
@@ -3395,7 +3396,6 @@
 "preemption";13;0;13
 "president";10;3;13
 "prestation-autonomie";13;0;13
-"produits-alimentaires";1;12;13
 "proximité";8;5;13
 "rdf";5;8;13
 "redecoupage";13;0;13
@@ -4804,6 +4804,7 @@
 "conseil-constitutionnel";4;4;8
 "conseil-de-paris";8;0;8
 "conseiller-municipal";6;2;8
+"consommateur";6;2;8
 "constitution";6;2;8
 "cote";8;0;8
 "courant";8;0;8
@@ -5302,7 +5303,6 @@
 "conflits";7;0;7
 "conjoncturels";7;0;7
 "conseil-de-quartier";7;0;7
-"consommateur";6;1;7
 "contentieux";7;0;7
 "convention-collective";1;6;7
 "cooperation-intercommunale";7;0;7
@@ -6493,6 +6493,8 @@
 "menu-de-cantine";6;0;6
 "personnes-morales";1;5;6
 "champs-electromagnetiques";6;0;6
+"produits-dangereux";3;3;6
+"rappel";3;3;6
 "surface-utile";6;0;6
 "devizunews";0;6;6
 "calcul-de-capacite";6;0;6
@@ -7472,8 +7474,6 @@
 "sante-fr";5;0;5
 "securite-qualite-de-service-ferroviaire";5;0;5
 "variants";0;5;5
-"produits-dangereux";3;2;5
-"rappel";3;2;5
 "condiment";5;0;5
 "corde";5;0;5
 "epice";5;0;5
@@ -7491,6 +7491,7 @@
 "monnaie-locale";5;0;5
 "smtc";5;0;5
 "structures-daccueil";5;0;5
+"rappel-conso";0;5;5
 "groupe-edf";3;2;5
 "bd-ortho-ign";5;0;5
 "parcellisation";5;0;5
@@ -9015,7 +9016,6 @@
 "marche-2020";4;0;4
 "temps-theoriques";4;0;4
 "europe-international";4;0;4
-"rappel-conso";0;4;4
 "cartofriches";1;3;4
 "perimetres-electoraux";4;0;4
 "personne-agee-1";4;0;4
@@ -11183,6 +11183,7 @@
 "cre";3;0;3
 "aide-alimentaire";3;0;3
 "decrochage-scolaire";3;0;3
+"rappels";0;3;3
 "antigenique";3;0;3
 "activites-financieres";3;0;3
 "amenagement-du-territoire-et-urbanisme";3;0;3
@@ -11352,6 +11353,8 @@
 "30km-h";3;0;3
 "elections-1";3;0;3
 "centrales-nucleaires";2;1;3
+"produits-rappeles";0;3;3
+"rappel-de-produits";0;3;3
 "banque-des-territoires";3;0;3
 "point-dindice";3;0;3
 "points-dindice";3;0;3
@@ -11499,6 +11502,7 @@
 "marche-2021";3;0;3
 "seismology";3;0;3
 "passage-pieton";3;0;3
+"rappels-produits";0;3;3
 "election2022";0;3;3
 "grand-lyon";3;0;3
 "erpv";3;0;3
@@ -15784,7 +15788,6 @@
 "alimentation-durable";2;0;2
 "courriels";2;0;2
 "rayon-1-km";0;2;2
-"rappels";0;2;2
 "bernac";2;0;2
 "stopcovid";2;0;2
 "tempdeg-sup-7degc";2;0;2
@@ -16144,8 +16147,6 @@
 "saint-urcisse";2;0;2
 "fabrique-prospective";1;1;2
 "ministere-de-linterieur";1;1;2
-"produits-rappeles";0;2;2
-"rappel-de-produits";0;2;2
 "mesures-phares";2;0;2
 "limites-territtoriales";2;0;2
 "gares-sncf";1;1;2
@@ -16504,7 +16505,6 @@
 "systeme-dinformation-sur-leau";0;2;2
 "prix-essence";0;2;2
 "analyse-de-donnees";0;2;2
-"rappels-produits";0;2;2
 "histoire-litteraire";0;2;2
 "favoris";0;2;2
 "aires-covoiturage";0;2;2
