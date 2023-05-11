@@ -6,7 +6,7 @@
 "geoscientific-information";5170;1;5171
 "planning-cadastre";4889;0;4889
 "risque-zonages-risque-naturel";4510;0;4510
-"environnement";2611;40;2651
+"environnement";2615;40;2655
 "zones-a-risque-naturel";2487;0;2487
 "grand-public";2265;0;2265
 "localisation";2097;22;2119
@@ -23,7 +23,7 @@
 "transport";1573;39;1612
 "carte";1357;215;1572
 "citoyennete";1520;6;1526
-"finances-publiques";1502;4;1506
+"finances-publiques";1503;4;1507
 "administration";1450;13;1463
 "urbanisme";1425;17;1442
 "occupation-du-sol";1312;15;1327
@@ -44,18 +44,18 @@
 "transports";901;20;921
 "zones-de-gestion-de-restriction-ou-de-reglementat";907;0;907
 "donnee-ouverte";897;3;900
-"commune";831;63;894
+"commune";832;63;895
 "logement";851;41;892
 "hauts-de-france";802;6;808
-"patrimoine";788;18;806
+"patrimoine";789;18;807
 "election";726;47;773
+"finances";744;29;773
 "risque";771;2;773
-"finances";743;29;772
 "gouvernement";749;9;758
-"education";703;50;753
+"education";704;50;754
 "population";685;62;747
 "sport";677;69;746
-"eau";707;19;726
+"eau";709;19;728
 "intercommunalite";722;3;725
 "pas-de-calais";721;2;723
 "bretagne";668;52;720
@@ -73,18 +73,18 @@
 "deplacements";643;2;645
 "donnees-publiques";641;4;645
 "somme";635;2;637
-"adresse";611;12;623
+"adresse";612;12;624
 "bus";594;29;623
 "boundaries";611;1;612
 "base-adresse-locale";607;1;608
 "ortho-imagerie";606;1;607
 "hydrographie";597;6;603
-"citoyennete-institution";602;0;602
+"citoyennete-institution";603;0;603
 "stationnement";589;9;598
 "alea-enjeux-inondation-amenagement-urbanisme-prescription-prevention-servitude-risque-multi-risque";596;0;596
 "alea-enjeux-inondation-amenageme";596;0;596
 "velo";533;62;595
-"social";577;13;590
+"social";578;13;591
 "risques";586;3;589
 "ocs-ge2-grand-est";578;0;578
 "agriculture";532;36;568
@@ -101,8 +101,8 @@
 "route";503;7;510
 "lot-et-garonne";499;1;500
 "biodiversite";488;10;498
+"epci";470;26;496
 "demographie";448;47;495
-"epci";469;26;495
 "adresses";470;9;479
 "budget-primitif";470;2;472
 "enseignement";444;21;465
@@ -113,29 +113,32 @@
 "zonages-risque-naturel";450;0;450
 "statistiques";402;44;446
 "opendata";382;60;442
-"voirie";430;11;441
+"voirie";431;11;442
 "transportation";437;3;440
 "circulation";415;23;438
 "subvention";423;10;433
 "deplacement";428;2;430
 "rhone-alpes";428;2;430
-"bal";426;3;429
+"bal";427;3;430
 "recherche";401;27;428
 "ddt-54";426;0;426
 "orthophoto-regionale";426;0;426
 "farming";424;0;424
 "mutation";420;2;422
 "grand-est";418;4;422
+"naf";416;4;420
 "2020";416;2;418
 "photographies-aeriennes";411;0;411
 "geologie";406;0;406
 "inland-waters";405;0;405
 "cartographie";285;115;400
 "entreprise";383;17;400
-"services";392;6;398
+"services";393;6;399
+"ape";393;4;397
 "commerce";356;33;389
 "departement";316;72;388
 "developpement-durable";373;15;388
+"kbis";383;1;384
 "ocs";381;0;381
 "inventaire";378;2;380
 "donnees";362;17;379
@@ -152,7 +155,7 @@
 "finance";360;3;363
 "sante-social";360;3;363
 "ain";357;3;360
-"reseau";335;21;356
+"reseau";337;21;358
 "industrie";349;6;355
 "institut-national-de-la-statistique-et-des-etudes-economiques";354;0;354
 "air";349;4;353
@@ -166,20 +169,17 @@
 "2018";335;2;337
 "openstreetmap";275;60;335
 "region";291;44;335
-"naf";330;4;334
 "parking";321;12;333
 "altitude";319;7;326
 "covid19";132;194;326
 "2017";308;10;318
 "nuisance-bruit";317;0;317
-"ape";307;4;311
 "habitats-et-biotopes";305;2;307
 "consommation";270;32;302
 "subventions";281;21;302
 "pedologie";298;2;300
 "repartition-de-la-population-demographie";299;0;299
 "recensement";229;66;295
-"kbis";294;1;295
 "mayenne";293;1;294
 "specification-nationale";293;0;293
 "meteo";276;16;292
@@ -231,9 +231,9 @@
 "entreprises";208;29;237
 "aquitaine";213;23;236
 "cadre-de-vie";234;1;235
+"voie";235;0;235
 "nouvelle-aquitaine";234;1;235
 "parc";229;5;234
-"voie";234;0;234
 "public";230;2;232
 "directive-inondation";232;0;232
 "gironde";229;2;231
@@ -275,9 +275,9 @@
 "associations";179;22;201
 "bibliotheque";193;8;201
 "pays";198;3;201
+"extrait-kbis";200;1;201
 "trame-verte-et-bleue";200;0;200
 "decp";197;3;200
-"extrait-kbis";198;1;199
 "metro";185;13;198
 "seine-saint-denis";195;3;198
 "arret";191;5;196
@@ -310,6 +310,7 @@
 "deliberations";181;4;185
 "mesures";185;0;185
 "ocsge2";185;0;185
+"extraitkbis";185;0;185
 "jeunesse";179;5;184
 "concentration-de-polluant";183;1;184
 "dechet";177;6;183
@@ -370,18 +371,18 @@
 "borne-de-recharge-electrique";155;1;156
 "chambre-de-commerce-et-d-industrie";156;0;156
 "cinema";123;32;155
+"histoire";147;8;155
 "dcat";154;0;154
 "unite-administrative";154;0;154
 "convention";151;2;153
 "depenses";142;11;153
-"histoire";145;8;153
 "limites";148;5;153
+"lycee";136;17;153
 "seine";153;0;153
 "sncf-reseau";153;0;153
 "2014";150;2;152
 "collecte";151;1;152
 "enfant";149;3;152
-"lycee";135;17;152
 "lycees";148;4;152
 "inspire";151;1;152
 "france-metropolitaine";139;12;151
@@ -448,14 +449,15 @@
 "ddt-haute-savoie";132;0;132
 "ouvertes";131;1;132
 "arbre";123;8;131
+"police";113;18;131
 "reunion";130;1;131
 "trimestrielles";131;0;131
 "artois-picardie";131;0;131
 "recharge-vehicules-electriques";128;3;131
 "corridor-ecologique";131;0;131
 "reservoir-de-biodiversite";131;0;131
-"police";112;18;130
 "primitif";130;0;130
+"api";51;78;129
 "location";120;9;129
 "ville";106;23;129
 "espaces-naturels";127;1;128
@@ -468,7 +470,6 @@
 "bd-ea";128;0;128
 "borne";124;3;127
 "menage";126;1;127
-"api";48;78;126
 "filaire";126;0;126
 "ozone";126;0;126
 "rhone";125;1;126
@@ -479,13 +480,13 @@
 "fiscalite";113;12;125
 "frequentation";121;4;125
 "logement-social";118;7;125
+"politique";92;33;125
 "quartier";121;4;125
 "voiture-electrique";121;4;125
 "metropole-golfe-de-gascogne";125;0;125
 "communaute";123;1;124
 "ligne";122;2;124
 "participation";121;3;124
-"politique";91;33;124
 "zonages-nature";122;2;124
 "bd-topo";121;3;124
 "havre";124;0;124
@@ -495,6 +496,7 @@
 "prix";90;33;123
 "syndicat";121;2;123
 "vehicule-electrique";120;3;123
+"archives";116;6;122
 "investissement";110;12;122
 "pav";119;3;122
 "recettes";114;8;122
@@ -503,7 +505,6 @@
 "codah";122;0;122
 "havraise";122;0;122
 "lagglomeration";122;0;122
-"archives";115;6;121
 "bornes";115;6;121
 "travaux";116;5;121
 "etranger";118;2;120
@@ -626,7 +627,6 @@
 "musees";78;19;97
 "moselle";96;1;97
 "donnees-environnementales";97;0;97
-"extraitkbis";97;0;97
 "franche-comte";96;0;96
 "frontiere";96;0;96
 "tour";96;0;96
@@ -645,15 +645,15 @@
 "recyclage";87;7;94
 "depense";87;6;93
 "entrée en france";93;0;93
+"numero";92;1;93
 "usages";91;2;93
 "vehicules-electriques";91;2;93
 "netex";92;1;93
+"education-formation-jeunesse";93;0;93
 "chalons-en-champagne";92;1;93
 "etat";84;8;92
 "limite-administrative";92;0;92
-"numero";91;1;92
 "habitat-politique-de-la-ville-po";92;0;92
-"education-formation-jeunesse";92;0;92
 "prenom";67;24;91
 "protection";85;6;91
 "sol";88;3;91
@@ -743,13 +743,13 @@
 "cac";80;1;81
 "observatoire-economique";81;0;81
 "ans";80;0;80
+"eau-potable";78;2;80
 "raster";80;0;80
 "datavisualisation";12;68;80
 "vosges";79;1;80
 "sevres";80;0;80
 "agriculture-et-territoire";80;0;80
 "ayant";79;0;79
-"eau-potable";77;2;79
 "insertion";74;5;79
 "strasbourg";69;10;79
 "natura-2000";77;2;79
@@ -1099,6 +1099,7 @@
 "milieu-aquatique";54;0;54
 "obstacle";54;0;54
 "confinement";29;25;54
+"inclusion-numerique";51;3;54
 "atmosphere";53;0;53
 "imagerybasemapsearthcover";52;1;53
 "nogent-sur-marne";45;8;53
@@ -1116,7 +1117,6 @@
 "missions";53;0;53
 "education-formation";52;1;53
 "monoxyde-de-carbone";53;0;53
-"inclusion-numerique";50;3;53
 "sante-et-systeme-de-soins";53;0;53
 "atmospheric-conditions";53;0;53
 "metz métropole";52;0;52
@@ -1246,6 +1246,7 @@
 "avignon";46;1;47
 "intemperies";47;0;47
 "niort";46;1;47
+"aep";46;0;46
 "bicyclette";42;4;46
 "egalite";40;6;46
 "hydrologie";42;4;46
@@ -1269,11 +1270,11 @@
 "tourgeville";46;0;46
 "vauville";46;0;46
 "ppbe";46;0;46
+"mediation-numerique";46;0;46
 "article-179";46;0;46
 "inventaire-naturaliste";46;0;46
 "referentiel-routier";46;0;46
 "karst";46;0;46
-"aep";45;0;45
 "aires";45;0;45
 "ame";45;0;45
 "aménagement du territoire";45;0;45
@@ -1295,7 +1296,6 @@
 "dma";44;1;45
 "station-de-recharge";44;1;45
 "centre-de-retention-administrati";45;0;45
-"mediation-numerique";45;0;45
 "pollution-des-cours-deau";43;2;45
 "action-sociale-solidarites";44;1;45
 "marnes-la-coquette";45;0;45
@@ -1342,6 +1342,7 @@
 "declaration";42;1;43
 "diplomes";34;9;43
 "gestion";38;5;43
+"inclusion";42;1;43
 "sociales";41;2;43
 "urgence";41;2;43
 "eau-assainissement";43;0;43
@@ -1368,7 +1369,6 @@
 "disponibilite";40;2;42
 "ehpad";35;7;42
 "exterieure";42;0;42
-"inclusion";41;1;42
 "indices";42;0;42
 "invalidite";42;0;42
 "personne-agee";42;0;42
@@ -1429,6 +1429,7 @@
 "mobilite-electrique";39;1;40
 "donnees-sexuees";40;0;40
 "qualite-air";39;1;40
+"mediation";40;0;40
 "station-de-recharge-ve";39;1;40
 "democratie-et-citoyennete";40;0;40
 "limite-territoriale";40;0;40
@@ -1464,7 +1465,6 @@
 "oscom";39;0;39
 "bilan-social";39;0;39
 "visites";38;1;39
-"mediation";39;0;39
 "saintquentin";39;0;39
 "temps-officiel";39;0;39
 "indicateur-de-vulnerabilite";39;0;39
@@ -1614,6 +1614,7 @@
 "elections-regionales";26;8;34
 "formatrices";34;0;34
 "industriel";33;1;34
+"naturalisation";34;0;34
 "nutrition";3;31;34
 "permis";29;5;34
 "provence-alpes-cote-d-azur";21;13;34
@@ -1653,7 +1654,6 @@
 "international";30;3;33
 "monetaire";32;1;33
 "national";31;2;33
-"naturalisation";33;0;33
 "nautisme";27;6;33
 "nombre";32;1;33
 "qualite-de-vie";31;2;33
@@ -1915,6 +1915,7 @@
 "ocs-2d";28;0;28
 "administration-regionale";28;0;28
 "publie-par-la-collectivite";28;0;28
+"lieux-d-inclusion-numerique";27;1;28
 "irve-stations-de-recharge";27;1;28
 "ecopop";28;0;28
 "grand-age-et-autonomie";28;0;28
@@ -1967,7 +1968,6 @@
 "adresse-base";27;0;27
 "orthophotographies";27;0;27
 "effectifs-salaries";26;1;27
-"lieux-d-inclusion-numerique";26;1;27
 "bd-em";27;0;27
 "embellir-votre-quartier";27;0;27
 "agents";26;0;26
@@ -2029,6 +2029,7 @@
 "datagouv";25;1;26
 "beaumont";26;0;26
 "sviewer";26;0;26
+"lieux-de-mediation-numerique";26;0;26
 "infra-rouge-couleur";26;0;26
 "enseig-sup-recherche-universite-de-la-grande-region";26;0;26
 "altimetrie";22;3;25
@@ -2087,7 +2088,6 @@
 "politiques-sociales";25;0;25
 "cartographie-de-reference";25;0;25
 "minima-sociaux-et-pauvrete";25;0;25
-"lieux-de-mediation-numerique";25;0;25
 "osm2igeo";25;0;25
 "actif";24;0;24
 "allocation";24;0;24
@@ -2128,6 +2128,7 @@
 "scanr";23;1;24
 "diagnostics";24;0;24
 "archives-departementales";24;0;24
+"internat";24;0;24
 "bruits";24;0;24
 "enseignement-agricole";24;0;24
 "ruralite";23;1;24
@@ -2198,7 +2199,6 @@
 "bmvr";23;0;23
 "vie-politique";22;1;23
 "hydroelectricite";23;0;23
-"internat";23;0;23
 "organisme-culturel";23;0;23
 "installations-agricoles-et-aquac";23;0;23
 "eclairage-public";22;1;23
@@ -3473,6 +3473,7 @@
 "arceaux";13;0;13
 "topologie";13;0;13
 "sante-humaine";12;1;13
+"surfaces";13;0;13
 "startup";7;6;13
 "region-normandie";13;0;13
 "troncon-elementaire";13;0;13
@@ -3684,7 +3685,6 @@
 "dematerialisation";11;1;12
 "smartphone";6;6;12
 "gestion-des-ressources-en-eau";12;0;12
-"surfaces";12;0;12
 "lolf";12;0;12
 "association-des-utilisateurs-de-bornes-electriques";6;6;12
 "culture-societe-service-enseigne";12;0;12
@@ -4091,6 +4091,7 @@
 "patrimoine-architectural";6;4;10
 "pendant";10;0;10
 "physique";10;0;10
+"plaque";10;0;10
 "plateforme";8;2;10
 "poissons";10;0;10
 "portail";6;4;10
@@ -4338,6 +4339,7 @@
 "unite-legale";10;0;10
 "donnee-collaborative";10;0;10
 "institut-national-de-la-statistique-et-des-etudes-economiques-insee";10;0;10
+"pcrs";9;1;10
 "aquatic";10;0;10
 "biomarla";10;0;10
 "community-composition-species-interactions";10;0;10
@@ -4457,7 +4459,6 @@
 "piece";8;1;9
 "piste cyclable";9;0;9
 "places-lits";9;0;9
-"plaque";9;0;9
 "pluriannuelles";9;0;9
 "polices municipales";2;7;9
 "prestataires";8;1;9
@@ -5550,6 +5551,7 @@
 "laureats";7;0;7
 "teletravail";4;3;7
 "milieu-naturel";7;0;7
+"20e-siecle";7;0;7
 "a-la-une";1;6;7
 "accueil-de-la-petite-enfance";7;0;7
 "agence-du-numerique";6;1;7
@@ -5796,6 +5798,7 @@
 "elections-legislatives-2022";3;4;7
 "amenagement-urbanisme-et-economie";7;0;7
 "effectifs-retraites";7;0;7
+"19e-siecle";7;0;7
 "mobilites-transports";7;0;7
 "flore-et-faune-sauvages";7;0;7
 "geoportail-donnees-ouvertes-carte-patrimoine-neustadt-strasbourg-architecture-psmv";7;0;7
@@ -6167,7 +6170,6 @@
 "duo";6;0;6
 "points-de-collecte";6;0;6
 "equipement-economie";6;0;6
-"20e-siecle";6;0;6
 "agence-immobiliere";2;4;6
 "auberge-de-jeunesse";6;0;6
 "billetique";6;0;6
@@ -6538,7 +6540,6 @@
 "ccspa";6;0;6
 "ddt-doubs";6;0;6
 "opme";6;0;6
-"19e-siecle";6;0;6
 "patent-families";6;0;6
 "donnees-associees-aux-etudes";6;0;6
 "politique-de-proximite";6;0;6
@@ -7495,7 +7496,6 @@
 "groupe-edf";3;2;5
 "bd-ortho-ign";5;0;5
 "parcellisation";5;0;5
-"pcrs";5;0;5
 "structurants";5;0;5
 "potentiel-agronomique";5;0;5
 "estimation-appartement";0;5;5
@@ -10879,6 +10879,7 @@
 "bassin-demploi";3;0;3
 "cartographie-dhabitats";3;0;3
 "points-deau";3;0;3
+"reseau-deaux-usees";3;0;3
 "service-dincendie";3;0;3
 "marche-a-pied";3;0;3
 "pcs";3;0;3
@@ -11266,6 +11267,7 @@
 "transports-et-deplacements";3;0;3
 "echange-aux-frontieres";3;0;3
 "scolaris";3;0;3
+"prosopographie";2;1;3
 "effectifs-urssaf";3;0;3
 "glossaire";1;2;3
 "algorithmes";3;0;3
@@ -14970,7 +14972,6 @@
 "etude-dimpact-sur-lenvironnement";2;0;2
 "ponton-dattente";2;0;2
 "programme-daction";2;0;2
-"reseau-deaux-usees";2;0;2
 "rigole-dalimentation";2;0;2
 "schema-durbanisation";2;0;2
 "temperature-de-lair";2;0;2
@@ -15998,7 +15999,6 @@
 "renovation-thermique";1;1;2
 "geologie-du-pays-basque";2;0;2
 "deuxieme-guerre-mondiale";1;1;2
-"prosopographie";1;1;2
 "cpc";2;0;2
 "09";2;0;2
 "11";2;0;2
@@ -16412,6 +16412,7 @@
 "guil";2;0;2
 "union-internationale-de-lenvironnement";2;0;2
 "seismic-monitoring";2;0;2
+"donnees-ouvertes-equipements-equipements-publics-interet-interet-public-administration-mairie-regiment-prefecture-poste-centre-incendie-point-information-observatoire-commissariat-archives-service-enfance-creche-assistante-maternelle-animation-petite-enfance-accueil-loisir-maison-jeunes-sante-clinique-centre-hospitalier-polyclinique-centre-de-cure-gerontologie-cabinet-medical-pole-sante-chu-centre-de-sante-cmpea-examen-de-sante-environnement-toilettes-publiques-marche-dechetterie-jeux-cimetieres-parc-square-jardin-espaces-verts-culture-equipements-culturels-mediatheque-salle-des-fetes-bibliotheque-musee-foyer-cinema-ecole-de-musique-theatre-patrimoine-eglise-chapelle-abbaye-chateau-monument-temple-grotte-vestiges-sport-equipements-sportifs-gymnase-terrain-de-football-stade-escalade-danse-plateau-scolaire-city-stade-complexe-sportif-golf-equitation-tennis-arts-martiaux-piscine-social-epicerie-sociale-ehpad-caf-esat-solidarite-insertion-foyer-transport-parking-covoiturage-gare-ter-gare-routiere-parc-relais-aeroport-vitalis-velo-scolaire-ecole-maternelle-ecole-elementaire-college-lycee-universite-tourisme-pique-nique-residences-camping-office-de-tourisme-centre-daccueil";2;0;2
 "sill";1;1;2
 "controle-detat";2;0;2
 "pouvoir-dachat";1;1;2
@@ -16559,6 +16560,7 @@
 "lieux-centraux-planification";2;0;2
 "covoiturage-transport";2;0;2
 "habitat-de-la-faune-sauvage";2;0;2
+"projets-pcrs";1;1;2
 "112";1;0;1
 "18";1;0;1
 "1998";1;0;1
@@ -32454,7 +32456,6 @@
 "analyse-des-besoins-sociaux";1;0;1
 "arrondissement-departemental";1;0;1
 "renoncements-aux-soins";1;0;1
-"donnees-ouvertes-equipements-equipements-publics-interet-interet-public-administration-mairie-regiment-prefecture-poste-centre-incendie-point-information-observatoire-commissariat-archives-service-enfance-creche-assistante-maternelle-animation-petite-enfance-accueil-loisir-maison-jeunes-sante-clinique-centre-hospitalier-polyclinique-centre-de-cure-gerontologie-cabinet-medical-pole-sante-chu-centre-de-sante-cmpea-examen-de-sante-environnement-toilettes-publiques-marche-dechetterie-jeux-cimetieres-parc-square-jardin-espaces-verts-culture-equipements-culturels-mediatheque-salle-des-fetes-bibliotheque-musee-foyer-cinema-ecole-de-musique-theatre-patrimoine-eglise-chapelle-abbaye-chateau-monument-temple-grotte-vestiges-sport-equipements-sportifs-gymnase-terrain-de-football-stade-escalade-danse-plateau-scolaire-city-stade-complexe-sportif-golf-equitation-tennis-arts-martiaux-piscine-social-epicerie-sociale-ehpad-caf-esat-solidarite-insertion-foyer-transport-parking-covoiturage-gare-ter-gare-routiere-parc-relais-aeroport-vitalis-velo-scolaire-ecole-maternelle-ecole-elementaire-college-lycee-universite-tourisme-pique-nique-residences-camping-office-de-tourisme-centre-daccueil";1;0;1
 "parc-d-039-innovation";1;0;1
 "professeurs-des-ecoles";1;0;1
 "etablissements-sncf";1;0;1
@@ -33423,3 +33424,5 @@
 "labruguiere";1;0;1
 "urbansimul";0;1;1
 "ivac";1;0;1
+"livrables-pcrs";1;0;1
+"archives-spoliees";1;0;1
