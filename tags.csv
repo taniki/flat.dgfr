@@ -1,5 +1,5 @@
 "name";"datasets";"reuses";"total"
-"donnees-ouvertes";19990;6;19996
+"donnees-ouvertes";19992;6;19998
 "passerelle-inspire";14991;0;14991
 "geospatial";5864;8;5872
 "usage-des-sols";5537;4;5541
@@ -31,8 +31,8 @@
 "tourisme";1237;36;1273
 "mobilite";1199;56;1255
 "environment";1220;9;1229
-"open-data";1112;24;1136
-"economie";1069;54;1123
+"open-data";1112;25;1137
+"economie";1069;55;1124
 "amenagement-du-territoire";1088;7;1095
 "pprn";1083;0;1083
 "occupation-des-terres";1029;1;1030
@@ -76,10 +76,10 @@
 "adresse";612;12;624
 "bus";594;29;623
 "boundaries";611;1;612
-"base-adresse-locale";607;1;608
+"base-adresse-locale";608;1;609
 "ortho-imagerie";606;1;607
+"citoyennete-institution";604;0;604
 "hydrographie";597;6;603
-"citoyennete-institution";603;0;603
 "stationnement";589;9;598
 "alea-enjeux-inondation-amenagement-urbanisme-prescription-prevention-servitude-risque-multi-risque";596;0;596
 "alea-enjeux-inondation-amenageme";596;0;596
@@ -95,15 +95,18 @@
 "communes";448;88;536
 "amenagement";527;8;535
 "aisne";533;1;534
+"naf";528;4;532
 "gtfs";506;10;516
 "alea-enjeux-inondation-amenagement-urbanis";514;0;514
 "formation";483;30;513
 "route";503;7;510
+"ape";504;4;508
 "lot-et-garonne";499;1;500
 "biodiversite";488;10;498
 "epci";470;26;496
 "demographie";448;47;495
-"adresses";470;9;479
+"kbis";494;1;495
+"adresses";471;9;480
 "budget-primitif";470;2;472
 "enseignement";444;21;465
 "developpement-economique";461;1;462
@@ -116,17 +119,16 @@
 "voirie";431;11;442
 "transportation";437;3;440
 "circulation";415;23;438
-"subvention";423;10;433
+"subvention";424;10;434
+"bal";428;3;431
 "deplacement";428;2;430
 "rhone-alpes";428;2;430
-"bal";427;3;430
 "recherche";401;27;428
 "ddt-54";426;0;426
 "orthophoto-regionale";426;0;426
 "farming";424;0;424
 "mutation";420;2;422
 "grand-est";418;4;422
-"naf";416;4;420
 "2020";416;2;418
 "photographies-aeriennes";411;0;411
 "geologie";406;0;406
@@ -134,11 +136,9 @@
 "cartographie";285;115;400
 "entreprise";383;17;400
 "services";393;6;399
-"ape";393;4;397
 "commerce";356;33;389
 "departement";316;72;388
 "developpement-durable";373;15;388
-"kbis";383;1;384
 "ocs";381;0;381
 "inventaire";378;2;380
 "donnees";362;17;379
@@ -160,7 +160,7 @@
 "institut-national-de-la-statistique-et-des-etudes-economiques";354;0;354
 "air";349;4;353
 "saint-quentin";352;1;353
-"energie";303;44;347
+"energie";303;45;348
 "dreal";347;0;347
 "schema-regional-eolien";346;0;346
 "atlas-eolien";344;0;344
@@ -179,6 +179,7 @@
 "subventions";281;21;302
 "pedologie";298;2;300
 "repartition-de-la-population-demographie";299;0;299
+"extraitkbis";297;0;297
 "recensement";229;66;295
 "mayenne";293;1;294
 "specification-nationale";293;0;293
@@ -262,7 +263,7 @@
 "metropole";200;11;211
 "borne-de-recharge";209;2;211
 "dreal-na";211;0;211
-"economy";207;1;208
+"economy";207;2;209
 "normandie";205;2;207
 "zone";204;2;206
 "sig";180;25;205
@@ -310,7 +311,6 @@
 "deliberations";181;4;185
 "mesures";185;0;185
 "ocsge2";185;0;185
-"extraitkbis";185;0;185
 "jeunesse";179;5;184
 "concentration-de-polluant";183;1;184
 "dechet";177;6;183
@@ -327,9 +327,9 @@
 "mobilite-et-espace-public";178;0;178
 "élections";155;22;177
 "srce";177;0;177
+"referentiel";173;3;176
 "limousin";176;0;176
 "bornes-electriques";171;5;176
-"referentiel";172;3;175
 "deces";119;55;174
 "lignes";172;1;173
 "limite";173;0;173
@@ -372,9 +372,9 @@
 "chambre-de-commerce-et-d-industrie";156;0;156
 "cinema";123;32;155
 "histoire";147;8;155
+"convention";152;2;154
 "dcat";154;0;154
 "unite-administrative";154;0;154
-"convention";151;2;153
 "depenses";142;11;153
 "limites";148;5;153
 "lycee";136;17;153
@@ -609,6 +609,7 @@
 "paysage";96;3;99
 "politique-agricole-commune";93;6;99
 "politique-de-la-ville";96;3;99
+"retraite";97;2;99
 "milieux-naturels";98;1;99
 "auvergne";98;1;99
 "voitures-electriques";98;1;99
@@ -617,7 +618,6 @@
 "arrondissement";97;1;98
 "covoiturage";84;14;98
 "monument";81;17;98
-"retraite";96;2;98
 "donnee-generique-intercommunalite";98;0;98
 "bourgogne-franche-comte";97;1;98
 "fonctionnement";94;3;97
@@ -1741,6 +1741,7 @@
 "pole-emploi";25;6;31
 "populations";30;1;31
 "prets";31;0;31
+"reseaux-sociaux";31;0;31
 "ventilations";31;0;31
 "vin";25;6;31
 "web";22;9;31
@@ -1788,7 +1789,6 @@
 "programmation";30;0;30
 "prospective";30;0;30
 "puissance";29;1;30
-"reseaux-sociaux";30;0;30
 "television";25;5;30
 "visite";29;1;30
 "zones-naturelles-paysages-ecosystemes";30;0;30
@@ -1863,6 +1863,7 @@
 "agriculteur";29;0;29
 "community-composition-taxonomic-diversity";29;0;29
 "teo";29;0;29
+"grand-age-et-autonomie";29;0;29
 "2007";27;1;28
 "action-publique";27;1;28
 "bien-etre";27;1;28
@@ -1918,7 +1919,6 @@
 "lieux-d-inclusion-numerique";27;1;28
 "irve-stations-de-recharge";27;1;28
 "ecopop";28;0;28
-"grand-age-et-autonomie";28;0;28
 "effort-fiscal";28;0;28
 "potentiel-financier";28;0;28
 "administration-locale";10;17;27
@@ -2101,6 +2101,7 @@
 "déchets";22;2;24
 "département";13;11;24
 "egalite-homme-femme";13;11;24
+"facebook";21;3;24
 "frontieres";13;11;24
 "frontières";13;11;24
 "hotels";13;11;24
@@ -2164,7 +2165,6 @@
 "domaine";23;0;23
 "déplacements";22;1;23
 "emprunt";22;1;23
-"facebook";20;3;23
 "fonction";21;2;23
 "fonds";22;1;23
 "horodateurs";23;0;23
@@ -2529,6 +2529,7 @@
 "signalement";17;2;19
 "traitement-des-dechets";15;4;19
 "transport_public";17;2;19
+"twitter";15;4;19
 "vegetaux";17;2;19
 "veloroute";18;1;19
 "zus";19;0;19
@@ -2654,7 +2655,6 @@
 "totales";18;0;18
 "totem";18;0;18
 "tribunaux";13;5;18
-"twitter";14;4;18
 "jurisprudence";11;7;18
 "élections cantonales";14;4;18
 "élections départementales 2015";10;8;18
@@ -2710,6 +2710,7 @@
 "coronavirusenfrance";0;18;18
 "ville-durable";17;1;18
 "vehicule-propre";18;0;18
+"activites-des-urssaf";18;0;18
 "bruit-ferroviaire";18;0;18
 "2023";18;0;18
 "enjeu-chiroptere";18;0;18
@@ -2852,7 +2853,6 @@
 "corsica-statistica";17;0;17
 "bus-et-tramway";17;0;17
 "borne-de-recharge-vehicule-electrique";17;0;17
-"activites-des-urssaf";17;0;17
 "limitesadministratives";17;0;17
 "gek";17;0;17
 "puy";17;0;17
@@ -3943,6 +3943,7 @@
 "sdes";7;4;11
 "tracages";11;0;11
 "schema-cyclable";11;0;11
+"amenagement-cyclable";10;1;11
 "eboulement";11;0;11
 "abri";11;0;11
 "saint-raymond";11;0;11
@@ -3991,6 +3992,7 @@
 "mdna";11;0;11
 "particuliers-employeurs";10;1;11
 "developpement-du-territoire";11;0;11
+"urssaf";8;3;11
 "election-presidentielle-2022";2;9;11
 "neuville-saint-remy";7;4;11
 "vaccin-covid";0;11;11
@@ -4259,7 +4261,6 @@
 "rencontre";10;0;10
 "sac";10;0;10
 "versailles-grand-parc";9;1;10
-"amenagement-cyclable";9;1;10
 "shape";10;0;10
 "med";10;0;10
 "bilan-carbone";9;1;10
@@ -4329,7 +4330,6 @@
 "ep";10;0;10
 "un";10;0;10
 "trier-issy-com";10;0;10
-"urssaf";7;3;10
 "france-services";8;2;10
 "pleiades";10;0;10
 "societariat-mecenat";10;0;10
@@ -6241,6 +6241,7 @@
 "parc-departemental";6;0;6
 "commerce-dalimentation";6;0;6
 "fabrique-citoyenne";6;0;6
+"linkedin";6;0;6
 "regions-2016";6;0;6
 "weather-forecast";6;0;6
 "controle-technique";3;3;6
@@ -7140,7 +7141,6 @@
 "reversion";5;0;5
 "doses";4;1;5
 "gestion-patrimoniale";5;0;5
-"linkedin";5;0;5
 "pcri";5;0;5
 "amenagement-du-territoire-et-cadastre";5;0;5
 "orthophotographie-aerienne";4;1;5
@@ -8898,6 +8898,7 @@
 "schema-regional-de-coherence-ecologique-trame-verte-et-bleue";4;0;4
 "srce-tvb";4;0;4
 "tests";2;2;4
+"instagram";4;0;4
 "fiches-horaires";4;0;4
 "region-des-pays-de-la-loire";4;0;4
 "vallees";4;0;4
@@ -9002,6 +9003,7 @@
 "ccmacs";4;0;4
 "station-essence-proximite";0;4;4
 "capb";4;0;4
+"bnac";3;1;4
 "aire-influence-paysagere";4;0;4
 "projet-municipal";4;0;4
 "pedopaysage";4;0;4
@@ -11078,7 +11080,6 @@
 "circonscrption";3;0;3
 "catalogue-collectif-de-france-ccfr";3;0;3
 "html";0;3;3
-"instagram";3;0;3
 "fond-de-plan";3;0;3
 "400-kv";3;0;3
 "rapport-activites";3;0;3
@@ -11257,7 +11258,6 @@
 "sechage";3;0;3
 "signe-officiel-de-qualite";3;0;3
 "mandelieu";3;0;3
-"bnac";2;1;3
 "station-velo";2;1;3
 "blanc";3;0;3
 "rose";3;0;3
@@ -16561,6 +16561,7 @@
 "covoiturage-transport";2;0;2
 "habitat-de-la-faune-sauvage";2;0;2
 "projets-pcrs";1;1;2
+"ape-kbis";2;0;2
 "112";1;0;1
 "18";1;0;1
 "1998";1;0;1
@@ -33426,3 +33427,4 @@
 "ivac";1;0;1
 "livrables-pcrs";1;0;1
 "archives-spoliees";1;0;1
+"social-media";1;0;1
