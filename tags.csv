@@ -225,8 +225,8 @@
 "guyane";239;1;240
 "handicap";232;8;240
 "pos";239;1;240
+"entreprises";209;29;238
 "2016";236;2;238
-"entreprises";208;29;237
 "aquitaine";213;23;236
 "cadre-de-vie";234;1;235
 "voie";235;0;235
@@ -790,6 +790,7 @@
 "admission-au-sejour";76;0;76
 "meurthe-et-moselle";75;1;76
 "titre-de-sejour";76;0;76
+"siret";62;14;76
 "administration-generale";74;1;75
 "admission au séjour";75;0;75
 "candidats";66;9;75
@@ -802,7 +803,6 @@
 "foncier-sol-occupation-du-sol";74;1;75
 "mission-sig";75;0;75
 "departementales";70;5;75
-"siret";61;14;75
 "administration-et-finances-publiques";75;0;75
 "marne";74;1;75
 "impact-sur-lenvironnement";73;2;75
@@ -878,6 +878,7 @@
 "vls";69;0;69
 "vanves";69;0;69
 "haut-rhin";68;1;69
+"siren";59;10;69
 "comptes-consolides";69;0;69
 "loi-de-finances-initiale";69;0;69
 "donnees-derivees-indicateurs";69;0;69
@@ -890,7 +891,6 @@
 "routier";67;1;68
 "politique-regionale";68;0;68
 "plan-local-urbanisme";68;0;68
-"siren";58;10;68
 "citoyennete-et-administration";68;0;68
 "animation";63;4;67
 "atlas";62;5;67
@@ -1329,6 +1329,7 @@
 "travail-illigal";44;0;44
 "politique-environnementale";44;0;44
 "conventions";44;0;44
+"naf";39;5;44
 "rhone-mediterranee";44;0;44
 "dirm";44;0;44
 "mairie-et-democratie";44;0;44
@@ -1366,7 +1367,6 @@
 "sdage";42;1;43
 "cour-des-comptes";42;1;43
 "adour-garonne";43;0;43
-"naf";38;5;43
 "loire-bretagne";43;0;43
 "monoxyde-dazote";43;0;43
 "arret-urbain";43;0;43
@@ -2866,6 +2866,7 @@
 "puy";17;0;17
 "activite-touristique";7;9;16
 "almanach";11;5;16
+"ape";12;4;16
 "aupres";16;0;16
 "bilaterale";16;0;16
 "brevet";13;3;16
@@ -3005,7 +3006,6 @@
 "agences";15;0;15
 "anru";15;0;15
 "antenne";10;5;15
-"ape";11;4;15
 "aquaculture";15;0;15
 "arceau";15;0;15
 "audit";15;0;15
@@ -4937,6 +4937,7 @@
 "transport-de-marchandises";8;0;8
 "transport-maritime";8;0;8
 "travaillant";8;0;8
+"tva";6;2;8
 "télévision";8;0;8
 "unitaire";8;0;8
 "utilite-publique";7;1;8
@@ -5459,7 +5460,6 @@
 "tourisme-nautique";1;6;7
 "transport-terrestre";7;0;7
 "transporteurs";7;0;7
-"tva";5;2;7
 "unite_urbaine";1;6;7
 "unites";7;0;7
 "usages-internet";7;0;7
