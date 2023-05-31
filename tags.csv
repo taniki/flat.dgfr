@@ -46,7 +46,7 @@
 "donnee-ouverte";898;3;901
 "commune";837;63;900
 "logement";853;41;894
-"patrimoine";789;19;808
+"patrimoine";790;19;809
 "hauts-de-france";802;6;808
 "election";756;47;803
 "finances";747;29;776
@@ -77,7 +77,7 @@
 "somme";635;2;637
 "bus";602;30;632
 "adresse";617;12;629
-"base-adresse-locale";612;1;613
+"base-adresse-locale";613;1;614
 "boundaries";611;1;612
 "ortho-imagerie";611;1;612
 "hydrographie";600;6;606
@@ -104,9 +104,9 @@
 "biodiversite";488;10;498
 "budget-primitif";495;2;497
 "demographie";448;47;495
-"adresses";475;9;484
+"adresses";476;9;485
+"enseignement";447;22;469
 "dechets";458;10;468
-"enseignement";447;21;468
 "mutation";463;2;465
 "developpement-economique";461;2;463
 "equipement";451;10;461
@@ -119,7 +119,7 @@
 "grand-est";437;4;441
 "circulation";417;23;440
 "subvention";425;10;435
-"bal";431;3;434
+"bal";432;3;435
 "deplacement";429;2;431
 "rhone-alpes";428;2;430
 "recherche";402;27;429
@@ -130,8 +130,8 @@
 "photographies-aeriennes";411;0;411
 "geologie";408;0;408
 "inland-waters";405;0;405
-"entreprise";383;18;401
 "cartographie";285;115;400
+"entreprise";382;18;400
 "services";393;6;399
 "commerce";357;33;390
 "departement";318;72;390
@@ -225,8 +225,8 @@
 "guyane";239;1;240
 "handicap";232;8;240
 "pos";239;1;240
-"entreprises";209;29;238
 "2016";236;2;238
+"entreprises";208;29;237
 "aquitaine";213;23;236
 "cadre-de-vie";234;1;235
 "voie";235;0;235
@@ -276,17 +276,17 @@
 "bibliotheque";193;8;201
 "decp";197;3;200
 "arret";193;5;198
+"batiment";189;9;198
 "metro";185;13;198
 "seine-saint-denis";195;3;198
-"batiment";188;9;197
 "ens";196;1;197
 "securite";169;28;197
 "train";172;25;197
 "business";197;0;197
+"college";188;8;196
 "risques-naturels";193;3;196
 "donnees-geographiques";196;0;196
 "coronavirus";82;114;196
-"college";188;7;195
 "horaires";190;5;195
 "landes-40";195;0;195
 "bureaux-de-vote";190;4;194
@@ -361,10 +361,10 @@
 "ecoles";153;6;159
 "dreal-rhone-alpes";159;0;159
 "agenda";143;15;158
+"lycee";140;18;158
 "paris";96;62;158
 "clermont-ferrand";157;1;158
 "services-dutilite-publique-et-services-publics";158;0;158
-"lycee";140;17;157
 "planification";156;1;157
 "schema-regional-de-coherence-ecologique";157;0;157
 "brocas";134;22;156
@@ -790,7 +790,6 @@
 "admission-au-sejour";76;0;76
 "meurthe-et-moselle";75;1;76
 "titre-de-sejour";76;0;76
-"siret";62;14;76
 "administration-generale";74;1;75
 "admission au séjour";75;0;75
 "candidats";66;9;75
@@ -803,6 +802,7 @@
 "foncier-sol-occupation-du-sol";74;1;75
 "mission-sig";75;0;75
 "departementales";70;5;75
+"siret";61;14;75
 "administration-et-finances-publiques";75;0;75
 "marne";74;1;75
 "impact-sur-lenvironnement";73;2;75
@@ -878,7 +878,6 @@
 "vls";69;0;69
 "vanves";69;0;69
 "haut-rhin";68;1;69
-"siren";59;10;69
 "comptes-consolides";69;0;69
 "loi-de-finances-initiale";69;0;69
 "donnees-derivees-indicateurs";69;0;69
@@ -891,6 +890,7 @@
 "routier";67;1;68
 "politique-regionale";68;0;68
 "plan-local-urbanisme";68;0;68
+"siren";58;10;68
 "citoyennete-et-administration";68;0;68
 "animation";63;4;67
 "atlas";62;5;67
@@ -974,6 +974,7 @@
 "carte de séjour";61;0;61
 "du";61;0;61
 "eee";61;0;61
+"erp";57;4;61
 "indice";58;3;61
 "justice";45;16;61
 "migration professionnelle";61;0;61
@@ -995,7 +996,6 @@
 "recharge-voiture-electrique-fran";61;0;61
 "affaires";59;1;60
 "autobus";57;3;60
-"erp";56;4;60
 "financement";59;1;60
 "onf";56;4;60
 "panneau";60;0;60
@@ -1329,7 +1329,6 @@
 "travail-illigal";44;0;44
 "politique-environnementale";44;0;44
 "conventions";44;0;44
-"naf";39;5;44
 "rhone-mediterranee";44;0;44
 "dirm";44;0;44
 "mairie-et-democratie";44;0;44
@@ -1393,6 +1392,7 @@
 "carte-interactive";0;42;42
 "observations";42;0;42
 "mediation";42;0;42
+"naf";37;5;42
 "species-distribution";42;0;42
 "environnement-et-cadre-de-vie";42;0;42
 "budget-general";42;0;42
@@ -1445,6 +1445,7 @@
 "auto";38;1;39
 "carburant";18;21;39
 "dépenses";37;2;39
+"eleve";38;1;39
 "hopitaux";18;21;39
 "limitation";39;0;39
 "main-d";39;0;39
@@ -1486,7 +1487,6 @@
 "concert";36;2;38
 "decision";36;2;38
 "dimension";38;0;38
-"eleve";38;0;38
 "exploitation";36;2;38
 "guerre";36;2;38
 "politique-publique";27;11;38
@@ -2253,6 +2253,7 @@
 "paje";21;1;22
 "pesticides";11;11;22
 "piste";22;0;22
+"poste";19;3;22
 "programme";21;1;22
 "raisons";22;0;22
 "site-internet";18;4;22
@@ -2333,7 +2334,6 @@
 "placement";21;0;21
 "plaisance";21;0;21
 "pompier";19;2;21
-"poste";18;3;21
 "potentiels";21;0;21
 "precarite";14;7;21
 "profession";20;1;21
@@ -2866,7 +2866,6 @@
 "puy";17;0;17
 "activite-touristique";7;9;16
 "almanach";11;5;16
-"ape";12;4;16
 "aupres";16;0;16
 "bilaterale";16;0;16
 "brevet";13;3;16
@@ -3024,6 +3023,7 @@
 "declarations";15;0;15
 "desequilibres";15;0;15
 "dgddi";7;8;15
+"document";14;1;15
 "développement durable";13;2;15
 "economie-numerique";8;7;15
 "emprise";15;0;15
@@ -3165,6 +3165,7 @@
 "aide-financiere";14;0;14
 "alignement";13;1;14
 "ambassade";7;7;14
+"ape";10;4;14
 "arbres-remarquables";12;2;14
 "artisan";8;6;14
 "assurances";14;0;14
@@ -3188,7 +3189,6 @@
 "demographiques";14;0;14
 "developpement-local";14;0;14
 "directs";14;0;14
-"document";14;0;14
 "documentation";11;3;14
 "effectivement";14;0;14
 "elevage";12;2;14
@@ -4437,6 +4437,7 @@
 "ascenseur";9;0;9
 "asile à la frontière";9;0;9
 "attraction";9;0;9
+"banque";7;2;9
 "bilan-financier";9;0;9
 "billettique";9;0;9
 "boisson";8;1;9
@@ -4794,7 +4795,6 @@
 "assiette";6;2;8
 "augustins";8;0;8
 "bancs";8;0;8
-"banque";7;1;8
 "barrage";8;0;8
 "barriere";8;0;8
 "biologique";7;1;8
@@ -4937,7 +4937,6 @@
 "transport-de-marchandises";8;0;8
 "transport-maritime";8;0;8
 "travaillant";8;0;8
-"tva";6;2;8
 "télévision";8;0;8
 "unitaire";8;0;8
 "utilite-publique";7;1;8
@@ -5291,6 +5290,7 @@
 "audience";7;0;7
 "auto-evaluation";7;0;7
 "autorisations";4;3;7
+"banques";4;3;7
 "bebes";6;1;7
 "belgique";6;1;7
 "benevolat";5;2;7
@@ -5460,6 +5460,7 @@
 "tourisme-nautique";1;6;7
 "transport-terrestre";7;0;7
 "transporteurs";7;0;7
+"tva";5;2;7
 "unite_urbaine";1;6;7
 "unites";7;0;7
 "usages-internet";7;0;7
@@ -5581,6 +5582,7 @@
 "election-cantonale";7;0;7
 "emissions-co2";5;2;7
 "esperance-de-vie";5;2;7
+"etablissements-recevant-du-public";7;0;7
 "fete-de-la-musique";1;6;7
 "giratoire";7;0;7
 "identite";6;1;7
@@ -5910,6 +5912,7 @@
 "ehpa";6;0;6
 "encadrement";5;1;6
 "enfance-et-familles";6;0;6
+"enseignant";5;1;6
 "enseignement-professionnel";3;3;6
 "entree";6;0;6
 "entrées";6;0;6
@@ -6200,7 +6203,6 @@
 "economie-sociale";6;0;6
 "effacement";6;0;6
 "elues";4;2;6
-"etablissements-recevant-du-public";6;0;6
 "exploitations-agricoles";5;1;6
 "file-dattente";6;0;6
 "fouilles-archeologiques";1;5;6
@@ -6616,7 +6618,6 @@
 "autocars";5;0;5
 "avancé";5;0;5
 "avantages";5;0;5
-"banques";4;1;5
 "bilateraux";5;0;5
 "bird";5;0;5
 "bistrot";4;1;5
@@ -6673,7 +6674,6 @@
 "endettement";3;2;5
 "energie-electrique";4;1;5
 "enfance et familles";5;0;5
-"enseignant";5;0;5
 "enseignement professionnel";3;2;5
 "epic";5;0;5
 "equipement-et-services-sociaux";5;0;5
@@ -13808,6 +13808,7 @@
 "fast-food";0;2;2
 "nouvelles-regions-francaises";1;1;2
 "avantage";2;0;2
+"fiche-de-paie";1;1;2
 "prix-au-m2";1;1;2
 "creperie";2;0;2
 "enclos";2;0;2
@@ -14542,6 +14543,7 @@
 "cap-ferret";2;0;2
 "chemin-rural";2;0;2
 "client-hta";2;0;2
+"coffret";1;1;2
 "couralin";2;0;2
 "defavorisees";2;0;2
 "densite-de-points-charge";2;0;2
@@ -16597,6 +16599,8 @@
 "calcite";2;0;2
 "isotopie";2;0;2
 "labarthe-sur-leze";2;0;2
+"banque-a-distance";0;2;2
+"banque-en-ligne";0;2;2
 "112";1;0;1
 "18";1;0;1
 "1998";1;0;1
@@ -21878,7 +21882,6 @@
 "carte-de-france-administrative";0;1;1
 "carte-nouvelles-regions-de-france";0;1;1
 "cout-du-travail";1;0;1
-"fiche-de-paie";1;0;1
 "prelevements-sociaux";1;0;1
 "transmusicales";0;1;1
 "site-departemental";1;0;1
@@ -24959,7 +24962,6 @@
 "circulation-trafic-deplacement";1;0;1
 "client-bt";1;0;1
 "co-propriete";1;0;1
-"coffret";1;0;1
 "commune-limites-administrative";1;0;1
 "corbeilles";1;0;1
 "courant-landais";1;0;1
@@ -33510,3 +33512,7 @@
 "m-ticket";0;1;1
 "propluvia";1;0;1
 "neo";0;1;1
+"coffre-fort";1;0;1
+"contrat-electronique";0;1;1
+"bulletin-de-salaire";0;1;1
+"banque-moins-cher";0;1;1
