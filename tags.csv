@@ -1,5 +1,5 @@
 "name";"datasets";"reuses";"total"
-"donnees-ouvertes";20113;6;20119
+"donnees-ouvertes";20112;6;20118
 "passerelle-inspire";14992;0;14992
 "geospatial";5867;8;5875
 "usage-des-sols";5539;4;5543
@@ -51,7 +51,7 @@
 "election";756;47;803
 "finances";749;29;778
 "risque";771;2;773
-"education";713;50;763
+"education";714;50;764
 "gouvernement";750;9;759
 "population";693;62;755
 "sport";683;69;752
@@ -77,7 +77,7 @@
 "somme";635;2;637
 "bus";605;30;635
 "adresse";617;12;629
-"base-adresse-locale";614;1;615
+"base-adresse-locale";613;1;614
 "boundaries";611;1;612
 "ortho-imagerie";611;1;612
 "stationnement";597;9;606
@@ -99,7 +99,7 @@
 "route";514;7;521
 "formation";489;31;520
 "alea-enjeux-inondation-amenagement-urbanis";514;0;514
-"epci";477;26;503
+"epci";478;26;504
 "biodiversite";491;10;501
 "lot-et-garonne";499;1;500
 "budget-primitif";495;2;497
@@ -110,7 +110,7 @@
 "mutation";463;2;465
 "equipement";453;10;463
 "developpement-economique";461;2;463
-"irve";454;5;459
+"irve";453;5;458
 "voirie";439;11;450
 "zonages-risque-naturel";450;0;450
 "statistiques";402;44;446
@@ -207,8 +207,8 @@
 "kbis";264;1;265
 "ecole";251;13;264
 "structure";263;1;264
+"territoires";247;17;264
 "imagerie-relief-et-occupation-du-sol";264;0;264
-"territoires";246;17;263
 "bruit";260;1;261
 "filosofi";260;1;261
 "enfance";255;3;258
@@ -272,15 +272,15 @@
 "pays-de-la-loire";203;1;204
 "photographie-aerienne";202;1;203
 "temps-reel";198;5;203
+"decp";199;3;202
 "arret";196;5;201
 "arrets";200;1;201
 "bibliotheque";193;8;201
 "ens";199;1;200
-"decp";197;3;200
 "batiment";189;9;198
+"college";191;7;198
 "metro";185;13;198
 "seine-saint-denis";195;3;198
-"college";190;7;197
 "securite";169;28;197
 "train";172;25;197
 "business";197;0;197
@@ -303,15 +303,15 @@
 "ign";177;11;188
 "exposition";185;2;187
 "servitude";182;5;187
+"jeunesse";181;5;186
 "mesures";186;0;186
 "eau-zonages-eau";186;0;186
 "ilot-de-chaleur";185;1;186
 "station-meteo";185;1;186
 "ocsge";186;0;186
 "dechet";179;6;185
-"jeunesse";180;5;185
+"randonnee";180;5;185
 "ocsge2";185;0;185
-"randonnee";179;5;184
 "concentration-de-polluant";183;1;184
 "etablissement";174;8;182
 "2015";176;5;181
@@ -327,10 +327,10 @@
 "limousin";176;0;176
 "deces";120;55;175
 "referentiel";172;3;175
+"departements";125;49;174
 "limite";174;0;174
 "solidarite";172;2;174
 "accessibilite";161;12;173
-"departements";124;49;173
 "lignes";172;1;173
 "eau-de-surface";169;3;172
 "infrastructures";166;5;171
@@ -531,6 +531,7 @@
 "nappe-phreatique";115;1;116
 "rer";111;5;116
 "departement-du-bas-rhin-67";116;0;116
+"health";113;3;116
 "plui";115;1;116
 "meuse";115;1;116
 "arbres";110;5;115
@@ -539,7 +540,6 @@
 "naissance";97;18;115
 "ppri";115;0;115
 "service-public";100;15;115
-"health";112;3;115
 "zone-de-pollution-potentielle";115;0;115
 "aide-sociale";114;0;114
 "climat";99;15;114
@@ -650,11 +650,11 @@
 "depense";88;6;94
 "numero";93;1;94
 "scot";93;1;94
+"usages";92;2;94
 "vehicules-electriques";92;2;94
 "utility-and-governmental-services";94;0;94
 "entrée en france";93;0;93
 "prenom";69;24;93
-"usages";91;2;93
 "netex";92;1;93
 "chalons-en-champagne";92;1;93
 "etat";84;8;92
@@ -849,6 +849,7 @@
 "rapportage";72;0;72
 "hydrochemistry";72;0;72
 "architecture";65;6;71
+"etude";65;6;71
 "horodateur";71;0;71
 "indicateur";69;2;71
 "universites";65;6;71
@@ -858,7 +859,6 @@
 "programme-europeen";71;0;71
 "bilan";69;1;70
 "camping";59;11;70
-"etude";64;6;70
 "maison";57;13;70
 "programmes";70;0;70
 "decoupage-administratif";68;2;70
@@ -1471,6 +1471,7 @@
 "compte administratif";39;0;39
 "changement-climatique";31;8;39
 "amenagement-urbanisme-zonages-planification";38;1;39
+"boamp";31;8;39
 "allier";38;1;39
 "police-municipale";39;0;39
 "solidarite-sante";39;0;39
@@ -1724,6 +1725,7 @@
 "zonages-risque-technologique";32;0;32
 "energies-renouvelables";30;2;32
 "politique-des-visas";32;0;32
+"randonnees";32;0;32
 "juridictions-financieres";32;0;32
 "simulateur";23;9;32
 "collecte-des-dechets";31;1;32
@@ -1765,7 +1767,6 @@
 "basque";31;0;31
 "grand-paris";28;3;31
 "balances-comptables";31;0;31
-"randonnees";31;0;31
 "visualisation-de-donnees";0;31;31
 "grenoble";29;2;31
 "nohanent";31;0;31
@@ -2020,6 +2021,7 @@
 "mer-et-littoral";25;1;26
 "inventaire-paysage";26;0;26
 "quartiers-prioritaires";26;0;26
+"amenagement-urbain";25;1;26
 "animations";26;0;26
 "ads";26;0;26
 "masse-salariale";24;2;26
@@ -2076,7 +2078,6 @@
 "sgar-rhone-alpes";25;0;25
 "afr";23;2;25
 "qpv";23;2;25
-"amenagement-urbain";24;1;25
 "risques-industriels";25;0;25
 "aero-data";25;0;25
 "economie-sociale-et-solidaire";22;3;25
@@ -2442,7 +2443,6 @@
 "mortagne-sur-sevre";20;0;20
 "boutique";18;2;20
 "pluie";19;1;20
-"boamp";12;8;20
 "emplacements";20;0;20
 "chantiers";19;1;20
 "zone-de-revitalisation-rurale";20;0;20
@@ -3469,6 +3469,7 @@
 "Ile-de-France";13;0;13
 "social et ressources humaines";13;0;13
 "sedimentologie";13;0;13
+"nievre";12;1;13
 "yonne";12;1;13
 "versement";13;0;13
 "urbanisme-reglementaire";13;0;13
@@ -3684,7 +3685,6 @@
 "ammonium";12;0;12
 "crues";12;0;12
 "h2020";11;1;12
-"nievre";11;1;12
 "colloque";12;0;12
 "apport-volontaire";12;0;12
 "arts-plastiques";11;1;12
@@ -5840,6 +5840,7 @@
 "label-culture-et-patrimoine";7;0;7
 "niveaux-annuels";7;0;7
 "schema-etalab";7;0;7
+"cd58";7;0;7
 "marche-du-travail-flux-frontaliers-vers-la-rhenanie-palatinat-et-la-sarre";7;0;7
 "environnement-qualite-de-lair";7;0;7
 "1830";6;0;6
@@ -6600,7 +6601,6 @@
 "circulation-et-horaires";6;0;6
 "personnel-medico-social";6;0;6
 "air-sante";6;0;6
-"cd58";6;0;6
 "unigr-formations-transfrontalieres-lettres-et-arts";6;0;6
 "amenagement-du-territoire-documents-damenagement-du-territoire";6;0;6
 "marche-du-travail-flux-frontaliers-entre-la-wallonie-et-la-france";6;0;6
@@ -33585,3 +33585,4 @@
 "salles-municipales";1;0;1
 "indemnites-elus";1;0;1
 "reservations";1;0;1
+"decouvrabilite";1;0;1
