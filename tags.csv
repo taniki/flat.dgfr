@@ -525,6 +525,7 @@
 "cote-sableuse";118;0;118
 "adressage";117;1;118
 "maternelle";116;1;117
+"service-public";102;15;117
 "loire";116;1;117
 "bas-rhin";116;1;117
 "carte-communale";113;3;116
@@ -539,7 +540,6 @@
 "colleges";108;7;115
 "naissance";97;18;115
 "ppri";115;0;115
-"service-public";100;15;115
 "zone-de-pollution-potentielle";115;0;115
 "aide-sociale";114;0;114
 "climat";99;15;114
@@ -2504,6 +2504,7 @@
 "administrations";18;1;19
 "aide-sociale-departementale";19;0;19
 "assistant-maternel";18;1;19
+"batiment-public";19;0;19
 "budget-principal";19;0;19
 "candidatures";19;0;19
 "communaute-de-communes";19;0;19
@@ -2741,7 +2742,6 @@
 "arrondissements";9;8;17
 "autoroute";13;4;17
 "bac";13;4;17
-"batiment-public";17;0;17
 "boursiers";17;0;17
 "campings";6;11;17
 "centres-de-collecte";2;15;17
