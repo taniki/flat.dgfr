@@ -242,8 +242,8 @@
 "ecologie";211;14;225
 "nature";224;1;225
 "reseau-routier";224;1;225
+"marches-publics";207;17;224
 "pprt";224;0;224
-"marches-publics";206;17;223
 "bornes-de-recharge";220;3;223
 "sig";197;25;222
 "2012";207;12;219
@@ -1415,6 +1415,7 @@
 "projet";39;2;41
 "urbain";40;1;41
 "geobretagne";39;2;41
+"boamp";32;9;41
 "bourse-detudes";40;1;41
 "rhin-meuse";41;0;41
 "seine-normandie";41;0;41
@@ -1471,7 +1472,6 @@
 "compte administratif";39;0;39
 "changement-climatique";31;8;39
 "amenagement-urbanisme-zonages-planification";38;1;39
-"boamp";31;8;39
 "allier";38;1;39
 "police-municipale";39;0;39
 "solidarite-sante";39;0;39
