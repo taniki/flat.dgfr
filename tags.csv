@@ -24,7 +24,7 @@
 "transport";1590;40;1630
 "finances-publiques";1533;4;1537
 "citoyennete";1522;6;1528
-"urbanisme";1488;18;1506
+"urbanisme";1489;18;1507
 "administration";1457;13;1470
 "occupation-du-sol";1359;15;1374
 "tourisme";1262;36;1298
@@ -33,7 +33,7 @@
 "environment";1219;9;1228
 "open-data";1134;26;1160
 "economie";1075;55;1130
-"amenagement-du-territoire";1106;7;1113
+"amenagement-du-territoire";1107;7;1114
 "pprn";1083;0;1083
 "occupation-des-terres";1034;1;1035
 "inondation";958;5;963
@@ -45,7 +45,7 @@
 "zones-de-gestion-de-restriction-ou-de-reglementat";907;0;907
 "donnee-ouverte";898;3;901
 "commune";837;63;900
-"logement";858;41;899
+"logement";859;41;900
 "patrimoine";805;19;824
 "hauts-de-france";802;6;808
 "election";756;47;803
@@ -53,11 +53,11 @@
 "risque";771;2;773
 "education";718;50;768
 "gouvernement";751;9;760
-"population";697;62;759
+"population";698;62;760
 "sport";689;69;758
 "eau";715;20;735
 "intercommunalite";727;3;730
-"equipements";711;15;726
+"equipements";712;15;727
 "pas-de-calais";721;2;723
 "bretagne";670;52;722
 "nord";716;5;721
@@ -68,8 +68,8 @@
 "emploi";654;42;696
 "2019";679;4;683
 "ppr";681;1;682
-"batiments";667;5;672
-"insee";618;50;668
+"batiments";668;5;673
+"insee";619;50;669
 "deplacements";652;2;654
 "citoyennete-institution";650;0;650
 "donnees-publiques";641;4;645
@@ -83,7 +83,7 @@
 "boundaries";611;1;612
 "ortho-imagerie";611;1;612
 "velo";545;62;607
-"social";584;13;597
+"social";585;13;598
 "alea-enjeux-inondation-amenagement-urbanisme-prescription-prevention-servitude-risque-multi-risque";596;0;596
 "alea-enjeux-inondation-amenageme";596;0;596
 "risques";587;3;590
@@ -132,8 +132,8 @@
 "inland-waters";405;0;405
 "cadastre";366;37;403
 "entreprise";383;18;401
+"services";395;6;401
 "cartographie";285;115;400
-"services";394;6;400
 "assainissement";397;2;399
 "commerce";362;33;395
 "departement";318;72;390
@@ -682,6 +682,7 @@
 "flux";87;1;88
 "marches";88;0;88
 "producteur";84;4;88
+"secteur";85;3;88
 "transports-et-mobilite";86;2;88
 "calvados";86;2;88
 "specification-locale";88;0;88
@@ -695,7 +696,6 @@
 "issy-les-moulineaux";86;1;87
 "moyen";87;0;87
 "rue";78;9;87
-"secteur";84;3;87
 "donnees-de-references-referentiels-vocabulaire-controle";87;0;87
 "trait-de-cote";85;2;87
 "donnees-de-references-referentie";87;0;87
@@ -907,6 +907,7 @@
 "denominations-geographiques";67;0;67
 "livres";60;7;67
 "produit";59;8;67
+"statistique";53;14;67
 "visiteur";67;0;67
 "postale";66;1;67
 "station-de-charge";66;1;67
@@ -914,7 +915,6 @@
 "glissement-de-terrain";67;0;67
 "canal";66;0;66
 "proximite";58;8;66
-"statistique";52;14;66
 "ter";58;8;66
 "ftth";58;8;66
 "nuisance";66;0;66
@@ -33879,3 +33879,4 @@
 "sdma";0;1;1
 "egalim";1;0;1
 "rs";1;0;1
+"centtre-social";1;0;1
