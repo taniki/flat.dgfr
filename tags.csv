@@ -71,7 +71,7 @@
 "batiments";668;5;673
 "insee";619;50;669
 "deplacements";652;2;654
-"citoyennete-institution";651;0;651
+"citoyennete-institution";652;0;652
 "donnees-publiques";641;4;645
 "geoportail";637;1;638
 "somme";635;2;637
@@ -2064,6 +2064,7 @@
 "cheval";24;1;25
 "concernant";25;0;25
 "elections-cantonales";17;8;25
+"emprunt";24;1;25
 "epidemiologie";5;20;25
 "espace";24;1;25
 "fantoir";22;3;25
@@ -2130,7 +2131,6 @@
 "déchets";22;2;24
 "département";13;11;24
 "egalite-homme-femme";13;11;24
-"emprunt";23;1;24
 "facebook";21;3;24
 "frontieres";13;11;24
 "frontières";13;11;24
