@@ -14,7 +14,7 @@
 "orthophotographie";1795;2;1797
 "casq";1771;0;1771
 "photo";1740;1;1741
-"budget";1701;20;1721
+"budget";1702;20;1722
 "prise-de-vues";1709;0;1709
 "prise-de-vue";1706;0;1706
 "carte";1483;217;1700
@@ -22,10 +22,10 @@
 "france";1543;127;1670
 "plu";1659;4;1663
 "transport";1592;40;1632
-"finances-publiques";1547;4;1551
-"citoyennete";1538;6;1544
+"finances-publiques";1542;4;1546
+"citoyennete";1533;6;1539
 "urbanisme";1512;18;1530
-"administration";1475;13;1488
+"administration";1470;13;1483
 "occupation-du-sol";1363;15;1378
 "tourisme";1269;36;1305
 "culture";1251;49;1300
@@ -37,8 +37,8 @@
 "pprn";1083;0;1083
 "occupation-des-terres";1035;1;1036
 "inondation";958;5;963
-"deliberation";955;0;955
-"territoire";937;16;953
+"deliberation";956;0;956
+"territoire";939;16;955
 "transports";922;21;943
 "document-durbanisme";939;0;939
 "elections";825;106;931
@@ -50,9 +50,9 @@
 "hauts-de-france";802;6;808
 "election";757;47;804
 "finances";750;29;779
-"gouvernement";765;9;774
 "risque";771;2;773
 "education";720;50;770
+"gouvernement";760;9;769
 "sport";693;70;763
 "population";698;62;760
 "equipements";728;15;743
@@ -105,8 +105,8 @@
 "lot-et-garonne";499;1;500
 "budget-primitif";495;2;497
 "demographie";450;47;497
-"opendata";399;88;487
-"dechets";466;10;476
+"opendata";399;90;489
+"dechets";467;10;477
 "enseignement";451;21;472
 "developpement-economique";470;2;472
 "equipement";458;10;468
@@ -171,7 +171,7 @@
 "covid19";132;194;326
 "2017";308;10;318
 "nuisance-bruit";317;0;317
-"subventions";293;21;314
+"subventions";294;21;315
 "habitats-et-biotopes";309;2;311
 "consommation";272;32;304
 "pedologie";299;2;301
@@ -214,9 +214,9 @@
 "filosofi";260;1;261
 "risque-zonages-risque-technologi";256;0;256
 "budget-de-letat";254;0;254
+"sig";199;54;253
 "montpellier";240;12;252
 "route-departementale";251;1;252
-"sig";199;52;251
 "data-gouv";249;2;251
 "modelisation";248;1;249
 "etat-civil";226;22;248
@@ -231,9 +231,9 @@
 "public";236;2;238
 "2016";236;2;238
 "parc";232;5;237
+"voie";237;0;237
 "aquitaine";213;23;236
 "cadre-de-vie";235;1;236
-"voie";236;0;236
 "nature";233;2;235
 "nouvelle-aquitaine";234;1;235
 "production";227;6;233
@@ -268,7 +268,7 @@
 "economy";208;2;210
 "ban";201;9;210
 "mesures";209;0;209
-"associations";185;22;207
+"associations";186;22;208
 "business";206;0;206
 "musique";194;11;205
 "horaires";199;5;204
@@ -299,10 +299,10 @@
 "marche";185;7;192
 "migrant";192;0;192
 "dreal-bfc";192;0;192
+"deliberations";185;4;189
 "jeunesse";184;5;189
 "poitou-charentes";189;0;189
 "dechet";182;6;188
-"deliberations";184;4;188
 "exposition";186;2;188
 "ign";177;11;188
 "randonnee";182;5;187
@@ -845,7 +845,6 @@
 "conservatoire";68;4;72
 "etude";66;6;72
 "horaire";64;8;72
-"indicateur";70;2;72
 "meteorologie";62;10;72
 "piste-cyclable";68;4;72
 "rsa";69;3;72
@@ -861,6 +860,7 @@
 "rapportage";72;0;72
 "hydrochemistry";72;0;72
 "camping";60;11;71
+"indicateur";69;2;71
 "universites";65;6;71
 "bio";64;7;71
 "qualite-de-lenvironnement";71;0;71
@@ -918,7 +918,6 @@
 "canal";66;0;66
 "onf";62;4;66
 "proximite";58;8;66
-"resultat";63;3;66
 "ter";58;8;66
 "nuisance";66;0;66
 "parcellaire-agricole";66;0;66
@@ -930,6 +929,7 @@
 "formations";59;6;65
 "formations-sanitaires-et-sociales";65;0;65
 "quartiers";62;3;65
+"resultat";62;3;65
 "visualisation";2;63;65
 "zonages-amenagement";64;1;65
 "premiere-guerre-mondiale";2;63;65
@@ -1281,6 +1281,7 @@
 "visa";45;1;46
 "intercommunalites";46;0;46
 "office-de-tourisme";45;1;46
+"webmapping";1;45;46
 "dpds";46;0;46
 "vie-economique-innovation";46;0;46
 "portes";46;0;46
@@ -1348,7 +1349,6 @@
 "haute-loire";43;1;44
 "aide-publique";43;1;44
 "foret-dfci";43;1;44
-"webmapping";1;43;44
 "shapefile";43;1;44
 "travail-illigal";44;0;44
 "politique-environnementale";44;0;44
@@ -2436,7 +2436,6 @@
 "ou-vivre";0;21;21
 "environnement-protection-de-la-nature";21;0;21
 "action";20;0;20
-"administrations";19;1;20
 "aeriennes";20;0;20
 "aide-sociale-departementale";20;0;20
 "anciennes";20;0;20
@@ -2538,6 +2537,7 @@
 "niveau-de-vent-a-100m";20;0;20
 "rge-cb2d";20;0;20
 "commune-propice";20;0;20
+"administrations";18;1;19
 "assistant-maternel";18;1;19
 "bassin-versant";19;0;19
 "batiment-public";19;0;19
@@ -3748,6 +3748,7 @@
 "escalade";12;0;12
 "bande-cyclable";12;0;12
 "enquete-gares-connexions";12;0;12
+"amenagement-cyclable";11;1;12
 "banque-populaire";12;0;12
 "rgpd";7;5;12
 "planification-cadastre";12;0;12
@@ -4031,7 +4032,6 @@
 "lineaire";11;0;11
 "rencontre";11;0;11
 "schema-cyclable";11;0;11
-"amenagement-cyclable";10;1;11
 "tours";9;2;11
 "eboulement";11;0;11
 "abri";11;0;11
@@ -4345,6 +4345,7 @@
 "poteau-incendie";10;0;10
 "elections-legislatives-2017";7;3;10
 "compteurs";10;0;10
+"denomination";10;0;10
 "sac";10;0;10
 "versailles-grand-parc";9;1;10
 "shape";10;0;10
@@ -4764,7 +4765,6 @@
 "capteurs";9;0;9
 "charte-ethique";9;0;9
 "compte-de-resultat";9;0;9
-"denomination";9;0;9
 "services-en-gare";9;0;9
 "controle-de-la-qualite-de-l-air";9;0;9
 "enseignement-artistique";9;0;9
@@ -9022,6 +9022,7 @@
 "sondages";3;1;4
 "developpement-numerique";4;0;4
 "statistics";1;3;4
+"reu";4;0;4
 "maker";2;2;4
 "collecte-enterree";4;0;4
 "coproprietes";1;3;4
@@ -10452,6 +10453,7 @@
 "ligne-routiere-regionale";2;1;3
 "fracture-numerique";2;1;3
 "bulletins";3;0;3
+"frontonnais";3;0;3
 "operateur-telephonique";2;1;3
 "baie-de-somme";3;0;3
 "pprn-du-marquenterre-baie-de-somme";3;0;3
@@ -11195,6 +11197,7 @@
 "marans";3;0;3
 "thermometre-reaumur";3;0;3
 "jeu-de-donnees";3;0;3
+"dechets-dangereux";3;0;3
 "neuves-maisons";3;0;3
 "nouvelles-mobilites";3;0;3
 "route-optique";3;0;3
@@ -11240,7 +11243,6 @@
 "lecovid";0;3;3
 "plots";0;3;3
 "ile-et-vilaine";2;1;3
-"reu";3;0;3
 "bio-dechets";3;0;3
 "camions-de-collecte";3;0;3
 "collecte-des-encombrants";3;0;3
@@ -15584,7 +15586,6 @@
 "polyclinique";2;0;2
 "regiment";2;0;2
 "aires-protegees";2;0;2
-"dechets-dangereux";2;0;2
 "empreinte-carbone";2;0;2
 "sites-pollues";2;0;2
 "violences-physiques";1;1;2
@@ -16610,6 +16611,7 @@
 "direction-nationale-urssaf";2;0;2
 "lamoura";2;0;2
 "ccpc";2;0;2
+"trackdechets";2;0;2
 "consultations-medicales";2;0;2
 "mesures-de-placement";2;0;2
 "alpilles";2;0;2
@@ -22563,7 +22565,6 @@
 "bioagresseurs";1;0;1
 "donnees-textuelles";1;0;1
 "inad";0;1;1
-"frontonnais";1;0;1
 "levallois";0;1;1
 "ploezal";1;0;1
 "saint-gelven";1;0;1
@@ -32614,7 +32615,6 @@
 "operation-libre";1;0;1
 "tags3";1;0;1
 "arretes-de-voirie";1;0;1
-"trackdechets";1;0;1
 "dpe-hlm";1;0;1
 "laxa";1;0;1
 "technicien-de-lintervention-sociale-et-familiale";1;0;1
