@@ -22,10 +22,10 @@
 "france";1557;127;1684
 "plu";1659;4;1663
 "transport";1594;40;1634
-"finances-publiques";1543;4;1547
-"citoyennete";1534;6;1540
+"finances-publiques";1547;4;1551
+"citoyennete";1538;6;1544
 "urbanisme";1513;18;1531
-"administration";1470;13;1483
+"administration";1474;13;1487
 "occupation-du-sol";1363;15;1378
 "tourisme";1277;36;1313
 "culture";1255;49;1304
@@ -51,8 +51,8 @@
 "election";757;47;804
 "finances";751;29;780
 "education";723;50;773
+"gouvernement";764;9;773
 "risque";771;2;773
-"gouvernement";760;9;769
 "sport";694;70;764
 "population";699;62;761
 "equipements";730;15;745
@@ -845,6 +845,7 @@
 "conseil";69;3;72
 "etude";66;6;72
 "horaire";64;8;72
+"indicateur";70;2;72
 "meteorologie";62;10;72
 "rsa";69;3;72
 "amenagement-urbanisme";69;3;72
@@ -860,7 +861,6 @@
 "rapportage";72;0;72
 "hydrochemistry";72;0;72
 "camping";60;11;71
-"indicateur";69;2;71
 "universites";65;6;71
 "qualite-de-lenvironnement";71;0;71
 "programme-europeen";71;0;71
@@ -917,6 +917,7 @@
 "canal";66;0;66
 "onf";62;4;66
 "proximite";58;8;66
+"resultat";63;3;66
 "ter";58;8;66
 "nuisance";66;0;66
 "parcellaire-agricole";66;0;66
@@ -928,7 +929,6 @@
 "formations";59;6;65
 "formations-sanitaires-et-sociales";65;0;65
 "quartiers";62;3;65
-"resultat";62;3;65
 "visualisation";2;63;65
 "zonages-amenagement";64;1;65
 "premiere-guerre-mondiale";2;63;65
@@ -2435,6 +2435,7 @@
 "ou-vivre";0;21;21
 "environnement-protection-de-la-nature";21;0;21
 "action";20;0;20
+"administrations";19;1;20
 "aeriennes";20;0;20
 "aide-sociale-departementale";20;0;20
 "anciennes";20;0;20
@@ -2537,7 +2538,6 @@
 "niveau-de-vent-a-100m";20;0;20
 "rge-cb2d";20;0;20
 "commune-propice";20;0;20
-"administrations";18;1;19
 "assistant-maternel";18;1;19
 "bassin-versant";19;0;19
 "batiment-public";19;0;19
@@ -5428,6 +5428,7 @@
 "familiale";7;0;7
 "festivals";7;0;7
 "fondation";6;1;7
+"forge";7;0;7
 "formation-continue";5;2;7
 "fouilles";2;5;7
 "frais";7;0;7
@@ -6003,7 +6004,6 @@
 "fleurissement";6;0;6
 "fonctionnaire";6;0;6
 "fond";6;0;6
-"forge";6;0;6
 "fouilles archeologiques";1;5;6
 "greffe";5;1;6
 "handicapes";4;2;6
@@ -14505,6 +14505,7 @@
 "trafic-pieton";2;0;2
 "trafic-velo";2;0;2
 "contour-administratif";2;0;2
+"fonderie";1;1;2
 "service-de-prevision-des-crues";2;0;2
 "ombre";2;0;2
 "etat-occupant";2;0;2
@@ -24518,7 +24519,6 @@
 "opencorporates";0;1;1
 "burger";0;1;1
 "modifications-de-societes";1;0;1
-"fonderie";0;1;1
 "cash";1;0;1
 "dispositifs-encreurs";1;0;1
 "oberthur-fiduciaire";1;0;1
@@ -33999,3 +33999,10 @@
 "robien";1;0;1
 "motion";0;1;1
 "talence";1;0;1
+"esff";1;0;1
+"liste-fonderie";1;0;1
+"bts-fonderie";1;0;1
+"esf";1;0;1
+"liste-forge";1;0;1
+"foundry";1;0;1
+"aaesff";1;0;1
