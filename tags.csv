@@ -21,7 +21,7 @@
 "1973";1698;0;1698
 "france";1557;127;1684
 "plu";1659;4;1663
-"transport";1594;40;1634
+"transport";1594;39;1633
 "finances-publiques";1547;4;1551
 "citoyennete";1538;6;1544
 "urbanisme";1513;18;1531
@@ -39,7 +39,7 @@
 "inondation";960;5;965
 "deliberation";956;1;957
 "territoire";940;16;956
-"transports";924;21;945
+"transports";924;22;946
 "document-durbanisme";939;0;939
 "elections";827;106;933
 "logement";876;41;917
@@ -95,7 +95,7 @@
 "communes";454;88;542
 "risque-inondation";536;2;538
 "aisne";533;1;534
-"route";525;7;532
+"route";525;8;533
 "formation";497;31;528
 "gtfs";516;11;527
 "adresses";505;9;514
@@ -116,8 +116,8 @@
 "voirie";442;11;453
 "zonages-risque-naturel";450;0;450
 "statistiques";405;44;449
+"circulation";423;24;447
 "deplacement";445;2;447
-"circulation";423;23;446
 "transportation";438;3;441
 "grand-est";437;4;441
 "recherche";409;27;436
@@ -222,8 +222,8 @@
 "immigration";241;7;248
 "handicap";237;8;245
 "tri";240;5;245
+"tramway";230;12;242
 "emission";241;0;241
-"tramway";230;11;241
 "entreprises";211;29;240
 "guyane";239;1;240
 "pos";239;1;240
@@ -240,7 +240,7 @@
 "marches-publics";214;18;232
 "no2";231;1;232
 "directive-inondation";232;0;232
-"plan";222;7;229
+"plan";222;8;230
 "reseau-routier";226;1;227
 "geomorphologie";227;0;227
 "ecologie";212;14;226
@@ -364,10 +364,10 @@
 "ecoles";154;6;160
 "agenda";144;15;159
 "lycee";142;17;159
+"paris";96;63;159
 "voies";157;2;159
 "dreal-rhone-alpes";159;0;159
 "services-dutilite-publique-et-services-publics";159;0;159
-"paris";96;62;158
 "borne-de-recharge-electrique";156;2;158
 "clermont-ferrand";157;1;158
 "cinema";125;32;157
@@ -683,6 +683,7 @@
 "georisques";88;1;89
 "flux";87;1;88
 "marches";88;0;88
+"tram";83;5;88
 "transports-et-mobilite";86;2;88
 "calvados";86;2;88
 "specification-locale";88;0;88
@@ -696,7 +697,6 @@
 "issy-les-moulineaux";86;1;87
 "moyen";87;0;87
 "rue";78;9;87
-"tram";83;4;87
 "donnees-de-references-referentiels-vocabulaire-controle";87;0;87
 "trait-de-cote";85;2;87
 "donnees-de-references-referentie";87;0;87
@@ -1523,6 +1523,7 @@
 "retraites";37;1;38
 "salle";36;2;38
 "thd";33;5;38
+"transilien";34;4;38
 "urbaine";37;1;38
 "ddt-43";38;0;38
 "draaf";38;0;38
@@ -1553,7 +1554,6 @@
 "salaire";32;5;37
 "territoires et transports";37;0;37
 "traitement";37;0;37
-"transilien";34;3;37
 "vélo";33;4;37
 "eau-ouvrage";37;0;37
 "aveyron";36;1;37
@@ -1693,6 +1693,7 @@
 "actes";32;1;33
 "arcep";22;11;33
 "bureaux";32;1;33
+"trafic-routier";31;2;33
 "chateaugay";33;0;33
 "lempdes";33;0;33
 "orcines";33;0;33
@@ -1712,6 +1713,7 @@
 "accompagnement";31;1;32
 "actualites";26;6;32
 "ages";31;1;32
+"autoroutes";15;17;32
 "balance";32;0;32
 "bdr";32;0;32
 "calendrier";26;6;32
@@ -1734,7 +1736,6 @@
 "zone-humide";32;0;32
 "troncons";32;0;32
 "benthique";32;0;32
-"trafic-routier";31;1;32
 "zonages-risque-technologique";32;0;32
 "stationnements";29;3;32
 "energies-renouvelables";30;2;32
@@ -1754,7 +1755,6 @@
 "pnr-verdon";32;0;32
 "systeme-de-protection-sociale";32;0;32
 "anciens";31;0;31
-"autoroutes";15;16;31
 "chien";31;0;31
 "circuit";31;0;31
 "competition";20;11;31
@@ -3908,7 +3908,6 @@
 "prestations";10;1;11
 "quintile";11;0;11
 "rang";11;0;11
-"ratp";8;3;11
 "recherche et développement";9;2;11
 "recherche_clinique";11;0;11
 "referendum";9;2;11
@@ -4210,6 +4209,7 @@
 "profession-sante";7;3;10
 "protection patrimoine";1;9;10
 "protection-sociale";9;1;10
+"ratp";8;2;10
 "representation";10;0;10
 "reserve-de-biosphere";4;6;10
 "reserve-de-faune";4;6;10
@@ -9550,6 +9550,7 @@
 "indice-de-pollution";1;2;3
 "individuelles";2;1;3
 "influencant";3;0;3
+"info-trafic";1;2;3
 "input";3;0;3
 "instance";3;0;3
 "instrument-de-musique";3;0;3
@@ -10422,6 +10423,7 @@
 "crise-de-la-dette";3;0;3
 "conseillers-generaux";3;0;3
 "semi";2;1;3
+"bison-fute";2;1;3
 "mecanisme-de-capacite";3;0;3
 "bop";3;0;3
 "water";3;0;3
@@ -12256,7 +12258,6 @@
 "induites";2;0;2
 "industrie-industrie";2;0;2
 "inegalite";2;0;2
-"info-trafic";1;1;2
 "information-legale";1;1;2
 "information-sur-la-pollution";1;1;2
 "informatique-et-liberte";1;1;2
@@ -13976,6 +13977,7 @@
 "cartes-anciennes";1;1;2
 "actes-juridiques";1;1;2
 "artere";2;0;2
+"acces-autoroute";1;1;2
 "gibier";2;0;2
 "i-6";2;0;2
 "int-1";2;0;2
@@ -14026,7 +14028,6 @@
 "modele-etat-des-lieux";2;0;2
 "justice-francaise";2;0;2
 "socio-culturel";1;1;2
-"bison-fute";2;0;2
 "bouchons";2;0;2
 "fute";2;0;2
 "long-metrage";2;0;2
@@ -22162,7 +22163,6 @@
 "a-3";1;0;1
 "a-6";1;0;1
 "ac-4";1;0;1
-"acces-autoroute";1;0;1
 "acces-route-express";1;0;1
 "alignement-des-voies-publiques";1;0;1
 "article-l-214-17";1;0;1
