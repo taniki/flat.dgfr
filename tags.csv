@@ -69,7 +69,7 @@
 "batiments";689;5;694
 "2019";680;4;684
 "ppr";681;1;682
-"insee";629;50;679
+"insee";630;50;680
 "deplacements";658;2;660
 "citoyennete-institution";659;0;659
 "donnees-publiques";649;4;653
@@ -332,9 +332,9 @@
 "deces";120;55;175
 "accueil";172;2;174
 "elus";134;40;174
+"immobilier";92;82;174
 "infrastructures";169;5;174
 "lignes";173;1;174
-"immobilier";91;82;173
 "routes";157;16;173
 "eau-de-surface";169;3;172
 "numerique";164;8;172
@@ -459,11 +459,11 @@
 "borne";128;3;131
 "trimestrielles";131;0;131
 "artois-picardie";131;0;131
+"api";49;81;130
 "espaces-naturels";129;1;130
 "dataviz";25;105;130
 "primitif";130;0;130
 "mobilite-et-transports";128;2;130
-"api";49;80;129
 "decoupage";111;18;129
 "filaire";129;0;129
 "ligne";127;2;129
@@ -640,6 +640,7 @@
 "recyclage";89;7;96
 "vaccination";43;53;96
 "axe";96;0;96
+"iris";77;18;95
 "numero";94;1;95
 "pps";95;0;95
 "protection";89;6;95
@@ -654,7 +655,6 @@
 "depense";88;6;94
 "etat";86;8;94
 "fibre-optique";81;13;94
-"iris";76;18;94
 "usages";92;2;94
 "utility-and-governmental-services";94;0;94
 "entrée en france";93;0;93
@@ -726,13 +726,13 @@
 "gtfs-rt";83;2;85
 "metropole-mers-celtiques";85;0;85
 "observatoire-economique";85;0;85
+"bordeaux";77;7;84
 "ordures-menageres";84;0;84
 "territoires-et-regions";83;1;84
 "france-entiere";75;9;84
 "ressources-marines-biologiques";84;0;84
 "populations-exposees";84;0;84
 "apprentissage";82;1;83
-"bordeaux";76;7;83
 "commerces";76;7;83
 "liste-de-jeux-de-donnees";82;1;83
 "meudon";83;0;83
@@ -862,6 +862,7 @@
 "hydrochemistry";72;0;72
 "camping";60;11;71
 "universites";65;6;71
+"decoupage-administratif";69;2;71
 "qualite-de-lenvironnement";71;0;71
 "programme-europeen";71;0;71
 "bilan";69;1;70
@@ -870,7 +871,6 @@
 "stations";66;4;70
 "vie-associative";67;3;70
 "velos";66;4;70
-"decoupage-administratif";68;2;70
 "natural-risk-zones";70;0;70
 "referentiels-geographiques";70;0;70
 "participation-citoyenne";70;0;70
@@ -1899,6 +1899,7 @@
 "altimetrie";25;3;28
 "ase";28;0;28
 "bien-etre";27;1;28
+"certification";26;2;28
 "citoyen";23;5;28
 "codes-postaux";17;11;28
 "conseil général";28;0;28
@@ -1961,7 +1962,6 @@
 "annees";27;0;27
 "artificialisation";21;6;27
 "bateau";26;1;27
-"certification";26;1;27
 "derniers";27;0;27
 "diagnostic";26;1;27
 "donnees-budgetaires";27;0;27
@@ -2804,6 +2804,7 @@
 "lie";17;0;17
 "loi";10;7;17
 "lois";8;9;17
+"loyer";14;3;17
 "marché public";14;3;17
 "marseille";11;6;17
 "metier";15;2;17
@@ -2951,7 +2952,6 @@
 "lampadaire";16;0;16
 "lieu";15;1;16
 "listes";13;3;16
-"loyer";13;3;16
 "macroeconomiques";16;0;16
 "medecin-specialiste";7;9;16
 "median";16;0;16
@@ -4833,6 +4833,7 @@
 "test-covid19";1;8;9
 "animal";9;0;9
 "construction-logements-sociaux";8;1;9
+"encadrement-des-loyers";6;3;9
 "auto-import";9;0;9
 "open-source";2;7;9
 "chelles";9;0;9
@@ -4918,6 +4919,7 @@
 "effectif-scolaire";8;0;8
 "effet";8;0;8
 "emplois-tremplin";8;0;8
+"encadrement";7;1;8
 "enseignant-chercheur";8;0;8
 "entreprendre";8;0;8
 "epn";7;1;8
@@ -5301,7 +5303,6 @@
 "mesh";8;0;8
 "animal-sauvage";8;0;8
 "rehabilitation-logements-sociaux";7;1;8
-"encadrement-des-loyers";5;3;8
 "sainr-denis";8;0;8
 "culture-et-patrimoine";8;0;8
 "vac-si";6;2;8
@@ -5414,7 +5415,6 @@
 "economique";7;0;7
 "ecotourisme";3;4;7
 "employabilite";7;0;7
-"encadrement";6;1;7
 "enseignement - formation - recherche";7;0;7
 "epandage";7;0;7
 "equipement-de-loisir";6;1;7
@@ -7568,6 +7568,7 @@
 "bud";5;0;5
 "quartier-de-veille-active";5;0;5
 "zone-rurale";5;0;5
+"rncp";3;2;5
 "emploi-stable";5;0;5
 "ipdoc";5;0;5
 "secteur-academique";5;0;5
@@ -9049,7 +9050,6 @@
 "maisons-de-sante";4;0;4
 "itineraires-cyclables";4;0;4
 "zone-de-restructuration-de-la-defense";4;0;4
-"rncp";3;1;4
 "dt";4;0;4
 "commune-donnee";4;0;4
 "pole-d-equilibre-territorial-et-rural";4;0;4
@@ -16718,6 +16718,7 @@
 "ips";0;2;2
 "prix-controle-technique";0;2;2
 "opac";0;2;2
+"france-competences";0;2;2
 "2016-2018";2;0;2
 "coefficient-de-vegetalisation";2;0;2
 "installation-de-suivi-environnemental";2;0;2
@@ -33196,7 +33197,6 @@
 "recharge-voiture-electrique";0;1;1
 "nombre-de-voix";0;1;1
 "koumoul";0;1;1
-"france-competences";0;1;1
 "ecole-de-management";0;1;1
 "formation-permis";0;1;1
 "liste-parrainages";0;1;1
@@ -34044,3 +34044,4 @@
 "options-binaires";1;0;1
 "la-navette";1;0;1
 "statistiques-marketing-digital";1;0;1
+"gd4h";1;0;1
