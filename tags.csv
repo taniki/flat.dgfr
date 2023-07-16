@@ -1,7 +1,7 @@
 "name";"datasets";"reuses";"total"
 "donnees-ouvertes";20145;8;20153
 "passerelle-inspire";14992;0;14992
-"geospatial";5910;8;5918
+"geospatial";5912;8;5920
 "usage-des-sols";5548;4;5552
 "geoscientific-information";5170;1;5171
 "planning-cadastre";4889;1;4890
@@ -27,7 +27,7 @@
 "urbanisme";1516;18;1534
 "administration";1483;13;1496
 "occupation-du-sol";1363;15;1378
-"tourisme";1279;36;1315
+"tourisme";1281;36;1317
 "culture";1256;49;1305
 "mobilite";1244;58;1302
 "environment";1220;9;1229
@@ -81,8 +81,8 @@
 "hydrographie";619;6;625
 "ortho-imagerie";620;1;621
 "stationnement";609;9;618
+"velo";552;62;614
 "boundaries";611;1;612
-"velo";550;62;612
 "social";594;13;607
 "alea-enjeux-inondation-amenagement-urbanisme-prescription-prevention-servitude-risque-multi-risque";596;0;596
 "alea-enjeux-inondation-amenageme";596;0;596
@@ -473,6 +473,7 @@
 "politique";95;33;128
 "principaux";128;0;128
 "syndicat";126;2;128
+"voiture-electrique";122;6;128
 "risques-technologiques";128;0;128
 "clermont-auvergne-metropole";128;0;128
 "bdea";128;0;128
@@ -480,7 +481,6 @@
 "frequentation";123;4;127
 "logement-social";120;7;127
 "menage";126;1;127
-"voiture-electrique";121;6;127
 "referentiels-de-coordonnees";127;0;127
 "ozone";126;0;126
 "rhone";125;1;126
@@ -601,7 +601,6 @@
 "netex";103;1;104
 "risque-naturel";100;3;103
 "pss";103;0;103
-"borne-de-rechargement-electrique";103;0;103
 "i2g";103;0;103
 "covoiturage";88;14;102
 "monument";85;17;102
@@ -609,6 +608,7 @@
 "parc-naturel-regional";101;1;102
 "nom";101;1;102
 "musees";83;19;102
+"borne-de-rechargement-electrique";102;0;102
 "politique-de-la-ville";98;3;101
 "travail";71;30;101
 "cadre-de-vie-environnement";101;0;101
@@ -1243,6 +1243,7 @@
 "montagne";42;6;48
 "prestation";48;0;48
 "sites";47;1;48
+"sports-et-loisirs";45;3;48
 "zonages-eau";48;0;48
 "touques";48;0;48
 "bassin-darcachon";48;0;48
@@ -1262,7 +1263,6 @@
 "résultats";45;2;47
 "sncf";27;20;47
 "societes";43;4;47
-"sports-et-loisirs";44;3;47
 "terroir";45;2;47
 "partenariat";47;0;47
 "intercommunalites";47;0;47
@@ -1283,6 +1283,7 @@
 "indicateurs";38;8;46
 "repas";45;1;46
 "transport-public";40;6;46
+"vtt";46;0;46
 "gens-du-voyage";46;0;46
 "office-de-tourisme";45;1;46
 "dpds";46;0;46
@@ -1317,7 +1318,6 @@
 "square";45;0;45
 "telecommunication";44;1;45
 "urbain";44;1;45
-"vtt";45;0;45
 "donnee-generique-administratif";45;0;45
 "blagnac";45;0;45
 "dma";44;1;45
@@ -1383,6 +1383,7 @@
 "eau-assainissement";43;0;43
 "risque-risque-technologique";43;0;43
 "sa-c-curita-c-sanitaire";43;0;43
+"randonnees";43;0;43
 "climatology-meteorology-atmosphere";42;1;43
 "submersion-marine";42;1;43
 "biogaz";40;3;43
@@ -1432,7 +1433,6 @@
 "geobretagne";39;2;41
 "tres-haut-debit";38;3;41
 "carte-scolaire";36;5;41
-"randonnees";41;0;41
 "libre-service";41;0;41
 "bilan-social";41;0;41
 "bourse-detudes";40;1;41
@@ -2516,6 +2516,7 @@
 "dune-du-pilat";20;0;20
 "alpes-de-haute-provence";18;2;20
 "don-du-sang";3;17;20
+"itinerance";20;0;20
 "protection-de-lenvironnement";19;1;20
 "social-enfance-sante";20;0;20
 "rando";20;0;20
@@ -2751,7 +2752,6 @@
 "nca";18;0;18
 "aspects-militaires";18;0;18
 "point-dapport-volontaire";18;0;18
-"itinerance";18;0;18
 "finacement";18;0;18
 "jeunesse-animation-sport";18;0;18
 "grand-belfort";18;0;18
@@ -2771,7 +2771,6 @@
 "coronavirusenfrance";0;18;18
 "bus-et-tramway";18;0;18
 "ville-durable";17;1;18
-"borne-de-recharge-vehicule-electrique";18;0;18
 "vehicule-propre";18;0;18
 "agglopolys";18;0;18
 "infomapaccessservice";18;0;18
@@ -2907,11 +2906,13 @@
 "val-de-fensch";17;0;17
 "acquisition-de-la-nationalite-par-declaration";17;0;17
 "etat-du-milieu-geologie";17;0;17
+"pdesi";17;0;17
 "esri-france";1;16;17
 "coronavirusupdates";0;17;17
 "reseau-cyclable";17;0;17
 "corsica-statistica";17;0;17
 "plan-de-relance";16;1;17
+"borne-de-recharge-vehicule-electrique";17;0;17
 "limitesadministratives";17;0;17
 "metropole-rouen-normandie";17;0;17
 "gek";17;0;17
@@ -3203,7 +3204,6 @@
 "fxx";15;0;15
 "images-aeriennes";14;1;15
 "municipales-2020";8;7;15
-"pdesi";15;0;15
 "service-au-public";15;0;15
 "difficultes-des-entreprises";15;0;15
 "ep";15;0;15
@@ -11666,6 +11666,7 @@
 "parc-regional";3;0;3
 "esthetique";3;0;3
 "trame-noire";3;0;3
+"tourisme-durable";3;0;3
 "ccmacs-donnees-ouvertes";3;0;3
 "participation-financiere";3;0;3
 "droit-valide";3;0;3
@@ -16669,7 +16670,6 @@
 "foire-au-jambon";2;0;2
 "education-sexuelle";2;0;2
 "direction-territoriale-de-securite-de-proximite";2;0;2
-"tourisme-durable";2;0;2
 "etablissement-pour-adultes-handicapes";2;0;2
 "agglomeration-sophia-antipolis";2;0;2
 "kartenn";2;0;2
@@ -16821,6 +16821,7 @@
 "basse";2;0;2
 "reglementation-et-gestion-protection-patrimoniale-et-inventaire-autre";2;0;2
 "cd13";2;0;2
+"sport-et-loisirs";2;0;2
 "statistiques-rh";2;0;2
 "effectifs-rh";2;0;2
 "voronoi";1;1;2
@@ -34019,7 +34020,6 @@
 "skate-park";1;0;1
 "velibleu";1;0;1
 "comtat";1;0;1
-"sport-et-loisirs";1;0;1
 "nautiques";1;0;1
 "maison-dassistant-maternel";1;0;1
 "cstb";0;1;1
