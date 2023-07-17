@@ -56,7 +56,7 @@
 "sport";696;70;766
 "population";703;62;765
 "equipements";732;15;747
-"eau";718;21;739
+"eau";718;22;740
 "intercommunalite";727;3;730
 "bretagne";672;52;724
 "pas-de-calais";721;2;723
@@ -14702,6 +14702,7 @@
 "urbanisme-pos-plu-carte-commmunale-zonage";2;0;2
 "vitenville";2;0;2
 "postes-electriques";2;0;2
+"domotique";0;2;2
 "ville-de-nancy";2;0;2
 "communes-desservies";2;0;2
 "attributions";2;0;2
@@ -25186,7 +25187,6 @@
 "postes-de-transformation";1;0;1
 "reperes-onf";1;0;1
 "domoticz";0;1;1
-"domotique";0;1;1
 "lua";0;1;1
 "appareillage";1;0;1
 "appel-de-puissance";1;0;1
@@ -34056,3 +34056,5 @@
 "maison-dassistantes-maternels";1;0;1
 "ecole-du-bonheur";1;0;1
 "club-senior";1;0;1
+"vigieau";0;1;1
+"home-assistant";0;1;1
