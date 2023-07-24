@@ -1,5 +1,5 @@
 "name";"datasets";"reuses";"total"
-"donnees-ouvertes";20141;8;20149
+"donnees-ouvertes";20172;8;20180
 "passerelle-inspire";14990;0;14990
 "geospatial";5901;8;5909
 "usage-des-sols";5548;4;5552
@@ -18,10 +18,10 @@
 "prise-de-vues";1709;0;1709
 "prise-de-vue";1706;0;1706
 "carte";1483;217;1700
+"plu";1694;4;1698
 "1973";1698;0;1698
 "france";1558;127;1685
-"plu";1666;4;1670
-"transport";1588;39;1627
+"transport";1589;39;1628
 "finances-publiques";1557;4;1561
 "citoyennete";1542;6;1548
 "urbanisme";1515;18;1533
@@ -66,17 +66,17 @@
 "emploi";668;42;710
 "unites-administratives";696;1;697
 "batiments";690;5;695
-"reseaux-de-transport";691;1;692
+"reseaux-de-transport";692;1;693
 "2019";679;4;683
 "ppr";681;1;682
 "insee";630;50;680
 "citoyennete-institution";664;0;664
 "deplacements";660;2;662
 "donnees-publiques";649;4;653
-"bus";621;30;651
-"geoportail";636;1;637
+"bus";622;30;652
+"geoportail";637;1;638
 "somme";635;2;637
-"adresse";621;14;635
+"adresse";622;14;636
 "hydrographie";619;6;625
 "ortho-imagerie";619;1;620
 "stationnement";611;9;620
@@ -97,7 +97,7 @@
 "aisne";533;1;534
 "formation";501;31;532
 "route";524;8;532
-"gtfs";514;11;525
+"gtfs";515;11;526
 "epci";492;26;518
 "alea-enjeux-inondation-amenagement-urbanis";514;0;514
 "biodiversite";498;10;508
@@ -110,7 +110,7 @@
 "developpement-economique";470;2;472
 "equipement";460;10;470
 "mutation";463;2;465
-"adresses";449;9;458
+"adresses";450;9;459
 "voirie";442;11;453
 "deplacement";449;2;451
 "statistiques";406;44;450
@@ -261,10 +261,10 @@
 "inondations";213;0;213
 "precipitations";212;1;213
 "zone";211;2;213
+"ban";202;9;211
 "dreal-na";211;0;211
 "associations";188;22;210
 "economy";208;2;210
-"ban";201;9;210
 "mesures";207;0;207
 "musique";196;11;207
 "business";206;0;206
@@ -287,6 +287,7 @@
 "ens";196;1;197
 "donnees-geographiques";197;0;197
 "bureaux-de-vote";192;4;196
+"planification";195;1;196
 "risques-naturels";193;3;196
 "coronavirus";82;114;196
 "landes-40";195;0;195
@@ -347,7 +348,6 @@
 "risque-technologique";167;1;168
 "perimetre";168;0;168
 "consultation";166;1;167
-"planification";165;1;166
 "reseaux";159;7;166
 "resultats";160;6;166
 "pollution-atmospherique";165;1;166
@@ -478,6 +478,7 @@
 "referentiels-de-coordonnees";127;0;127
 "archives";120;6;126
 "borne";123;3;126
+"carte-communale";123;3;126
 "rhone";125;1;126
 "estuaire";126;0;126
 "caux";126;0;126
@@ -486,7 +487,6 @@
 "borne-de-recharge-electrique";123;2;125
 "metropole-golfe-de-gascogne";125;0;125
 "bourgogne";122;2;124
-"carte-communale";121;3;124
 "climat";109;15;124
 "communaute";123;1;124
 "investissement";111;13;124
@@ -887,6 +887,7 @@
 "promenade";68;1;69
 "regionales";66;3;69
 "vls";69;0;69
+"postale";68;1;69
 "plan-local-urbanisme";69;0;69
 "haut-rhin";68;1;69
 "comptes-consolides";69;0;69
@@ -896,7 +897,6 @@
 "filiere";68;0;68
 "statistique";54;14;68
 "visiteur";68;0;68
-"postale";67;1;68
 "vanves";68;0;68
 "politique-regionale";68;0;68
 "station-de-charge";67;1;68
@@ -1166,6 +1166,7 @@
 "mediation-numerique";51;0;51
 "intemperies";51;0;51
 "agricole";48;2;50
+"archive";48;2;50
 "asile";48;2;50
 "cantonales";48;2;50
 "conteneurs";50;0;50
@@ -1192,7 +1193,6 @@
 "referentiel-routier";50;0;50
 "geology";50;0;50
 "academie";43;6;49
-"archive";47;2;49
 "automobile";42;7;49
 "bec";49;0;49
 "debit";48;1;49
@@ -1208,6 +1208,7 @@
 "vendee";47;2;49
 "unite-paysagere";49;0;49
 "elections-departementales";44;5;49
+"plan-local-durbanisme";49;0;49
 "montivilliers";49;0;49
 "rolleville";49;0;49
 "cauville";49;0;49
@@ -1559,7 +1560,6 @@
 "energie-production";31;6;37
 "relais";37;0;37
 "uai";36;1;37
-"plan-local-durbanisme";37;0;37
 "dreal-interne";37;0;37
 "metromobilite";36;1;37
 "la-rochelle";36;1;37
@@ -5714,6 +5714,7 @@
 "politiques-publiques";7;0;7
 "moselotte";7;0;7
 "vol";5;2;7
+"nra";7;0;7
 "gip-e-bourgogne-franche-comte";7;0;7
 "amenagement-urbanisme-assiette-s";7;0;7
 "de-restriction-ou-de-reglementat";7;0;7
@@ -6354,7 +6355,6 @@
 "atlas-des-brevets";6;0;6
 "n-topographie";4;2;6
 "propriete-intellectuelle";3;3;6
-"nra";6;0;6
 "acheteurs-publics";5;1;6
 "plantation-darbres";5;1;6
 "chrysomele-diabrotica-virgifera-mais-sante-vegetale-alsace";6;0;6
@@ -10016,6 +10016,7 @@
 "cadeillan";3;0;3
 "catonvielle";3;0;3
 "cazaux-saves";3;0;3
+"cc";3;0;3
 "cologne";3;0;3
 "condom";3;0;3
 "cuelas";3;0;3
@@ -15922,6 +15923,7 @@
 "teleski";2;0;2
 "random-forest";0;2;2
 "bnls";2;0;2
+"pan";2;0;2
 "energie-tour";2;0;2
 "bairols";2;0;2
 "beaulieu-sur-mer";2;0;2
@@ -20207,7 +20209,6 @@
 "castelnau-barbarens";1;0;1
 "castera-verduzan";1;0;1
 "castillon-saves";1;0;1
-"cc";1;0;1
 "classement-bruit";1;0;1
 "comparateur mtuelle";1;0;1
 "contrat-riviere";1;0;1
@@ -29527,7 +29528,6 @@
 "powerslide";0;1;1
 "xgboost";0;1;1
 "entrees-parking";1;0;1
-"pan";1;0;1
 "etudes-apec";1;0;1
 "ems";1;0;1
 "figeac";1;0;1
