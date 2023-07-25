@@ -1,5 +1,5 @@
 "name";"datasets";"reuses";"total"
-"donnees-ouvertes";20172;8;20180
+"donnees-ouvertes";20193;8;20201
 "passerelle-inspire";14990;0;14990
 "geospatial";5901;8;5909
 "usage-des-sols";5548;4;5552
@@ -15,10 +15,10 @@
 "casq";1771;0;1771
 "photo";1739;1;1740
 "budget";1711;20;1731
+"plu";1716;4;1720
 "prise-de-vues";1709;0;1709
 "prise-de-vue";1706;0;1706
 "carte";1483;217;1700
-"plu";1694;4;1698
 "1973";1698;0;1698
 "france";1558;127;1685
 "transport";1589;39;1628
@@ -251,6 +251,7 @@
 "normandie";218;2;220
 "topographie";213;5;218
 "dce";217;0;217
+"planification";216;1;217
 "trame-verte-et-bleue";217;0;217
 "covid";69;148;217
 "transport-collectif";213;3;216
@@ -287,7 +288,6 @@
 "ens";196;1;197
 "donnees-geographiques";197;0;197
 "bureaux-de-vote";192;4;196
-"planification";195;1;196
 "risques-naturels";193;3;196
 "coronavirus";82;114;196
 "landes-40";195;0;195
@@ -931,6 +931,7 @@
 "visualisation";2;63;65
 "zonages-amenagement";64;1;65
 "voitures-electriques";64;1;65
+"plan-local-durbanisme";65;0;65
 "premiere-guerre-mondiale";2;63;65
 "government";65;0;65
 "dvf";14;51;65
@@ -1208,7 +1209,6 @@
 "vendee";47;2;49
 "unite-paysagere";49;0;49
 "elections-departementales";44;5;49
-"plan-local-durbanisme";49;0;49
 "montivilliers";49;0;49
 "rolleville";49;0;49
 "cauville";49;0;49
@@ -16823,6 +16823,7 @@
 "effectifs-rh";2;0;2
 "voronoi";1;1;2
 "transports-circuits-scolaires-itineraires";2;0;2
+"sr";2;0;2
 "parc-jardin-arboretum";2;0;2
 "apatride";2;0;2
 "112";1;0;1
@@ -34080,7 +34081,6 @@
 "me-superficielles";1;0;1
 "stationnement-nocturne";1;0;1
 "nom-table-geobase";1;0;1
-"sr";1;0;1
 "cypre";1;0;1
 "les-agences-bancaires";1;0;1
 "agences-bancaires";1;0;1
