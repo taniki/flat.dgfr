@@ -2,7 +2,7 @@
 "donnees-ouvertes";20367;8;20375
 "passerelle-inspire";14981;0;14981
 "geospatial";5902;8;5910
-"usage-des-sols";5622;4;5626
+"usage-des-sols";5635;4;5639
 "geoscientific-information";5170;1;5171
 "planning-cadastre";4889;1;4890
 "risque-zonages-risque-naturel";4510;1;4511
@@ -20,11 +20,11 @@
 "prise-de-vue";1706;0;1706
 "carte";1483;217;1700
 "1973";1698;0;1698
+"transport";1657;39;1696
 "france";1557;127;1684
-"transport";1644;39;1683
 "finances-publiques";1558;4;1562
+"administration";1545;13;1558
 "citoyennete";1543;6;1549
-"administration";1532;13;1545
 "urbanisme";1517;18;1535
 "occupation-du-sol";1386;15;1401
 "tourisme";1272;37;1309
@@ -34,7 +34,7 @@
 "open-data";1127;28;1155
 "economie";1098;55;1153
 "amenagement-du-territoire";1125;7;1132
-"occupation-des-terres";1110;1;1111
+"occupation-des-terres";1123;1;1124
 "pprn";1083;0;1083
 "territoire";952;16;968
 "inondation";960;5;965
@@ -47,19 +47,19 @@
 "zones-de-gestion-de-restriction-ou-de-reglementat";907;0;907
 "donnee-ouverte";883;3;886
 "patrimoine";810;20;830
+"eau";788;22;810
 "election";756;48;804
 "hauts-de-france";794;6;800
-"eau";775;22;797
 "education";738;50;788
 "finances";751;29;780
 "gouvernement";771;9;780
 "risque";771;2;773
 "sport";697;70;767
 "population";703;62;765
-"batiments";743;5;748
+"batiments";756;5;761
+"unites-administratives";760;1;761
+"reseaux-de-transport";757;1;758
 "equipements";733;15;748
-"unites-administratives";747;1;748
-"reseaux-de-transport";744;1;745
 "intercommunalite";727;3;730
 "bretagne";673;52;725
 "pas-de-calais";721;2;723
@@ -67,7 +67,7 @@
 "geolocalisation";655;59;714
 "sante";617;95;712
 "emploi";669;42;711
-"hydrographie";686;6;692
+"hydrographie";699;6;705
 "ppr";681;1;682
 "2019";677;4;681
 "insee";630;50;680
@@ -90,8 +90,8 @@
 "base-adresse-locale";584;1;585
 "ocs-ge2-grand-est";578;0;578
 "agriculture";532;37;569
+"demographie";515;47;562
 "amenagement";543;8;551
-"demographie";502;47;549
 "oise";548;1;549
 "communes";457;88;545
 "risque-inondation";536;2;538
@@ -116,29 +116,29 @@
 "statistiques";407;44;451
 "zonages-risque-naturel";450;0;450
 "circulation";425;24;449
+"altitude";438;7;445
 "recherche";412;28;440
 "transportation";437;3;440
 "grand-est";436;4;440
+"sols";437;2;439
 "subvention";428;10;438
-"altitude";425;7;432
 "rhone-alpes";428;2;430
-"sols";424;2;426
 "ddt-54";426;0;426
 "orthophoto-regionale";426;0;426
 "farming";424;0;424
 "2020";417;2;419
 "entreprise";399;18;417
+"industrie";408;6;414
 "geologie";412;0;412
 "photographies-aeriennes";411;0;411
+"energie";362;46;408
 "assainissement";403;2;405
 "inland-waters";405;0;405
 "bal";401;4;405
 "services";398;6;404
 "cartographie";285;117;402
-"industrie";395;6;401
 "cadastre";363;37;400
 "commerce";366;33;399
-"energie";349;46;395
 "developpement-durable";377;15;392
 "irve";381;7;388
 "donnees";368;17;385
@@ -166,10 +166,10 @@
 "parking";335;12;347
 "dreal";347;0;347
 "2018";334;2;336
+"repartition-de-la-population";335;1;336
 "region";288;44;332
 "covid19";138;194;332
 "openstreetmap";270;61;331
-"repartition-de-la-population";322;1;323
 "nuisance-bruit";317;0;317
 "2017";307;10;317
 "subventions";294;21;315
@@ -190,6 +190,7 @@
 "cd-53";290;0;290
 "biota";285;1;286
 "covid-19";109;177;286
+"lieux-de-production-et-sites-industriels";279;0;279
 "hebergement";270;7;277
 "planification";276;1;277
 "trafic";273;4;277
@@ -209,7 +210,6 @@
 "types-de-sols";268;0;268
 "territoires";250;17;267
 "enfance";263;3;266
-"lieux-de-production-et-sites-industriels";266;0;266
 "society";266;0;266
 "data-gouv";264;2;266
 "m71";265;0;265
@@ -259,6 +259,7 @@
 "transport-collectif";213;3;216
 "voiture";194;22;216
 "association";196;19;215
+"geographie";185;29;214
 "inondations";213;0;213
 "precipitations";212;1;213
 "zone";211;2;213
@@ -280,7 +281,6 @@
 "pme";200;2;202
 "batiment";191;10;201
 "bibliotheque";193;8;201
-"geographie";172;29;201
 "metro";188;13;201
 "migrant";200;0;200
 "securite";172;28;200
@@ -299,6 +299,7 @@
 "deliberations";188;4;192
 "terrain";184;8;192
 "dreal-bfc";192;0;192
+"referentiels-de-coordonnees";191;0;191
 "randonnee";185;5;190
 "transports-en-commun";175;15;190
 "ign";178;11;189
@@ -314,6 +315,7 @@
 "station-meteo";185;1;186
 "ocsge";186;0;186
 "ocsge2";185;0;185
+"information";177;7;184
 "oceans";180;3;183
 "enseignement-formation-recherche";180;3;183
 "concentration-de-polluant";182;1;183
@@ -321,7 +323,6 @@
 "littoral";176;5;181
 "reseau-de-transport";175;6;181
 "2015";175;5;180
-"referentiels-de-coordonnees";178;0;178
 "accessibilite";165;12;177
 "limite";177;0;177
 "élections";155;22;177
@@ -341,7 +342,6 @@
 "numerique";164;8;172
 "routes";156;16;172
 "foret";159;12;171
-"information";164;7;171
 "borne-de-recharge";167;4;171
 "infrastructure";162;8;170
 "limites";165;5;170
@@ -450,6 +450,7 @@
 "api";50;83;133
 "parcelle";123;10;133
 "isere";129;4;133
+"denominations-geographiques";132;0;132
 "evolution";109;23;132
 "police";114;18;132
 "reunion";131;1;132
@@ -520,7 +521,6 @@
 "plan-local-durbanisme";120;0;120
 "cote-rocheuse";120;0;120
 "adressage";119;1;120
-"denominations-geographiques";119;0;119
 "electricite";105;14;119
 "loi-de-finances";118;1;119
 "maternelle";118;1;119
@@ -651,6 +651,7 @@
 "etat";86;8;94
 "prenom";70;24;94
 "protection";88;6;94
+"installations-agricoles-et-aquacoles";94;0;94
 "utility-and-governmental-services";94;0;94
 "entrée en france";93;0;93
 "iris";75;18;93
@@ -742,6 +743,7 @@
 "aleas";82;0;82
 "nord-pas-de-calais";81;1;82
 "borne-de-rechargement-electrique";82;0;82
+"aspects-militaires";82;0;82
 "cac";81;1;82
 "smica";82;0;82
 "2023";82;0;82
@@ -752,7 +754,6 @@
 "photovoltaique";71;10;81
 "producteur";77;4;81
 "voyages";81;0;81
-"installations-agricoles-et-aquacoles";81;0;81
 "citoyennete-et-administration";81;0;81
 "zone-propice";81;0;81
 "ans";80;0;80
@@ -903,7 +904,6 @@
 "plan-local-urbanisme";69;0;69
 "haut-rhin";68;1;69
 "comptes-consolides";69;0;69
-"aspects-militaires";69;0;69
 "loi-de-finances-initiale";69;0;69
 "atlas";63;5;68
 "cinéma";53;15;68
@@ -959,6 +959,7 @@
 "public-finances";64;0;64
 "adresses-locales";64;0;64
 "directive-cadre-sur-l-eau-dce";64;0;64
+"services-dutilite-publique-et-services-publiques";64;0;64
 "accident";43;20;63
 "autobus";60;3;63
 "cantine";61;2;63
@@ -1169,7 +1170,6 @@
 "education-formation";50;1;51
 "mediation-numerique";51;0;51
 "intemperies";51;0;51
-"services-dutilite-publique-et-services-publiques";51;0;51
 "academie";44;6;50
 "agricole";48;2;50
 "asile";48;2;50
